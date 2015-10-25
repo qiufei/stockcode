@@ -1,0 +1,198 @@
+---
+title: "invest"
+author: "qiufei"
+output: 
+  html_document: 
+    fig_caption: yes
+    keep_md: yes
+    number_sections: yes
+    theme: readable
+    toc: yes
+---
+
+```{r,echo=FALSE,include=FALSE}
+
+library(knitr)
+library(stats)
+library(utils)
+library(knitr)
+library(ggplot2)
+library(ggthemes)
+library(reshape2)
+library(plyr)
+library(dplyr)
+library(Quandl)
+Quandl.api_key("9iGeZZoG6Vc46rfs1AgJ")
+library(quantmod)
+library(xlsx)
+opts_chunk$set(cache=TRUE,echo=FALSE)
+## options(digits = 2)
+
+## get the stock code of china
+stockcode = read.csv(file = 'stockcode.csv', header = TRUE)
+stockcode$sename = tolower(stockcode$sename)
+stockcode$stockcode = as.character(stockcode$stockcode )
+str(stockcode)
+
+## prepare the stockcode as input of mystock function
+codelist = stockcode[,2:3]
+## the colnames of code list must be the formal augument names of function mystock
+colnames(codelist)=c("se.name","se.code")
+
+## the function to get stock data from yahoo finance
+mystock.assign = function(se.name,se.code){
+   yahoo = try(getSymbols(Symbols = se.code,from="1991-07-15",warnings = FALSE),silent = TRUE)
+   if (class(yahoo) == "try-error") assign(se.name, NA, envir= globalenv())
+   else assign(se.name, get(yahoo), envir= globalenv())
+}
+
+mystock.assign("ss600000","600000.SS")
+
+
+## the difference between mystock.assing and mystock.return is :the former will get an object whose value is NA in the global environment(such as sz000033 = NA) ,but the latter will not. mytock.return just echo a "NA" in the console.
+mystock.return = function(se.name,se.code){
+   yahoo = try(getSymbols(Symbols = se.code,from="1991-07-15",warnings = FALSE),silent = TRUE)
+   if (class(yahoo) == "try-error") se.name = NA
+   else se.name = get(yahoo) 
+   return(se.name)
+}
+mystock.return("sz000033","000033.SZ")
+
+
+allstock = mlply(codelist,mystock.assign)
+
+
+```
+
+# stock all
+
+```{r}
+
+mymean = function(sename,secode,alltime,normaltime,recentime){
+    setSymbolLookup(sename = list(name = secode,src='yahoo'))
+    getSymbols("sename",from="1996-01-01")
+    median.all = median(dataname[,4])
+    data.normal = dataname[notmaltime]
+    median.normal = median(data.normal[,4])
+    data.recent = dataname[recentime]
+    median.recent = median(data.recent[,4])
+    myresult = as.data.frame( all = median.all, normal = median.normal, recent = median.recent)
+}
+
+
+
+
+
+```
+
+# mystock function
+
+function `mystock`.
+
+the value of first and second argument must be character.the third argument `in.env` is to set the environment. `in.env = globalenv()` is to set the default value of the third argument as `globalenv()`.
+
+the purpose of `in.env = globalenv()` is to get the result of the function to the global invironment
+
+```{r}
+
+
+mystock = function(se.name,se.code){
+   assign(se.name, 
+          get(getSymbols(Symbols = se.code,from="2015-10-11")),
+          envir= globalenv())
+}
+mystock(sz000004,000004.SZ)
+
+
+
+mystock2 = function(se.name,se.code){
+  eval(parse(text = sprintf("setSymbolLookup(%s = list(name = '%s', src='yahoo'))", se.name, se.code)))
+  assign(se.name, 
+          get(getSymbols(Symbols = se.name,from="2015-10-07")),
+          envir= globalenv())
+}
+mystock2("sz000002","000002.SZ")
+
+save(codelist,file = "codelist.csv")
+
+```
+
+
+# younger
+
+
+```{r}
+
+setSymbolLookup(younger=list(name='600177.SS',src='yahoo'))
+getSymbols("younger",from="1996-01-01")
+
+summary(YOUNGER[,4])
+
+## get the normal time
+normal.time = c('2008-06-01::2014-06-01','2015-08-01::')
+younger.normal = YOUNGER[normal.time]
+summary(younger.normal[,4])
+
+
+## get the data from 2015-08-01
+recent.time = c('2015-08-01::')
+younger.recent = YOUNGER[recent.time]
+summary(younger.recent[,4])
+
+```
+the longtime median of younger is `r median(YOUNGER[,4])`,10.58; the normal time median of younger is `r median(younger.normal)`,9.96;the recent time median of younger is `r median(younger.recent)`,13.06.
+
+that is to say that you can purchase younger between 10.58~13.06 relatively safe.
+
+x = function
+		x = 2*3
+
+
+# sh
+
+```{r}
+
+setSymbolLookup(shdex=list(name='000001.SS',src='yahoo'))
+getSymbols("shdex",from="1996-01-01")
+
+normal.time.sh = c('2008-06-01::2014-06-01','2015-08-01::')
+shdex.normal = SHDEX[normal.time.sh]
+summary(shdex.normal[,4])
+
+recent.time = c('2015-08-01::')
+shdex.recent = SHDEX[recent.time]
+summary(shdex.recent[,4])
+
+
+```
+the shdex mormal time median is 2419,`r median(shdex.normal[,4])`.
+
+the shdex rencent time median is 3210, the 1st quantile is 3115, the minimum is 2927.
+
+**next step find the stock whose (last day price - median)/median is the smallest**
+
+
+# plot using quantmod
+
+```{r}
+
+## be careful! there two : between 2009-01-01 and 2015-01-01!
+## chartSeries(YOUNGER,subset='2009-01-01::2015-01-01',theme = "white") 
+
+## chartSeries(YOUNGER,theme = "white") 
+
+```
+		
+
+# convert xts into dataframe
+
+```{r}
+
+## setSymbolLookup(younger=list(name='600177.SS',src='yahoo'))
+## getSymbols("younger",from="1996-01-01")
+## # getsymbols gave the uppercase,which is xts object. now we convert it into a dataframe object,whose name is lowercase
+## younger=cbind(as.data.frame(time(YOUNGER)),as.data.frame(coredata(YOUNGER)))
+## colnames(younger)=c("time","open","high","low","close","volnume","adjusted") 
+
+
+```
