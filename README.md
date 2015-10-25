@@ -1,2 +1,2 @@
 # sec
-ss,sh.
+sz,sh.
