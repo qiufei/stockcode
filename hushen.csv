@@ -1,0 +1,2935 @@
+code,name
+GOOG/SHA_000001,SSE Composite Index (000001)
+GOOG/SHA_000002,SSE A Share Index (000002)
+GOOG/SHA_000003,SSE B Share Index (000003)
+GOOG/SHA_000004,SSE Industrial Index (000004)
+GOOG/SHA_000005,SSE Commercial Index (000005)
+GOOG/SHA_000006,SSE Real Estate Index (000006)
+GOOG/SHA_000007,SSE Utilities Index (000007)
+GOOG/SHA_000008,SSE Conglomerates Index (000008)
+GOOG/SHA_000009,SSE 380 Index (000009)
+GOOG/SHA_000010,SSE 180 Index (000010)
+GOOG/SHA_000011,SSE Fund Index (000011)
+GOOG/SHA_000012,SSE Government Bond Index (000012)
+GOOG/SHA_000013,SSE Corporate Bond Index (000013)
+GOOG/SHA_000015,SSE Dividend Index (000015)
+GOOG/SHA_000016,SSE 50 Index (000016)
+GOOG/SHA_000017,SSE New Composite Index (000017)
+GOOG/SHA_000018,SSE 180 Financials Index (000018)
+GOOG/SHA_000019,SSE Corporate Governance Index (000019)
+GOOG/SHA_000020,SSE Medium Enterprise Composite Index (000020)
+GOOG/SHA_000022,SSE Enterprise Bond Index (000022)
+GOOG/SHA_000023,SSE Detachable Convertible Bond Index (000023)
+GOOG/SHA_000025,SSE 180 Infrastructure Index (000025)
+GOOG/SHA_000026,SSE 180 Natural Resource Index (000026)
+GOOG/SHA_000027,SSE 180 Transportation Index (000027)
+GOOG/SHA_000028,SSE 180 Growth Index (000028)
+GOOG/SHA_000029,SSE 180 Value Index (000029)
+GOOG/SHA_000030,SSE 180 relative Growth Index (000030)
+GOOG/SHA_000032,SSE Energy Sector Index (000032)
+GOOG/SHA_000033,SSE Materials Sector Index (000033)
+GOOG/SHA_000034,SSE Industrials Sector Index (000034)
+GOOG/SHA_000035,SSE Consumer Discretionary Sector Index (000035)
+GOOG/SHA_000036,SSE Consumer Staples Sector Index (000036)
+GOOG/SHA_000037,SSE Health Care Sector Index (000037)
+GOOG/SHA_000038,SSE Financials Sector Index (000038)
+GOOG/SHA_000039,SSE Information Technology Sector Index (000039)
+GOOG/SHA_000040,SSE Telecommunication Services Sector Index (000040)
+GOOG/SHA_000041,SSE Utilities Sector Index (000041)
+GOOG/SHA_000042,SSE Central State-owned Enterprises 50 Index (000042)
+GOOG/SHA_000043,SSE Mega-cap Index (000043)
+GOOG/SHA_000044,SSE MidCap Index (000044)
+GOOG/SHA_000045,SSE SmallCap Index (000045)
+GOOG/SHA_000046,SSE Mid&amp;Small Cap Index (000046)
+GOOG/SHA_000047,SSE Large&amp;Mid&amp;Small Cap Index (000047)
+GOOG/SHA_000048,SSE Social Responsibility Index (000048)
+GOOG/SHA_000049,SSE Private-owned Enterprises 50 Index (000049)
+GOOG/SHA_000050,SSE 50 Equal Weight Index (000050)
+GOOG/SHA_000051,SSE 180 Equal Weight Index Index (000051)
+GOOG/SHA_000052,SSE50 Fundamental Weighted Index (000052)
+GOOG/SHA_000053,SSE180 Fundamental Weighted Index (000053)
+GOOG/SHA_000054,SSE Overseas-listing A shares Index (000054)
+GOOG/SHA_000055,SSE Local State-owned Enterprises 50 Index (000055)
+GOOG/SHA_000056,SSE State-owned Enterprises 100 Index (000056)
+GOOG/SHA_000057,SSE Large&amp;Mid&amp;Small Cap growth Index (000057)
+GOOG/SHA_000058,SSE Large&amp;Mid&amp;Small Cap value Index (000058)
+GOOG/SHA_000059,SSE Large&amp;Mid&amp;Small Cap relative growth Index (000059)
+GOOG/SHA_000060,SSE Large&amp;Mid&amp;Small Cap relative value Index (000060)
+GOOG/SHA_000061,SSE Corporate Bond 30 Index (000061)
+GOOG/SHA_000062,SSE Shanghai Local Company Index (000062)
+GOOG/SHA_000063,SSE Cyclical Industry 50 Index (000063)
+GOOG/SHA_000064,SSE non-Cyclical Industry 100 Index (000064)
+GOOG/SHA_000065,SSE Industry Top Index (000065)
+GOOG/SHA_000066,SSE Commodity Equity Index (000066)
+GOOG/SHA_000067,SSE Emerging Industries Index (000067)
+GOOG/SHA_000068,SSE Natural Resource Index (000068)
+GOOG/SHA_000069,SSE Consumer 80 Index (000069)
+GOOG/SHA_000070,SSE Energy Sector Equal Weight Index (000070)
+GOOG/SHA_000071,SSE Materials Sector Equal Weight Index (000071)
+GOOG/SHA_000072,SSE Industrials Sector Equal Weight Index (000072)
+GOOG/SHA_000073,SSE Consumer Discretionary Sector Equal Weight Index (000073)
+GOOG/SHA_000074,SSE Consumer Staples Sector Equal Weight Index (000074)
+GOOG/SHA_000075,SSE Health Care Sector Equal Weight Index (000075)
+GOOG/SHA_000076,SSE Financials Sector Equal Weight Index (000076)
+GOOG/SHA_000077,SSE Information Technology Sector Equal Weight Index (000077)
+GOOG/SHA_000078,SSE Telecommunication Services Sector Equal Weight Index (000078)
+GOOG/SHA_000079,SSE Utilities Sector Equal Weight Index (000079)
+GOOG/SHA_000090,SSE Free Float Index (000090)
+GOOG/SHA_000091,SSE Wealth Mid-Small Index (000091)
+GOOG/SHA_000092,SSE Resource 50 index Index (000092)
+GOOG/SHA_000093,SSE 180 Sector Equal Weight Index Index (000093)
+GOOG/SHA_000094,SSE Upstream Industry Index Index (000094)
+GOOG/SHA_000095,SSE Midstream Industry Index Index (000095)
+GOOG/SHA_000096,SSE Downstream Industry Index Index (000096)
+GOOG/SHA_000097,SSE High-End Equipment Manufacturing 60 index Index (000097)
+GOOG/SHA_000098,SSEF 200 Index (000098)
+GOOG/SHA_000099,SSEF 300 Index (000099)
+GOOG/SHA_000100,SSEF 500 Index (000100)
+GOOG/SHA_000101,SSE 5-Year Credit Bond Index Index (000101)
+GOOG/SHA_000102,SSE Investment Commodity Index Index (000102)
+GOOG/SHA_000103,SSE Consume Commodity Index Index (000103)
+GOOG/SHA_000104,SSE 380 Energy Index Index (000104)
+GOOG/SHA_000105,SSE 380 Materials Index Index (000105)
+GOOG/SHA_000106,SSE 380 Industrials Index Index (000106)
+GOOG/SHA_000107,SSE 380 Consumer Discretionary Index Index (000107)
+GOOG/SHA_000108,SSE 380 Consumer Staples Index Index (000108)
+GOOG/SHA_000109,SSE 380 Health Care Index Index (000109)
+GOOG/SHA_000110,SSE 380 Financials Index Index (000110)
+GOOG/SHA_000111,SSE 380 Information Technology Index Index (000111)
+GOOG/SHA_000112,SSE 380 Telecommunication Services Index Index (000112)
+GOOG/SHA_000113,SSE 380 Utilities Index Index (000113)
+GOOG/SHA_000114,SSE Sustainable Development Industry Index (000114)
+GOOG/SHA_000115,SSE 380 Equal Weight Index (000115)
+GOOG/SHA_000116,SSE Credit Bond 100 Index (000116)
+GOOG/SHA_000117,SSE 380 Growth Index Index (000117)
+GOOG/SHA_000118,SSE 380 Value Index Index (000118)
+GOOG/SHA_000119,SSE 380 Relative Growth Index Index (000119)
+GOOG/SHA_000120,SSE 380 Relative Value Index Index (000120)
+GOOG/SHA_000121,SSE Health Care theme Index Index (000121)
+GOOG/SHA_000122,SSE agriculture theme index Index (000122)
+GOOG/SHA_000123,SSE 180 Dynamic Index (000123)
+GOOG/SHA_000125,SSE 180 Stability Index (000125)
+GOOG/SHA_000126,SSE Consumer 50 Index Index (000126)
+GOOG/SHA_000128,SSE380 Fundamental Weighted Index (000128)
+GOOG/SHA_000129,SSE180 Volatility Weighted Index (000129)
+GOOG/SHA_000130,SSE380 Volatility Weighted Index (000130)
+GOOG/SHA_000131,SSE High and New Technology Enterprises Index (000131)
+GOOG/SHA_000132,SSE 100 Index (000132)
+GOOG/SHA_000133,SSE 150 Index (000133)
+GOOG/SHA_000134,SSE Banks Index (000134)
+GOOG/SHA_000135,SSE 180 High Beta Index (000135)
+GOOG/SHA_000136,SSE 180 Low Beta Index (000136)
+GOOG/SHA_000137,SSE 380 High Beta Index (000137)
+GOOG/SHA_000138,SSE 380 Low Beta Index (000138)
+GOOG/SHA_000139,SSE Convertible Bond Index (000139)
+GOOG/SHA_000141,SSE 380 Dynamic Index (000141)
+GOOG/SHA_000142,SSE 380 Stability Index (000142)
+GOOG/SHA_000145,SSE Select Resources Industries Index (000145)
+GOOG/SHA_000146,SSE Select Manufacturing Industries Index (000146)
+GOOG/SHA_000147,SSE Select Consumption Industries Index (000147)
+GOOG/SHA_000148,SSE Leading Consumption and Services Index (000148)
+GOOG/SHA_000149,SSE 180 Dividend Index (000149)
+GOOG/SHA_000150,SSE 380 Dividend Index (000150)
+GOOG/SHA_000151,SSE State-owned Enterprises Dividend Index (000151)
+GOOG/SHA_000152,SSE Central State-owned Enterprises Dividend Index (000152)
+GOOG/SHA_000153,SSE Private-owned Enterprises Dividend Index (000153)
+GOOG/SHA_000155,SSE Market Value Top 100 Index (000155)
+GOOG/SHA_000158,SSE Environmental Protection Industry Index (000158)
+GOOG/SHA_000300,CSI 300 Index (000300)
+GOOG/SHA_000801,SHA (000801)
+GOOG/SHA_000802,SHA (000802)
+GOOG/SHA_000803,SHA (000803)
+GOOG/SHA_000804,SHA (000804)
+GOOG/SHA_000805,SHA (000805)
+GOOG/SHA_000806,SHA (000806)
+GOOG/SHA_000807,SHA (000807)
+GOOG/SHA_000808,SHA (000808)
+GOOG/SHA_000809,SHA (000809)
+GOOG/SHA_000810,SHA (000810)
+GOOG/SHA_000811,SHA (000811)
+GOOG/SHA_000812,SHA (000812)
+GOOG/SHA_000813,SHA (000813)
+GOOG/SHA_000814,SHA (000814)
+GOOG/SHA_000815,SHA (000815)
+GOOG/SHA_000816,SHA (000816)
+GOOG/SHA_000817,SHA (000817)
+GOOG/SHA_000818,SHA (000818)
+GOOG/SHA_000819,SHA (000819)
+GOOG/SHA_000820,SHA (000820)
+GOOG/SHA_000821,SHA (000821)
+GOOG/SHA_000822,SHA (000822)
+GOOG/SHA_000823,SHA (000823)
+GOOG/SHA_000824,SHA (000824)
+GOOG/SHA_000825,SHA (000825)
+GOOG/SHA_000826,SHA (000826)
+GOOG/SHA_000827,SHA (000827)
+GOOG/SHA_000828,SHA (000828)
+GOOG/SHA_000829,SHA (000829)
+GOOG/SHA_000830,SHA (000830)
+GOOG/SHA_000831,SHA (000831)
+GOOG/SHA_000832,SHA (000832)
+GOOG/SHA_000833,SHA (000833)
+GOOG/SHA_000838,SHA (000838)
+GOOG/SHA_000839,SHA (000839)
+GOOG/SHA_000840,SHA (000840)
+GOOG/SHA_000841,SHA (000841)
+GOOG/SHA_000842,SHA (000842)
+GOOG/SHA_000843,SHA (000843)
+GOOG/SHA_000844,SHA (000844)
+GOOG/SHA_000846,SHA (000846)
+GOOG/SHA_000901,CSI Southern Well-Off Industry Index (000901)
+GOOG/SHA_000902,CSI Free Float Index (000902)
+GOOG/SHA_000903,CSI 100 Index (000903)
+GOOG/SHA_000904,CSI 200 Index (000904)
+GOOG/SHA_000905,CSI 500 Index (000905)
+GOOG/SHA_000906,CSI 800 Index (000906)
+GOOG/SHA_000907,CSI 700 Index (000907)
+GOOG/SHA_000908,CSI 300 Energy Index (000908)
+GOOG/SHA_000909,CSI 300 Materials Index (000909)
+GOOG/SHA_000910,CSI 300 Industrials Index (000910)
+GOOG/SHA_000911,CSI 300 Consumer Discretionary Index (000911)
+GOOG/SHA_000912,CSI 300 Consumer Staples Index (000912)
+GOOG/SHA_000913,CSI 300 Health Care Index (000913)
+GOOG/SHA_000914,CSI 300 Financials Index (000914)
+GOOG/SHA_000915,CSI 300 Information Technology Index (000915)
+GOOG/SHA_000916,CSI 300 Telecommunication Services Index (000916)
+GOOG/SHA_000917,CSI 300 Utilities Index (000917)
+GOOG/SHA_000918,CSI 300 Growth Index (000918)
+GOOG/SHA_000919,CSI 300 Value Index (000919)
+GOOG/SHA_000920,CSI 300 Relative Growth Index (000920)
+GOOG/SHA_000921,CSI 300 Relative Value Index (000921)
+GOOG/SHA_000922,CSI Dividend Index (000922)
+GOOG/SHA_000923,CSI Enterprise Bond Index (000923)
+GOOG/SHA_000924,CSI Detachable Convertible Bond Index (000924)
+GOOG/SHA_000925,CSI RAFI 50 Index (000925)
+GOOG/SHA_000926,CSI Central State-owned Enterprises Composite Index (000926)
+GOOG/SHA_000927,CSI Central State-owned Enterprises 100 Index (000927)
+GOOG/SHA_000928,CSI Energy index (000928)
+GOOG/SHA_000929,CSI Materials index (000929)
+GOOG/SHA_000930,CSI Industrials index (000930)
+GOOG/SHA_000931,CSI Consumer Discretionary index (000931)
+GOOG/SHA_000932,CSI Consumer Staples index (000932)
+GOOG/SHA_000933,CSI Health Care index (000933)
+GOOG/SHA_000934,CSI Financials index (000934)
+GOOG/SHA_000935,CSI Information Technology index (000935)
+GOOG/SHA_000936,CSI Telecommunication Services index (000936)
+GOOG/SHA_000937,CSI Utilities index (000937)
+GOOG/SHA_000938,CSI Private-owned Enterprises Composite Index (000938)
+GOOG/SHA_000939,CSI Private-owned Enterprises 200 Index (000939)
+GOOG/SHA_000940,CSI Wealth Large Cap Index (000940)
+GOOG/SHA_000941,CSI CN Mainland New Energy Index (000941)
+GOOG/SHA_000942,CSI China Mainland Consumer Index (000942)
+GOOG/SHA_000943,CSI China Mainland Infrastructure Index (000943)
+GOOG/SHA_000944,CSI China Mainland Natural Resource Index (000944)
+GOOG/SHA_000945,CSI China Mainland Transportation Index (000945)
+GOOG/SHA_000946,CSI China Mainland Financials Index (000946)
+GOOG/SHA_000947,CSI China Mainland Banks Index (000947)
+GOOG/SHA_000948,CSI China Mainland Real Estate Index (000948)
+GOOG/SHA_000949,CSI China Mainland Agriculture Index (000949)
+GOOG/SHA_000950,CSI 300 Infrastructure Index (000950)
+GOOG/SHA_000951,CSI 300 Banks Index (000951)
+GOOG/SHA_000952,CSI 300 Real Estate Index (000952)
+GOOG/SHA_000953,SHA (000953)
+GOOG/SHA_000954,SHA (000954)
+GOOG/SHA_000955,SHA (000955)
+GOOG/SHA_000956,SHA (000956)
+GOOG/SHA_000957,SHA (000957)
+GOOG/SHA_000958,SHA (000958)
+GOOG/SHA_000959,SHA (000959)
+GOOG/SHA_000960,SHA (000960)
+GOOG/SHA_000961,SHA (000961)
+GOOG/SHA_000962,SHA (000962)
+GOOG/SHA_000963,SHA (000963)
+GOOG/SHA_000964,CSI Emerging Industries Index (000964)
+GOOG/SHA_000965,CSI RAFI 200 Index (000965)
+GOOG/SHA_000966,CSI RAFI 400 Index (000966)
+GOOG/SHA_000967,CSI RAFI 600 Index (000967)
+GOOG/SHA_000968,SHA (000968)
+GOOG/SHA_000969,SHA (000969)
+GOOG/SHA_000970,CSI ECPI ESG China 40 Index (000970)
+GOOG/SHA_000971,SHA (000971)
+GOOG/SHA_000972,SHA (000972)
+GOOG/SHA_000973,SHA (000973)
+GOOG/SHA_000974,SHA (000974)
+GOOG/SHA_000977,SHA (000977)
+GOOG/SHA_000978,SHA (000978)
+GOOG/SHA_000979,SHA (000979)
+GOOG/SHA_000980,SHA (000980)
+GOOG/SHA_000981,SHA (000981)
+GOOG/SHA_000982,SHA (000982)
+GOOG/SHA_000983,SHA (000983)
+GOOG/SHA_000984,SHA (000984)
+GOOG/SHA_000985,SHA (000985)
+GOOG/SHA_000986,SHA (000986)
+GOOG/SHA_000987,SHA (000987)
+GOOG/SHA_000988,SHA (000988)
+GOOG/SHA_000989,SHA (000989)
+GOOG/SHA_000990,SHA (000990)
+GOOG/SHA_000991,SHA (000991)
+GOOG/SHA_000992,SHA (000992)
+GOOG/SHA_000993,SHA (000993)
+GOOG/SHA_000994,SHA (000994)
+GOOG/SHA_000995,SHA (000995)
+GOOG/SHA_000996,SHA (000996)
+GOOG/SHA_000997,SHA (000997)
+GOOG/SHA_000998,SHA (000998)
+GOOG/SHA_000999,SHA (000999)
+GOOG/SHA_600000,Shanghai Pudong Development Bank Co. Ltd (600000)
+GOOG/SHA_600004,Guangzhou Baiyun International Airport (600004)
+GOOG/SHA_600005,"Wuhan Iron and Steel Co., Ltd. (600005)"
+GOOG/SHA_600006,"Dongfeng Automobile Co., Ltd (600006)"
+GOOG/SHA_600007,China World Trade Center Co. Ltd. (600007)
+GOOG/SHA_600008,"Beijing Capital Co., Ltd. (600008)"
+GOOG/SHA_600009,"Shanghai International Airport Co., Ltd. (600009)"
+GOOG/SHA_600010,"Inner Mongolia BaoTou Steel Union Co., (600010)"
+GOOG/SHA_600011,Huaneng Power International Inc (600011)
+GOOG/SHA_600012,Anhui Expressway Co Ltd (600012)
+GOOG/SHA_600015,"Hua Xia Bank Co., Limited (600015)"
+GOOG/SHA_600016,China Minsheng Banking Corp Ltd (600016)
+GOOG/SHA_600017,"Rizhao Port Co., Ltd. (600017)"
+GOOG/SHA_600018,Shanghai International Port Group Co Ltd (600018)
+GOOG/SHA_600019,"Baoshan Iron &amp; Steel Co., Ltd. (600019)"
+GOOG/SHA_600020,Henan Zhongyuan Expressway Co Ltd (600020)
+GOOG/SHA_600021,Shanghai Electric Power Company Limited (600021)
+GOOG/SHA_600022,Shandong Iron and Steel Co Ltd (600022)
+GOOG/SHA_600026,China Shipping Development Co Ltd (600026)
+GOOG/SHA_600027,Huadian Power International Corp. Ltd (600027)
+GOOG/SHA_600028,China Petroleum &amp; Chemical Corp (600028)
+GOOG/SHA_600029,China Southern Airlines Co Ltd (600029)
+GOOG/SHA_600030,CITIC Securities Company Limited (600030)
+GOOG/SHA_600031,"Sany Heavy Industry Co., LTD (600031)"
+GOOG/SHA_600033,"Fujian Expressway Development Co., Ltd. (600033)"
+GOOG/SHA_600035,"Hubei Chutian Expressway Co., Ltd (600035)"
+GOOG/SHA_600036,"China Merchants Bank Co., Ltd (600036)"
+GOOG/SHA_600037,"Beijing Gehua CATV Network Co., Ltd. (600037)"
+GOOG/SHA_600038,AVIC Helicopter Co Ltd (600038)
+GOOG/SHA_600039,"Sichuan Road &amp; Bridge Co., Ltd (600039)"
+GOOG/SHA_600048,"Poly Real Estate Group Co., Ltd (600048)"
+GOOG/SHA_600050,China United Network Communications Ltd (600050)
+GOOG/SHA_600051,"Ningbo United Group Co. , Ltd. (600051)"
+GOOG/SHA_600052,"Zhejiang Guangsha Co., Ltd. (600052)"
+GOOG/SHA_600053,"Jiangxi Zhongjiang Real Estate Co., Ltd. (600053)"
+GOOG/SHA_600054,"Huangshan Tourism Development Co., Ltd (600054)"
+GOOG/SHA_600055,China Resources Wandong Medical Equipmnt (600055)
+GOOG/SHA_600056,China Medicine Health Industry Co Ltd (600056)
+GOOG/SHA_600057,Xiamen Xiangyu Co Ltd (600057)
+GOOG/SHA_600058,"Minmetals Development Co., Ltd. (600058)"
+GOOG/SHA_600059,Zhejiang GuYueLongShan Shaoxing Wine Co. (600059)
+GOOG/SHA_600060,"Hisense Electric Co., Ltd (600060)"
+GOOG/SHA_600061,Sinotex Investment &amp; Development Co. (600061)
+GOOG/SHA_600062,China Resources Dubl-Crne Phrmctl Co Ltd (600062)
+GOOG/SHA_600063,Anhui Wanwei Upd Hi-Tech Material Ind Co (600063)
+GOOG/SHA_600064,Nanjing Gaoke Co Ltd (600064)
+GOOG/SHA_600066,"Zhengzhou Yutong Bus Co., Ltd. (600066)"
+GOOG/SHA_600067,"Citychamp Dartong Co., Ltd. (600067)"
+GOOG/SHA_600068,China Gezhouba Group Company Limited (600068)
+GOOG/SHA_600069,Henan Yinge Industrial Investment Co Ltd (600069)
+GOOG/SHA_600070,"Zhejiang Furun Co., Ltd. (600070)"
+GOOG/SHA_600071,Phenix Optical Company Limited (600071)
+GOOG/SHA_600072,CSSC Steel Structure Engineering Co Ltd (600072)
+GOOG/SHA_600073,"Shanghai Maling Aquarius Co., Ltd (600073)"
+GOOG/SHA_600074,Jiangsu Protruly Technology Group Co Ltd (600074)
+GOOG/SHA_600075,"Xinjiang Tianye Co.,Ltd (600075)"
+GOOG/SHA_600076,Weifang Beida Jade Bird Huaguang Tech. (600076)
+GOOG/SHA_600077,Sundy Land Investment Co Ltd (600077)
+GOOG/SHA_600078,Jiangsu Chengxing Phosph-Chemicals Co. (600078)
+GOOG/SHA_600079,Humanwell Healthcare Group Co Ltd (600079)
+GOOG/SHA_600080,Ginwa Enterprise (Group) Inc. (600080)
+GOOG/SHA_600081,Dongfeng Electronic Technology Co Ltd (600081)
+GOOG/SHA_600082,Tianjin Hi-Tech Development Co Ltd (600082)
+GOOG/SHA_600083,"Guangdong Boxin Invstng &amp; Hdngs Co., Ltd (600083)"
+GOOG/SHA_600084,Citic Guoan Wine Co Ltd (600084)
+GOOG/SHA_600085,"Beijing Tongrentang Co., Ltd. (600085)"
+GOOG/SHA_600086,Eastern Gold Jade Co Ltd (600086)
+GOOG/SHA_600088,"China Television Media, Ltd (600088)"
+GOOG/SHA_600089,"TBEA Co., Ltd (600089)"
+GOOG/SHA_600090,"Xin Jiang Hops Co., Ltd. (600090)"
+GOOG/SHA_600091,"Baotou Tomorrow Technology Co., Ltd (600091)"
+GOOG/SHA_600093,"Sichuan Hejia Co., Ltd (600093)"
+GOOG/SHA_600094,Greattown Holdings Ltd (600094)
+GOOG/SHA_600095,"Harbin High-Tech (Group) Co.,Ltd (600095)"
+GOOG/SHA_600096,"Yunnan Yuntianhua Co., Ltd. (600096)"
+GOOG/SHA_600097,Shanghai Kaichuang Marine Int'nl Co Ltd (600097)
+GOOG/SHA_600098,Guangzhou Development Group Incorporated (600098)
+GOOG/SHA_600099,"Linhai Co., Ltd. (600099)"
+GOOG/SHA_600100,Tongfang Co Ltd (600100)
+GOOG/SHA_600101,"Sichuan Mingxing Electric Power Co., Ltd (600101)"
+GOOG/SHA_600103,"Fujian Qingshan Paper Industry Co., Ltd (600103)"
+GOOG/SHA_600104,SAIC Motor Corporation Limited (600104)
+GOOG/SHA_600105,Jiang Su Etern Co Ltd (600105)
+GOOG/SHA_600106,"Chongqing Road &amp; Bridge Co., Ltd. (600106)"
+GOOG/SHA_600107,"Hubei Mailyard Share Co., Ltd. (600107)"
+GOOG/SHA_600108,Gansu Yasheng Industrial (Group) Co. Ltd (600108)
+GOOG/SHA_600109,"Sinolink Securities Co., Ltd. (600109)"
+GOOG/SHA_600110,"China-Kinwa High Technology Co., Ltd (600110)"
+GOOG/SHA_600111,China Northern Rare Earth Gp H-T Co Ltd (600111)
+GOOG/SHA_600112,Guizhou Changzheng Tiancheng Hldg Co Ltd (600112)
+GOOG/SHA_600113,"Zhejiang Dongri Co., Ltd. (600113)"
+GOOG/SHA_600114,NBTM New Materials Group Co Ltd (600114)
+GOOG/SHA_600115,China Eastern Airlines Corporation Ltd. (600115)
+GOOG/SHA_600116,Chongqing Three Gorges Water Conservancy (600116)
+GOOG/SHA_600117,"Xining Special Steel Co.,Ltd (600117)"
+GOOG/SHA_600118,"China Spacesat Co., Ltd. (600118)"
+GOOG/SHA_600119,Y.U.D Yangtze River Investment Industry (600119)
+GOOG/SHA_600120,"Zhejiang Orient Holdings Co., Ltd (600120)"
+GOOG/SHA_600121,Zhengzhou Coal Industry &amp; Electric Power (600121)
+GOOG/SHA_600122,"Jiangsu Hongtu High Technology Co., Ltd. (600122)"
+GOOG/SHA_600123,Shanxi Lanhua Sci-Tech Venture Co Ltd (600123)
+GOOG/SHA_600125,China Railway Tielong Container Log. Co. (600125)
+GOOG/SHA_600126,"Hang Zhou Iron &amp; Steel Co., Ltd. (600126)"
+GOOG/SHA_600127,"Hunan Jinjian Cereals Industry Co., Ltd. (600127)"
+GOOG/SHA_600128,Jiangsu Holly Corporation (600128)
+GOOG/SHA_600129,"Chongqing Taiji Industry(Group)Co., Ltd. (600129)"
+GOOG/SHA_600130,"Ningbo Bird Co. , Ltd . (600130)"
+GOOG/SHA_600131,"Sichuan Minjiang Hydropower Co., Ltd (600131)"
+GOOG/SHA_600132,"Chongqing Brewery Co., Ltd (600132)"
+GOOG/SHA_600133,Wuhan East Lake High Technology Group Co (600133)
+GOOG/SHA_600135,"Luckyfilm Co., Ltd (600135)"
+GOOG/SHA_600136,"Wuhan Double Co.,Ltd (600136)"
+GOOG/SHA_600137,Sichuan Langsha Holding Ltd. (600137)
+GOOG/SHA_600138,"China CYTS Tours Holding Co., Ltd (600138)"
+GOOG/SHA_600139,Mianyang Gao Xin Industrial Dev (Group) (600139)
+GOOG/SHA_600141,Hubei Xingfa Chemicals Group Co. Ltd (600141)
+GOOG/SHA_600143,Kingfa Sci &amp;Tech Co Ltd (600143)
+GOOG/SHA_600145,Xinjiang Yilu Wanyun Indu Inv Hldg CoLtd (600145)
+GOOG/SHA_600146,"Ningxia Dayuan Chemical Co., Ltd. (600146)"
+GOOG/SHA_600148,"Changchun Yidong Clutch Co.,Ltd. (600148)"
+GOOG/SHA_600149,Langfang Development Co Ltd (600149)
+GOOG/SHA_600150,"China State Shipbuilding Co., Ltd. (600150)"
+GOOG/SHA_600151,Shanghai Aero Auto Electromechanical (600151)
+GOOG/SHA_600152,"Ningbo Veken Elite Group Co., Ltd. (600152)"
+GOOG/SHA_600153,Xiamen C&amp;D Inc. (600153)
+GOOG/SHA_600155,"Hebei Baoshuo Co.,Ltd (600155)"
+GOOG/SHA_600156,"Hunan Huasheng Co., Ltd. (600156)"
+GOOG/SHA_600157,Wintime Energy Co Ltd (600157)
+GOOG/SHA_600158,"China Sports Industry Group Co., Ltd. (600158)"
+GOOG/SHA_600159,Beijing Dalong Weiye Real Estate (600159)
+GOOG/SHA_600160,"Zhejiang Juhua Co., Ltd (600160)"
+GOOG/SHA_600161,Beijing Tiantan Biological Products Corp (600161)
+GOOG/SHA_600162,"Shenzhen Heungkong Holding Co., Ltd. (600162)"
+GOOG/SHA_600163,"Nanzhi Co., Ltd., Fujian (600163)"
+GOOG/SHA_600165,Ningxia Xinri Hengli Steel Wire Co Ltd (600165)
+GOOG/SHA_600166,Beiqi Foton Motor Company Limited (600166)
+GOOG/SHA_600167,Luenmei Holding Co Ltd (600167)
+GOOG/SHA_600168,"Wuhan Sanzhen Industry Holding Co., Ltd (600168)"
+GOOG/SHA_600169,"Taiyuan Heavy Industry Co., Ltd. (600169)"
+GOOG/SHA_600170,"Shanghai Construction Group Co., Ltd. (600170)"
+GOOG/SHA_600171,"Shanghai Belling Co., Ltd. (600171)"
+GOOG/SHA_600172,"Henan Huanghe Whirlwind Co., Ltd. (600172)"
+GOOG/SHA_600173,"Wolong Real Estate Group Co., Ltd. (600173)"
+GOOG/SHA_600175,MeiDu Energy Corp (600175)
+GOOG/SHA_600176,China Jushi Co Ltd (600176)
+GOOG/SHA_600177,"Youngor Group Co., Ltd. (600177)"
+GOOG/SHA_600178,"Harbin Dongan Auto Engine Co., Ltd (600178)"
+GOOG/SHA_600179,"HeiLongJiang HeiHua Co., Ltd. (600179)"
+GOOG/SHA_600180,CCS Supply Chain Management Co Ltd (600180)
+GOOG/SHA_600182,Giti Tire Corporation (600182)
+GOOG/SHA_600183,Shengyi Technology Co Ltd (600183)
+GOOG/SHA_600184,North Electro-Optic Co Ltd (600184)
+GOOG/SHA_600185,Gree Real Estate Co Ltd (600185)
+GOOG/SHA_600186,"Henan Lianhua Gourmet Powder Co., Ltd (600186)"
+GOOG/SHA_600187,Heilongjiang Intrchna Watrtrertmt Co Ltd (600187)
+GOOG/SHA_600188,Yanzhou Coal Mining Co Ltd (600188)
+GOOG/SHA_600189,"JiLin Forest Industry Co.,Ltd. (600189)"
+GOOG/SHA_600190,"Jinzhou Port Co., Ltd. (600190)"
+GOOG/SHA_600191,"Baotou Huazi Industry Co., Ltd (600191)"
+GOOG/SHA_600192,"Lanzhou Great Wall Electrical Co., Ltd. (600192)"
+GOOG/SHA_600193,Shanghai Prosolar Resources Development (600193)
+GOOG/SHA_600195,"China Animal Husbandry Industry Co., Ltd (600195)"
+GOOG/SHA_600196,Shanghai Fosun Pharmaceutical (Group) (600196)
+GOOG/SHA_600197,"Xinjiang Yilite Industry Co., Ltd. (600197)"
+GOOG/SHA_600198,"Datang Telecom Technology Co., Ltd (600198)"
+GOOG/SHA_600199,"Anhui Golden Seed Winery Co., Ltd. (600199)"
+GOOG/SHA_600200,"Jiangsu Wuzhong Industrial Co., Ltd (600200)"
+GOOG/SHA_600201,Inner Mongolia Jinyu Group Co Ltd (600201)
+GOOG/SHA_600202,Harbin Air Conditioning Co Ltd (600202)
+GOOG/SHA_600203,"Fujian Furi Electronics Co., Ltd. (600203)"
+GOOG/SHA_600206,Grinm Advanced Materials Co Ltd (600206)
+GOOG/SHA_600207,"Henan Ancai Hi-tech Co., Ltd (600207)"
+GOOG/SHA_600208,Xinhu Zhongbao Co Ltd (600208)
+GOOG/SHA_600209,Lawton Development Co Ltd (600209)
+GOOG/SHA_600210,Shanghai Zijiang Enterprise Group Co Ltd (600210)
+GOOG/SHA_600211,Tibet Rhodiola Pharmaceutical Holding Co (600211)
+GOOG/SHA_600212,"Shandong Jiangquan Industry Co., Ltd (600212)"
+GOOG/SHA_600213,"Yangzhou Yaxing Motor Coach Co.,Ltd (600213)"
+GOOG/SHA_600215,"Changchunjingkai (Group) Co., Ltd. (600215)"
+GOOG/SHA_600216,"Zhejiang Medicine Co., Ltd. (600216)"
+GOOG/SHA_600217,"Shaanxi QinLing Cement (Group) Co., Ltd. (600217)"
+GOOG/SHA_600218,"Anhui Quanchai Engine Co., Ltd (600218)"
+GOOG/SHA_600219,"Shandong Nanshan Aluminum Co., Ltd. (600219)"
+GOOG/SHA_600220,Jiangsu Sunshine Co Ltd (600220)
+GOOG/SHA_600221,"Hainan Airlines Co., Ltd. (600221)"
+GOOG/SHA_600222,"Henan Taloph Pharmaceutical Stock Co., (600222)"
+GOOG/SHA_600223,Lushang Property Co Ltd (600223)
+GOOG/SHA_600225,"TIANJIN SONGJIANG CO.,LTD. (600225)"
+GOOG/SHA_600226,"Zhejiang Shenghua Biok Biology Co., Ltd (600226)"
+GOOG/SHA_600227,"Guizhou Chitianhua Co.,Ltd. (600227)"
+GOOG/SHA_600228,JiangXi ChangJiu Biochemical Indu Co Ltd (600228)
+GOOG/SHA_600229,Qingdao Soda Ash Industrial Company (600229)
+GOOG/SHA_600230,Cangzhou Dahua Co Ltd (600230)
+GOOG/SHA_600231,"Lingyuan Iron &amp; Steel Co., Ltd (600231)"
+GOOG/SHA_600232,"Zhejiang Golden Eagle Co., Ltd (600232)"
+GOOG/SHA_600233,"Dalian Dayang Trands Co., Ltd (600233)"
+GOOG/SHA_600234,Guanghe Landscape Cultur Comm Co Ltd ShX (600234)
+GOOG/SHA_600235,Minfeng Special Paper Co Ltd (600235)
+GOOG/SHA_600236,"GUANGXI GUIGUAN ELECTRIC POWER CO.,LTD. (600236)"
+GOOG/SHA_600237,Anhui Tongfeng Electronics Company Ltd. (600237)
+GOOG/SHA_600238,Hainan Yedao Group Co Ltd (600238)
+GOOG/SHA_600239,Yunnan Metropolitan Real Est Dev Co Ltd (600239)
+GOOG/SHA_600240,Beijing Homyear Capital Holdings Co Ltd (600240)
+GOOG/SHA_600241,Liaoning Times Garments I/E Inc. (600241)
+GOOG/SHA_600242,Zhongchang Marine Co Ltd (600242)
+GOOG/SHA_600243,"QingHai HuaDing Industrial Co., Ltd. (600243)"
+GOOG/SHA_600246,"Beijing Vantone Real Estate Co., Ltd (600246)"
+GOOG/SHA_600247,Jilin Chengcheng Group Co Ltd (600247)
+GOOG/SHA_600248,Shaanxi Yanchang Petro Chem. Eng. Co Ltd (600248)
+GOOG/SHA_600249,"Liuzhou Liangmianzhen Co., Ltd. (600249)"
+GOOG/SHA_600250,"NJ Textiles Import &amp; Export Corp.,Ltd. (600250)"
+GOOG/SHA_600251,Xinjiang Guanng Fruit &amp; Antler Gp Co Ltd (600251)
+GOOG/SHA_600252,"Guangxi Wuzhou Zhongheng Group Co.,Ltd (600252)"
+GOOG/SHA_600255,"Anhui Xinke New Materials Co., Ltd. (600255)"
+GOOG/SHA_600256,Guanghui Energy Co Ltd (600256)
+GOOG/SHA_600257,Dahu Aquaculture Co Ltd (600257)
+GOOG/SHA_600258,BTG Hotels Group Co Ltd (600258)
+GOOG/SHA_600259,Rising Nonferrous Metals Share Co Ltd (600259)
+GOOG/SHA_600260,"Kaile Science and Tech. Co.,Ltd. Hubei (600260)"
+GOOG/SHA_600261,Zhejiang Yankon Group Co Ltd (600261)
+GOOG/SHA_600262,Inner Mongolia North Hauler Joint Stock (600262)
+GOOG/SHA_600265,"Yunnan Jinggu Forestry Co., Ltd. (600265)"
+GOOG/SHA_600266,Beijing Urban Const. Inv. &amp; Dev. Co. Ltd (600266)
+GOOG/SHA_600267,"Zhejiang Hisun Pharmaceutical Co., Ltd. (600267)"
+GOOG/SHA_600268,"Guodian Nanjing Automation Co., Ltd. (600268)"
+GOOG/SHA_600269,"Jiangxi Ganyue Expressway Co., Ltd (600269)"
+GOOG/SHA_600270,Sinotrans Air Transportation Devel. Co (600270)
+GOOG/SHA_600271,AISINOCO. LTD (600271)
+GOOG/SHA_600272,Shanghai Kai Kai Industry Co Ltd (600272)
+GOOG/SHA_600273,Zhejiang Jiahua Energy Chemcl Indu CoLtd (600273)
+GOOG/SHA_600275,"Hubei Wuchangyu Co., Ltd (600275)"
+GOOG/SHA_600276,"Jiangsu Hengrui Medicine Co., Ltd (600276)"
+GOOG/SHA_600277,INNER MONGOLIA YILI ENERGY COMPANY LTD. (600277)
+GOOG/SHA_600278,"Orient International Enterprise, Ltd. (600278)"
+GOOG/SHA_600279,"Chongqing Gangjiu Co., Ltd (600279)"
+GOOG/SHA_600280,"Nanjing Central Emporium Co., Ltd. (600280)"
+GOOG/SHA_600281,"Taiyuan Chemical Industry Co., Ltd (600281)"
+GOOG/SHA_600282,"Nanjing Iron &amp; Steel Co.,Ltd. (600282)"
+GOOG/SHA_600283,Qianjiang Water Resources Development Co (600283)
+GOOG/SHA_600284,"Shanghai Pudong Road and Bridge Co.,Ltd. (600284)"
+GOOG/SHA_600285,"Henan Lingrui Pharmaceutical Co., Ltd. (600285)"
+GOOG/SHA_600287,"Jiangsu Sainty Corp., Ltd (600287)"
+GOOG/SHA_600288,"Daheng New Epoch Technology, Inc. (600288)"
+GOOG/SHA_600289,Bright Oceans Inter-Telecom Co Ltd (600289)
+GOOG/SHA_600290,"Huayi Electric Co., Ltd. (600290)"
+GOOG/SHA_600291,Xishui Strong Year Co.Ltd Inner Mongolia (600291)
+GOOG/SHA_600292,Cpi Yuanda Environmental-Prtcn Gp Co Ltd (600292)
+GOOG/SHA_600293,"Hubei Sanxia New Building Materials Co., (600293)"
+GOOG/SHA_600295,Inner Mongolia Eerduosi Resourses Co Ltd (600295)
+GOOG/SHA_600297,Merro Pharmaceutical Co Ltd (600297)
+GOOG/SHA_600298,"Angel Yeast Co., Ltd. (600298)"
+GOOG/SHA_600299,"Blue Star New Chemical Material Co., Ltd (600299)"
+GOOG/SHA_600300,"V V Food and Beverage Co.,Ltd (600300)"
+GOOG/SHA_600301,"Nanning Chemical Industry Co., Ltd (600301)"
+GOOG/SHA_600302,"XI'AN TYPICAL INDUSTRIES CO.,LTD. (600302)"
+GOOG/SHA_600303,"Liaoning SG Automotive Group Co., Ltd. (600303)"
+GOOG/SHA_600305,"Jiangsu Hengshun Vinegar Ind Co., Ltd. (600305)"
+GOOG/SHA_600306,Shenyang Commercial City Co. Ltd (600306)
+GOOG/SHA_600307,Gansu Jiu Steel Group Hongxing Iron (600307)
+GOOG/SHA_600308,Shandong Huatai Paper Company Limited (600308)
+GOOG/SHA_600309,Wanhua Chemical Group Co Ltd (600309)
+GOOG/SHA_600310,"Guangxi Guidong Electric Power Co., Ltd (600310)"
+GOOG/SHA_600311,"Gansu Ronghua Industry Group Co., Ltd. (600311)"
+GOOG/SHA_600312,Henan Pinggao Electric Company Limited (600312)
+GOOG/SHA_600313,Zhongnongfa Seed Industry Group Co Ltd (600313)
+GOOG/SHA_600315,"Shanghai Jahwa United Co., Ltd. (600315)"
+GOOG/SHA_600316,"Jiangxi Hongdu Aviation Industry Co.,Ltd (600316)"
+GOOG/SHA_600317,"Yingkou Port Liability Co.,Ltd (600317)"
+GOOG/SHA_600318,"Anhui Chaodong Cement Co., Ltd (600318)"
+GOOG/SHA_600319,"Weifang Yaxing Chemical Co., Ltd. (600319)"
+GOOG/SHA_600320,"Shanghai Zhenhua Port Machinery Co., Ltd (600320)"
+GOOG/SHA_600321,"SiChuan GuoDong Construction Co., Ltd (600321)"
+GOOG/SHA_600322,Tianjin Reality Development (Group) Co (600322)
+GOOG/SHA_600323,Grandblue Environment Co Ltd (600323)
+GOOG/SHA_600325,"Huafa Industrial Co., Ltd. Zhuhai (600325)"
+GOOG/SHA_600326,"Tibet Tianlu Co., Ltd. (600326)"
+GOOG/SHA_600327,Wuxi Commercial Mansion Grand Orient Co (600327)
+GOOG/SHA_600328,Inner Mongolia Lantai Industrial Co Ltd (600328)
+GOOG/SHA_600329,Tianjin Zhongxin Phrmctl Gp Cp Ltd (600329)
+GOOG/SHA_600330,"TDG Holding Co., Ltd. (600330)"
+GOOG/SHA_600331,"Sichuan Hongda Co., Ltd (600331)"
+GOOG/SHA_600332,Guangzhou Baiyunshan Phrmcl Hldgs Co Ltd (600332)
+GOOG/SHA_600333,"Changchun Gas Co., Ltd (600333)"
+GOOG/SHA_600335,Sinomach Automobile Co Ltd (600335)
+GOOG/SHA_600336,Aucma Co Ltd (600336)
+GOOG/SHA_600337,Markor Intl Home Furnishings Co Ltd (600337)
+GOOG/SHA_600338,"Tibet Summit Industry Co., Ltd (600338)"
+GOOG/SHA_600339,Xinjiang Dushanzi TianLi High &amp; New Tech (600339)
+GOOG/SHA_600340,China Fortune Land Co Ltd (600340)
+GOOG/SHA_600343,Shaanxi Aero-space Power Hi-Tech Co. Ltd (600343)
+GOOG/SHA_600345,Wuhan Yangtze Communication Industry (600345)
+GOOG/SHA_600346,Dalian Rubber &amp; Plastics Machinery (600346)
+GOOG/SHA_600348,Yangquan Coal Industry Group Co Ltd (600348)
+GOOG/SHA_600350,Shandong Hi-speed Co Ltd (600350)
+GOOG/SHA_600351,Yabao Pharmaceutical Group Co Ltd (600351)
+GOOG/SHA_600352,"Zhejiang Longsheng Group Co., Ltd (600352)"
+GOOG/SHA_600353,"Chengdu Xuguang Electronics Co.,Ltd. (600353)"
+GOOG/SHA_600354,"Gansu Dunhuang Seed Co., Ltd. (600354)"
+GOOG/SHA_600355,"Routon Electronic Co., Ltd. (600355)"
+GOOG/SHA_600356,"Mudanjiang Hengfeng Paper Co., Ltd (600356)"
+GOOG/SHA_600358,"China United Travel Co., Ltd (600358)"
+GOOG/SHA_600359,Xinjiang Talimu Agriculture Development (600359)
+GOOG/SHA_600360,"Jilin Sino-Microelectronics Co., Ltd (600360)"
+GOOG/SHA_600361,"Beijing Hualian Hypermarket Co., Ltd. (600361)"
+GOOG/SHA_600362,Jiangxi Copper Co Ltd (600362)
+GOOG/SHA_600363,Jiangxi Lianchuang Optoelec.Sc&amp;Tech. (600363)
+GOOG/SHA_600365,"Tonghua Grape Wine Co., Ltd (600365)"
+GOOG/SHA_600366,Ningbo Yunsheng Co Ltd (600366)
+GOOG/SHA_600367,"Guizhou Redstar Developing Co., Ltd (600367)"
+GOOG/SHA_600368,Guangxi Wuzhou Communications Co Ltd (600368)
+GOOG/SHA_600369,Chongqing Changjiang River Water Transpt (600369)
+GOOG/SHA_600370,"Jiangsu Sanfangxiang Industry Co.Ltd, (600370)"
+GOOG/SHA_600371,Wanxiang Doneed Co Ltd (600371)
+GOOG/SHA_600372,China Avionics Systems CoLTD (600372)
+GOOG/SHA_600373,Chinese Universe Publishing&amp;Media Co Ltd (600373)
+GOOG/SHA_600375,Hualing Xingma Automobile (Group) Co Ltd (600375)
+GOOG/SHA_600376,"Beijing Capital Development Co., Ltd. (600376)"
+GOOG/SHA_600377,Jiangsu Expressway Co Ltd (600377)
+GOOG/SHA_600378,"Sichuan Tianyi Science &amp; Tech. Co., Ltd (600378)"
+GOOG/SHA_600379,Shaanxi Baoguang Vaccum Elect. Apparatus (600379)
+GOOG/SHA_600380,Joincare Pharmaceutical Group Ind. Co. (600380)
+GOOG/SHA_600381,Qinghai Spring Medicinl Rsrcs Tech CoLTD (600381)
+GOOG/SHA_600382,"Guangdong Mingzhu Group Co., Ltd. (600382)"
+GOOG/SHA_600383,Gemdale Corporation (600383)
+GOOG/SHA_600385,"SHANDONG JINTAI GROUP CO.,LTD. (600385)"
+GOOG/SHA_600386,"Beijing Bashi Media Co., Ltd. (600386)"
+GOOG/SHA_600387,"Zhejiang Haiyue Co., Ltd (600387)"
+GOOG/SHA_600388,"Fujian Longking Co., Ltd (600388)"
+GOOG/SHA_600389,Nantong Jiangshan Agrochemical&amp;Chemicals (600389)
+GOOG/SHA_600390,Kingray New Materials Science &amp; Tech Co (600390)
+GOOG/SHA_600391,Sichuan Chengfa Aero Science &amp;Technology (600391)
+GOOG/SHA_600392,Shenghe Resources Holding Co Ltd (600392)
+GOOG/SHA_600393,"Guangzhou Donghua Enterprise Co., Ltd. (600393)"
+GOOG/SHA_600395,"Guizhou Panjiang Refined Coal Co., Ltd (600395)"
+GOOG/SHA_600396,"Shenyang Jinshan Energy Co., Ltd (600396)"
+GOOG/SHA_600397,Anyuan Coal Industry Group Co Ltd (600397)
+GOOG/SHA_600398,Heilan Home Co Ltd (600398)
+GOOG/SHA_600399,"Fushun Special Steel Co., Ltd. (600399)"
+GOOG/SHA_600400,"Jiangsu Hongdou Industry Co.,Ltd (600400)"
+GOOG/SHA_600401,Hareon Solar Technology Co Ltd (600401)
+GOOG/SHA_600403,Henan Dayou Energy Co Ltd (600403)
+GOOG/SHA_600405,"Beijing Dynamic Power Co., Ltd. (600405)"
+GOOG/SHA_600406,"NARI Technology Development Co., Ltd. (600406)"
+GOOG/SHA_600408,"Shanxi Antai Group Co., Ltd (600408)"
+GOOG/SHA_600409,Tangshan Sanyou Chemical Industries Co (600409)
+GOOG/SHA_600410,"Beijing Teamsun Technology Co., Ltd. (600410)"
+GOOG/SHA_600415,Zhejiang China Commodities City Group Co (600415)
+GOOG/SHA_600416,"Xiangtan Electric Manufacturing Co.,Ltd. (600416)"
+GOOG/SHA_600418,"Anhui Jianghuai Automobile Co., Ltd. (600418)"
+GOOG/SHA_600419,Xinjiang Tianrun Dairy Co Ltd (600419)
+GOOG/SHA_600420,Shanghai Shyndec Pharmaceutical Co Ltd (600420)
+GOOG/SHA_600421,Hubei Yangfan Holding Co Ltd (600421)
+GOOG/SHA_600422,KPC Pharmaceuticals Inc (600422)
+GOOG/SHA_600423,"Liuzhou Chemical Industry Co., Ltd. (600423)"
+GOOG/SHA_600425,Xinjiang Qingsong BM and Chmls Gp Co Ltd (600425)
+GOOG/SHA_600426,Shandong Hualu Hengsheng Chemical Co Ltd (600426)
+GOOG/SHA_600428,"COSCO Shipping Co., Ltd. (600428)"
+GOOG/SHA_600429,Beijing Sanyuan Foods Company Limited (600429)
+GOOG/SHA_600432,"Ji Lin Ji En Nickel Industry Co., Ltd (600432)"
+GOOG/SHA_600433,"Guangdong Guanhao High-Tech Co.,Ltd (600433)"
+GOOG/SHA_600435,North Navigation Control Technlgy Co Ltd (600435)
+GOOG/SHA_600436,Zhangzhou Pientzehuang Pharmaceutical Co (600436)
+GOOG/SHA_600438,Tongwei Co Ltd (600438)
+GOOG/SHA_600439,"Henan Rebecca Hair Products Co., Ltd (600439)"
+GOOG/SHA_600444,Anhui Guotong Hi-Tech Pipes Industry Co. (600444)
+GOOG/SHA_600446,SHENZHEN KINGDOM TECHNOLOGY Co Ltd (600446)
+GOOG/SHA_600448,Huafang Limited Company (600448)
+GOOG/SHA_600449,Ningxia Building Materials Group Co Ltd (600449)
+GOOG/SHA_600452,ChongQing FuLing Electric Power Ind Co. (600452)
+GOOG/SHA_600455,ButOne Information Corp XiAn (600455)
+GOOG/SHA_600456,"Baoji Titanium Industry Co., Ltd (600456)"
+GOOG/SHA_600458,Zhuzhou Times New Material Tech Co. Ltd (600458)
+GOOG/SHA_600459,"Sino-Platinum Metals Co., Ltd. (600459)"
+GOOG/SHA_600460,"Hangzhou Silan Microelectronics Co., Ltd (600460)"
+GOOG/SHA_600461,"Jiangxi Hongcheng Waterworks Co., Ltd. (600461)"
+GOOG/SHA_600462,Yanbian Shixian Bailu Papermaking Co. (600462)
+GOOG/SHA_600463,"Beijing Airport High-Tech Park Co.,Ltd. (600463)"
+GOOG/SHA_600466,Sichuan Languang Development Co Ltd (600466)
+GOOG/SHA_600467,Shandong Homey Aquatic Development CoLtd (600467)
+GOOG/SHA_600468,"Tianjin Benefo Tejing Electric Co.,Ltd. (600468)"
+GOOG/SHA_600469,"Aeolus Tyre Co., Ltd (600469)"
+GOOG/SHA_600470,"Anhui Liuguo Chemical Co., Ltd (600470)"
+GOOG/SHA_600475,"WuXi Huaguang Boiler Co., Ltd. (600475)"
+GOOG/SHA_600476,"Hunan Copote Science &amp; Tech Co., Ltd. (600476)"
+GOOG/SHA_600477,Hangxiao Steel Structure Co Ltd (600477)
+GOOG/SHA_600478,"Hunan Corun New Energy Co., Ltd. (600478)"
+GOOG/SHA_600479,"ZhuZhou QianJin Pharmaceutical Co., Ltd (600479)"
+GOOG/SHA_600480,Lingyun Industrial Corporation Limited (600480)
+GOOG/SHA_600481,Shuangliang ECo Energy Systems Co Ltd (600481)
+GOOG/SHA_600482,"Fengfan Co., Ltd. (600482)"
+GOOG/SHA_600483,Fujian Funeng Co Ltd (600483)
+GOOG/SHA_600485,Beijing Xinwei Telecom Tech Group Co Ltd (600485)
+GOOG/SHA_600486,"Jiangsu Yangnong Chemical Co.,Ltd. (600486)"
+GOOG/SHA_600487,Hengtong Optic-Electric Co Ltd (600487)
+GOOG/SHA_600488,"Tianjin Tianyao Pharmaceutical Co., Ltd (600488)"
+GOOG/SHA_600489,"Zhongjin Gold Co., Ltd (600489)"
+GOOG/SHA_600490,Pengxin International Mining Co Ltd (600490)
+GOOG/SHA_600491,Long Yuan Construction Group Co Ltd (600491)
+GOOG/SHA_600493,Fujian Fynex Textile Science &amp; Tech Co (600493)
+GOOG/SHA_600495,Jinxi Axle Company Limited (600495)
+GOOG/SHA_600496,Changjiang &amp; Jinggong Steel Structure (600496)
+GOOG/SHA_600497,"Yunnan Chihong Zinc&amp;Germanium Co., Ltd. (600497)"
+GOOG/SHA_600498,Fiberhome Telecommunication Tech.Co.Ltd (600498)
+GOOG/SHA_600499,Keda Clean Energy Co Ltd (600499)
+GOOG/SHA_600500,Sinochem International Corporation (600500)
+GOOG/SHA_600501,Aerosun Corporation (600501)
+GOOG/SHA_600502,Anhui Water Resources Development Co.Ltd (600502)
+GOOG/SHA_600503,"Deluxe Family Co., Ltd. (600503)"
+GOOG/SHA_600505,"Sichuan Xichang Electric Power Co., Ltd. (600505)"
+GOOG/SHA_600506,"Xin Jiang Korla Pear Co.,Ltd. (600506)"
+GOOG/SHA_600507,Fangda Special Steel Technology Co Ltd (600507)
+GOOG/SHA_600508,Shanghai Datun Energy Resources Co. Ltd. (600508)
+GOOG/SHA_600509,Xinjiang Tianfu Energy Co Ltd (600509)
+GOOG/SHA_600510,"Black Peony (Group) Co., Ltd (600510)"
+GOOG/SHA_600511,China National Medicines Corporation Ltd (600511)
+GOOG/SHA_600512,"Tengda Construction Group Co., Ltd. (600512)"
+GOOG/SHA_600513,Jiangsu Lianhuan Pharmaceutical Co. Ltd (600513)
+GOOG/SHA_600515,Hainan Island Construction Co Ltd (600515)
+GOOG/SHA_600516,"Fangda Carbon New Material Co., Ltd. (600516)"
+GOOG/SHA_600517,"Shanghai Zhixin Electric Co., Ltd. (600517)"
+GOOG/SHA_600518,Kangmei Pharmaceutical Co Ltd (600518)
+GOOG/SHA_600519,"Kweichow Moutai Co., Ltd. (600519)"
+GOOG/SHA_600520,"Tongling Trinity Technology Co.,Ltd. (600520)"
+GOOG/SHA_600521,"Zhejiang Huahai Pharmaceutical Co., Ltd. (600521)"
+GOOG/SHA_600522,"Jiangsu Zhongtian Technologies Co., Ltd. (600522)"
+GOOG/SHA_600523,Guizhou Guihang Automotive Components Co (600523)
+GOOG/SHA_600525,Changyuan Group Ltd (600525)
+GOOG/SHA_600526,Zhejiang Feida Env. Sci &amp; Tech Co Ltd (600526)
+GOOG/SHA_600527,Jiangsu Jiangnan High Polymer Fiber (600527)
+GOOG/SHA_600528,"China Railway Erju Co., Ltd. (600528)"
+GOOG/SHA_600529,"Shandong Pharmaceutical Glass Co., Ltd (600529)"
+GOOG/SHA_600530,"Shanghai Jiaoda Onlly Co., Ltd (600530)"
+GOOG/SHA_600531,"Henan Yuguang Gold &amp; Lead Co., Ltd (600531)"
+GOOG/SHA_600532,Shandong Hongda Mining Co Ltd (600532)
+GOOG/SHA_600533,"Nanjing Chixia Development Co., Ltd (600533)"
+GOOG/SHA_600535,Tasly Pharmaceutical Group Co Ltd (600535)
+GOOG/SHA_600536,China National Software &amp; Service Co Ltd (600536)
+GOOG/SHA_600537,Eging Photovoltaic Technology Co Ltd (600537)
+GOOG/SHA_600538,Beihai Gofar Marine Biological Industry (600538)
+GOOG/SHA_600539,"Taiyuan Lionhead Cement Co.,Ltd. (600539)"
+GOOG/SHA_600540,Xinjiang Sayram Modern Agriculture Co Lt (600540)
+GOOG/SHA_600543,Gansu Mogao Industrial Development Co. (600543)
+GOOG/SHA_600545,Xinjiang Urban Construction (Group) Co (600545)
+GOOG/SHA_600546,Shanxi Coal Internationl Enrgy Gr Co Ltd (600546)
+GOOG/SHA_600547,"Shandong Gold Mining Co., Ltd (600547)"
+GOOG/SHA_600548,Shenzhen Expressway Company Limited (600548)
+GOOG/SHA_600549,"Xiamen Tungsten Co., Ltd (600549)"
+GOOG/SHA_600550,Baoding Tianwei Baobian Electric Co. (600550)
+GOOG/SHA_600551,"TIMES MEDIA Co.,Ltd. (600551)"
+GOOG/SHA_600552,"Anhui Fangxing Science &amp; Tech Co.,Ltd. (600552)"
+GOOG/SHA_600555,Shanghai Nine Dragon Tourism Co Ltd (600555)
+GOOG/SHA_600556,Guangxi Future Technology Co Ltd (600556)
+GOOG/SHA_600557,"Jiangsu Kanion Pharmaceutical Co., Ltd. (600557)"
+GOOG/SHA_600558,Atlantic China Welding Consumables Inc (600558)
+GOOG/SHA_600559,"Hebei Hengshui Laobaigan Liquor Co., Ltd (600559)"
+GOOG/SHA_600560,Beijing AriTime Intelligent Control Co. (600560)
+GOOG/SHA_600561,"Jiangxi Changyun Co., Ltd. (600561)"
+GOOG/SHA_600562,Glarun Technology Co Ltd (600562)
+GOOG/SHA_600563,"Xiamen Faratronic Co., Ltd. (600563)"
+GOOG/SHA_600565,"Chongqing Dima Industry Co., Ltd (600565)"
+GOOG/SHA_600566,Hubei Jumpcan Pharmaceutical Co Ltd (600566)
+GOOG/SHA_600567,"An Hui Shan Ying Paper Industry Co., Ltd (600567)"
+GOOG/SHA_600568,Zhong Zhu Holding Co Ltd (600568)
+GOOG/SHA_600569,Anyang Iron &amp; Steel Inc. (600569)
+GOOG/SHA_600570,Hundsun Technologies Inc. (600570)
+GOOG/SHA_600571,Sunyard System Engineering Company Ltd. (600571)
+GOOG/SHA_600572,"Zhejiang CONBA Pharmaceutical Co., Ltd. (600572)"
+GOOG/SHA_600573,"FuJian Yanjing HuiQuan Brewery Co., Ltd. (600573)"
+GOOG/SHA_600575,Anhui Wanjiang Logistics Group Co Ltd (600575)
+GOOG/SHA_600576,Zhejiang WHWH Industry Co. Ltd (600576)
+GOOG/SHA_600577,Tongling Jingda Special Magnet Wire Co. (600577)
+GOOG/SHA_600578,Beijing Jingneng Power Co Ltd (600578)
+GOOG/SHA_600579,Qingdao Tianhua Instit Chem Engg Co Ltd (600579)
+GOOG/SHA_600580,"Wolong Electric Group Co., Ltd (600580)"
+GOOG/SHA_600581,"Xinjiang Ba Yi Iron &amp; Steel Co., Ltd (600581)"
+GOOG/SHA_600582,"Tian Di Science &amp; Technology Co., Ltd (600582)"
+GOOG/SHA_600583,"Offshore Oil Engineering Co., Ltd (600583)"
+GOOG/SHA_600584,Jiangsu Changjiang Electronics Tech Co (600584)
+GOOG/SHA_600585,Anhui Conch Cement Co Ltd (600585)
+GOOG/SHA_600586,Shandong Jinjing Science &amp; Tech. Co. Ltd (600586)
+GOOG/SHA_600587,"Shinva Medical Instrument Co.,Ltd. (600587)"
+GOOG/SHA_600588,Yongyou Network Technology Co Ltd (600588)
+GOOG/SHA_600589,"Guangdong RongTai Industry Co., Ltd (600589)"
+GOOG/SHA_600590,"Tellhow Sci-tech Co., Ltd. (600590)"
+GOOG/SHA_600592,"Fujian Longxi Bearing (Group) Co., Ltd (600592)"
+GOOG/SHA_600593,Dalian Sunasia Tourism Holding Co Ltd (600593)
+GOOG/SHA_600594,"GuiZhou YiBai Pharmaceutical Co., Ltd. (600594)"
+GOOG/SHA_600595,"Henan Zhongfu Industry Co.,Ltd (600595)"
+GOOG/SHA_600596,Zhejiang Xinan Chemcl Industrl Gp Co Ltd (600596)
+GOOG/SHA_600597,"Bright Dairy &amp; Food Co., Ltd. (600597)"
+GOOG/SHA_600598,Heilongjiang Agriculture Company Limited (600598)
+GOOG/SHA_600599,Panda Financial Holding Corp Ltd (600599)
+GOOG/SHA_600600,Tsingtao Brewery Co Ltd (600600)
+GOOG/SHA_600601,Founder Technology Group Corp. (600601)
+GOOG/SHA_600602,INESA Electron Co Ltd (600602)
+GOOG/SHA_600603,Dazhou Xingye Holdings Co Ltd (600603)
+GOOG/SHA_600604,Shanghai Shibei Hi-Tech Co Ltd (600604)
+GOOG/SHA_600605,"Shanghai Huitong Energy Co.,Ltd (600605)"
+GOOG/SHA_600606,"Shanghai Jinfeng Investment Co., Ltd (600606)"
+GOOG/SHA_600608,"Shanghai Broadband Technology Co., Ltd (600608)"
+GOOG/SHA_600609,"Shenyang Jinbei Automotive Co., Ltd. (600609)"
+GOOG/SHA_600610,Shanghai Zhongyida Co Ltd (600610)
+GOOG/SHA_600611,Dazhong Transportation (Group) Co. Ltd. (600611)
+GOOG/SHA_600612,Lao Feng Xiang Co Ltd (600612)
+GOOG/SHA_600613,Shanghai Shenqi Pharmactcl Inv Mgt CoLtd (600613)
+GOOG/SHA_600614,Shanghai Dingli Technology Development (600614)
+GOOG/SHA_600615,"Shanghai Fenghwa Group Co.,Ltd. (600615)"
+GOOG/SHA_600616,ShangHai JinFeng Wine Company Limited (600616)
+GOOG/SHA_600617,Shanxi Guoxin Energy Co Ltd (600617)
+GOOG/SHA_600618,"Shanghai Chlor-Alkali Chemical Co., Ltd. (600618)"
+GOOG/SHA_600619,Shanghai Highly (Group) Co Ltd (600619)
+GOOG/SHA_600620,"Shanghai Tianchen Co., Ltd (600620)"
+GOOG/SHA_600621,Shanghai Chinafortune Co Ltd (600621)
+GOOG/SHA_600622,Shanghai Jiabao Industry &amp; Commerce Co. (600622)
+GOOG/SHA_600623,Double Coin Holdings Ltd. (600623)
+GOOG/SHA_600624,Shanghai Fudan Forward S&amp;T Co Ltd (600624)
+GOOG/SHA_600626,"Shanghai Shenda Co., Ltd (600626)"
+GOOG/SHA_600628,"Shanghai New World Co., Ltd. (600628)"
+GOOG/SHA_600629,"Shanghai Lengguang Industrial Co., Ltd (600629)"
+GOOG/SHA_600630,Shanghai Dragon Corporation (600630)
+GOOG/SHA_600633,Zhejiang Daily Media Group Co Ltd (600633)
+GOOG/SHA_600634,Shanghai Zhongji Investment Hldg Co Ltd (600634)
+GOOG/SHA_600635,Shanghai DaZhong Public Utlts Gp Co Ltd (600635)
+GOOG/SHA_600636,Shanghai 3F New Materials Company Ltd (600636)
+GOOG/SHA_600637,Bestv New Media Co Ltd (600637)
+GOOG/SHA_600638,Shanghai New Huang Pu Real Estate Co. (600638)
+GOOG/SHA_600639,Shanghai Jinqiao Export Processing Zone (600639)
+GOOG/SHA_600640,Besttone Holding Co Ltd (600640)
+GOOG/SHA_600641,Shanghai Wanye Enterprises Co Ltd (600641)
+GOOG/SHA_600642,Shenergy Company Limited (600642)
+GOOG/SHA_600643,Shanghai AJ Corporation (600643)
+GOOG/SHA_600644,"Leshan Electric Power Co., Ltd (600644)"
+GOOG/SHA_600645,Zhongyuan Union Cell &amp; Gene Eng Corp Ltd (600645)
+GOOG/SHA_600647,"Shanghai Tongda Venture Capital Co.,Ltd. (600647)"
+GOOG/SHA_600648,Shanghai Wai Gao Qiao Free Trade Zone (600648)
+GOOG/SHA_600649,"Shanghai Chengtou Holding Co.,Ltd (600649)"
+GOOG/SHA_600650,Shanghai Jin Jiang Intl Indu Inv Co Ltd (600650)
+GOOG/SHA_600651,"Shanghai Feilo Acoustics Co., Ltd (600651)"
+GOOG/SHA_600652,Shanghai U9 Game Co Ltd (600652)
+GOOG/SHA_600653,"Shanghai Shenhua Holdings Co., Ltd. (600653)"
+GOOG/SHA_600654,China Security &amp; Fire Co Ltd (600654)
+GOOG/SHA_600655,"Shanghai Yuyuan Tourist Mart Co.,Ltd (600655)"
+GOOG/SHA_600656,ZhuHai BoYuan Investment Co Ltd (600656)
+GOOG/SHA_600657,Cinda Real Estate Co Ltd (600657)
+GOOG/SHA_600658,Beijing Electronic Zone Invstmnt&amp;Dvlpmnt (600658)
+GOOG/SHA_600660,Fuyao Glass Industry Group Co Ltd (600660)
+GOOG/SHA_600661,Shanghai Xin Nanyang Co Ltd (600661)
+GOOG/SHA_600662,"Shanghai QiangSheng Holding Co., Ltd (600662)"
+GOOG/SHA_600663,Shanghai Lujiazui Finance &amp; Trade Zone (600663)
+GOOG/SHA_600664,"Harbin Pharmaceutical Group Co., Ltd. (600664)"
+GOOG/SHA_600665,"Tande Co., Ltd. (600665)"
+GOOG/SHA_600666,"Southwest Pharmaceutical Co., Ltd. (600666)"
+GOOG/SHA_600667,Wuxi Taiji Industry Limited Corporation (600667)
+GOOG/SHA_600668,Zhejiang Jianfeng Group Co. Ltd (600668)
+GOOG/SHA_600671,Hangzhou Tian-Mu-Shan Pharm. Enterp. Co (600671)
+GOOG/SHA_600673,Guangdong Hec Technology Holding Co Ltd (600673)
+GOOG/SHA_600674,Sichuan Chuantou Energy Stock Co Ltd (600674)
+GOOG/SHA_600675,China Enterprise Company Limited (600675)
+GOOG/SHA_600676,Shanghai Jiao Yun Group Co Ltd (600676)
+GOOG/SHA_600677,Aerospace Communications Holdings Co Ltd (600677)
+GOOG/SHA_600678,Sichuan Golden Summit (Grp) Joint-Stock (600678)
+GOOG/SHA_600679,"Jinshan Development &amp; Cons. Co., Ltd. (600679)"
+GOOG/SHA_600680,Shanghai Potevio Co Ltd. (600680)
+GOOG/SHA_600681,Winowner Group Co Ltd. (600681)
+GOOG/SHA_600682,Nanjing Xinjiekou Department Store CoLtd (600682)
+GOOG/SHA_600683,Metro Land Corp Ltd (600683)
+GOOG/SHA_600684,Guangzhou Pearl River Ind. Development (600684)
+GOOG/SHA_600685,CSSC Offshore &amp; Marine Engg Group Co Ltd (600685)
+GOOG/SHA_600686,"Xiamen King Long Motor Group Co., Ltd. (600686)"
+GOOG/SHA_600687,Gansu Gangtai Holding Group Co Ltd (600687)
+GOOG/SHA_600688,Sinopec Shanghai Petrochemical Co Ltd (600688)
+GOOG/SHA_600689,Shanghai Sanmao Enterprise (Grp) Co Ltd (600689)
+GOOG/SHA_600690,"Qingdao Haier Co., Ltd. (600690)"
+GOOG/SHA_600691,Yangmei Chemical Co Ltd (600691)
+GOOG/SHA_600692,"Shanghai Ya Tong Co., Ltd (600692)"
+GOOG/SHA_600693,Fujian Dongbai Group Co Ltd (600693)
+GOOG/SHA_600694,"DASHANG CO., LTD. (600694)"
+GOOG/SHA_600695,Shanghai Greencourt Investment Gp Co Ltd (600695)
+GOOG/SHA_600696,"Shanghai Duolun Industry Co., Ltd. (600696)"
+GOOG/SHA_600697,Chang Chun Eurasia Group Co. Ltd (600697)
+GOOG/SHA_600698,Hunan Tyen Machinery Co Ltd (600698)
+GOOG/SHA_600699,Ningbo Joyson Electronic Corp (600699)
+GOOG/SHA_600701,Habin Gong Da High-Tech Entprs. Devel Co (600701)
+GOOG/SHA_600702,Sichuan Tuopai Shede Wine Co Ltd (600702)
+GOOG/SHA_600703,"SANAN OPTOELECTRONICS CO.,LTD (600703)"
+GOOG/SHA_600704,Zhejiang Mtrl Indstrl Zhgd Ytg Gp Co Ltd (600704)
+GOOG/SHA_600705,AVIC Capital Holdings Co Ltd (600705)
+GOOG/SHA_600706,XiAn Qujiang Cultural Tourism Co Ltd (600706)
+GOOG/SHA_600707,"Irico Display Devices Co., Ltd. (600707)"
+GOOG/SHA_600708,"Shanghai Haibo Co., Ltd. (600708)"
+GOOG/SHA_600710,Changlin Company Limited (600710)
+GOOG/SHA_600711,Chengtun Mining Group Co Ltd (600711)
+GOOG/SHA_600712,"Nanning Department Store Co.,Ltd. (600712)"
+GOOG/SHA_600713,NanJing Medical Company Limited (600713)
+GOOG/SHA_600714,Qinghai Jinrui Mineral Developmnt Co Ltd (600714)
+GOOG/SHA_600715,"SongLiao Automobile Co., Ltd (600715)"
+GOOG/SHA_600716,Jiangsu Phoenix Property Investment Co (600716)
+GOOG/SHA_600717,Tianjin Port Company Limited (600717)
+GOOG/SHA_600718,Neusoft Corporation (600718)
+GOOG/SHA_600719,"Dalian Thermal Power Co., Ltd. (600719)"
+GOOG/SHA_600720,Gansu QiLianShan Cement Co Ltd (600720)
+GOOG/SHA_600721,"Xinjiang Baihuacun Co.,Ltd. (600721)"
+GOOG/SHA_600722,"HeBei Jinniu Chemical Industry Co.,Ltd (600722)"
+GOOG/SHA_600723,Beijing Capital Retailing Group Co Ltd (600723)
+GOOG/SHA_600724,Ningbo Fuda Company Limited (600724)
+GOOG/SHA_600725,Yunnan Yunwei Company Limited (600725)
+GOOG/SHA_600726,Huadian Energy Company Ltd. (600726)
+GOOG/SHA_600727,"Shandong Lubei Chemical Co., Ltd (600727)"
+GOOG/SHA_600728,PCI-Suntek Technology Co Ltd (600728)
+GOOG/SHA_600729,Chongqing Department Store Co. Ltd (600729)
+GOOG/SHA_600730,"China Hi-Tech Group Co., Ltd. (600730)"
+GOOG/SHA_600731,"Hunan Haili Chemical Co., Ltd. (600731)"
+GOOG/SHA_600732,"Shanghai Xinmei Real Estate Co., Ltd. (600732)"
+GOOG/SHA_600733,"ChengDu QianFeng Electronics Co., Ltd. (600733)"
+GOOG/SHA_600734,Fujian Start Group Co Ltd (600734)
+GOOG/SHA_600735,"Shandong Hiking International Co., Ltd. (600735)"
+GOOG/SHA_600736,"Suzhou New District Hi-Tech Ind. Co.,Ltd (600736)"
+GOOG/SHA_600737,"COFCO Xinjiang Tunhe Co., Ltd. (600737)"
+GOOG/SHA_600738,Lanzhou Minbai Shareholding (Grp) Co (600738)
+GOOG/SHA_600739,"Liaoning Cheng Da Co., Ltd (600739)"
+GOOG/SHA_600740,"Shanxi Coking Co., Ltd. (600740)"
+GOOG/SHA_600741,HUAYU Automotive Systems Co Ltd (600741)
+GOOG/SHA_600742,Changchun Faway Automobile Cmpnts Co Ltd (600742)
+GOOG/SHA_600743,HUAYUAN PROPERTY CO. LTD (600743)
+GOOG/SHA_600744,"Datang Huayin Electric Power Co., Ltd. (600744)"
+GOOG/SHA_600745,"JoinuIn (Holding) Co., Ltd (600745)"
+GOOG/SHA_600746,"Jiangsu SOPO Chemical Co.,Ltd (600746)"
+GOOG/SHA_600747,Dalian Daxian Enterprises Holdings Co (600747)
+GOOG/SHA_600748,"Shanghai Industrial Development Co., Ltd (600748)"
+GOOG/SHA_600749,"Tibet Tourism Co., Ltd. (600749)"
+GOOG/SHA_600750,Jiangzhong Pharmaceutical Co Ltd (600750)
+GOOG/SHA_600751,Tianjin Marine Shipping Co. Ltd. B (600751)
+GOOG/SHA_600753,Henan Oriental Silver Star Inv Co Ltd (600753)
+GOOG/SHA_600754,Shanghai Jinjiang Int'l Hotels Devlpt. (600754)
+GOOG/SHA_600755,"Xiamen ITG Group Corp.,Ltd (600755)"
+GOOG/SHA_600756,Inspur Software Co Ltd (600756)
+GOOG/SHA_600757,Changjiang Publishing and Media Co Ltd (600757)
+GOOG/SHA_600758,Liaoning Hongyang Energy Resource Invest (600758)
+GOOG/SHA_600759,Geo-Jade Petroleum Corp (600759)
+GOOG/SHA_600760,Zhonghang Heibao Co Ltd (600760)
+GOOG/SHA_600761,"Anhui Heli Co.,Ltd (600761)"
+GOOG/SHA_600763,Topchoice Medical Corporation (600763)
+GOOG/SHA_600764,CEC CoreCast Corporation Limited (600764)
+GOOG/SHA_600765,AVIC Heavy Machinery Co Ltd (600765)
+GOOG/SHA_600766,YanTai Yuancheng Gold Co Ltd (600766)
+GOOG/SHA_600767,Winsan Shanghai Medical Scie&amp;Tech Co Ltd (600767)
+GOOG/SHA_600768,"Ningbo Fubang Jingye Group Co., Ltd. (600768)"
+GOOG/SHA_600769,Wuhan Xianglong Power Industry Co Ltd (600769)
+GOOG/SHA_600770,"Jiangsu Zongyi Co., Ltd (600770)"
+GOOG/SHA_600771,GuangYuYuan Chinese Herbal Medicn Co Ltd (600771)
+GOOG/SHA_600773,Tibet Urban Development&amp;Investmnt Co Ltd (600773)
+GOOG/SHA_600774,"Wuhan Hanshang Group Co., Ltd. (600774)"
+GOOG/SHA_600775,Nanjing Panda Electronics Co Ltd (600775)
+GOOG/SHA_600776,"Eastern Communication Co., Ltd. (600776)"
+GOOG/SHA_600777,"Yantai Xinchao Industry Co., Ltd (600777)"
+GOOG/SHA_600778,"XINJIANG YOUHAO (GROUP) CO.,LTD (600778)"
+GOOG/SHA_600779,"Sichuan Swellfun Co., Ltd. (600779)"
+GOOG/SHA_600780,Top Energy Company Ltd Shanxi (600780)
+GOOG/SHA_600781,Furen Pharmaceutical Grp Industry Co Ltd (600781)
+GOOG/SHA_600782,"Xinyu Iron &amp; Steel Co., Ltd. (600782)"
+GOOG/SHA_600783,Luxin Venture Capital Group Co Ltd (600783)
+GOOG/SHA_600784,"Luyin Investment Group Co., Ltd (600784)"
+GOOG/SHA_600785,Yinchuan Xinhua Commercial Group Co Ltd (600785)
+GOOG/SHA_600787,CMST Development Co Ltd (600787)
+GOOG/SHA_600789,"Shandong Lukang Pharmaceutical Co., Ltd (600789)"
+GOOG/SHA_600790,Zhejiang China Light &amp;Textile Industrial (600790)
+GOOG/SHA_600791,Beih-Property Co Ltd (600791)
+GOOG/SHA_600792,Yunnan Coal and Energy Co Ltd (600792)
+GOOG/SHA_600793,"Yibin Paper Industry Co., Ltd. (600793)"
+GOOG/SHA_600794,Zhangjiagang Freetrade Sci &amp;Tech Co Ltd (600794)
+GOOG/SHA_600795,GD Power Development Co Ltd (600795)
+GOOG/SHA_600796,Zhejiang Qianjiang Biochemical Co Ltd (600796)
+GOOG/SHA_600797,"Insigma Technology Co.,LTD (600797)"
+GOOG/SHA_600798,Ningbo Marine Company Limited (600798)
+GOOG/SHA_600800,"Tianjin Global Magnetic Card Co., Ltd. (600800)"
+GOOG/SHA_600801,Huaxin Cement Co. Ltd (600801)
+GOOG/SHA_600802,Fujian Cement Inc. (600802)
+GOOG/SHA_600803,ENN Ecological Holdings Co Ltd (600803)
+GOOG/SHA_600804,Dr Peng Telecom &amp; Media Group Co Ltd (600804)
+GOOG/SHA_600805,"Jiangsu Yueda Investment Co., Ltd (600805)"
+GOOG/SHA_600806,Shenji Gp. Kunming Machine Tool Co. Ltd. (600806)
+GOOG/SHA_600807,"Shandong Tyan Home Co., Ltd (600807)"
+GOOG/SHA_600808,Maanshan Iron &amp; Steel Co Ltd (600808)
+GOOG/SHA_600809,Shanxi Xinghuacun Fen Wine Factory Co. (600809)
+GOOG/SHA_600810,"Shen Ma Industry Co.,Ltd (600810)"
+GOOG/SHA_600811,Orient Group Incorporation (600811)
+GOOG/SHA_600812,"North China Pharmaceutical Co., Ltd. (600812)"
+GOOG/SHA_600814,"Hangzhou Jiebai Group Co., Limited (600814)"
+GOOG/SHA_600815,Xiamen XGMA Machinery Co Ltd (600815)
+GOOG/SHA_600816,Anxin Trust Co Ltd (600816)
+GOOG/SHA_600817,Xi'an Hongsheng Tchnlgy Co Ltd (600817)
+GOOG/SHA_600818,Zhonglu Co Ltd (600818)
+GOOG/SHA_600819,Shanghai Yaohua Pilkngtn Glass Gp Co Ltd (600819)
+GOOG/SHA_600820,"Shanghai Tunnel Engineering Co., Ltd. (600820)"
+GOOG/SHA_600821,Tianjin Quanyechang (Group) Co Ltd (600821)
+GOOG/SHA_600822,"Shanghai Material Trading Co., Ltd. (600822)"
+GOOG/SHA_600823,"ShangHai ShiMao Co., Ltd (600823)"
+GOOG/SHA_600824,Shanghai Yimin Commerce Group Co Ltd (600824)
+GOOG/SHA_600825,"Shanghai Xinhua Media Co., Ltd. (600825)"
+GOOG/SHA_600826,Shanghai Lansheng Corporation (600826)
+GOOG/SHA_600827,Shanghai Bailian Group Inc Company (600827)
+GOOG/SHA_600828,"Chengshang Group Co., Ltd. (600828)"
+GOOG/SHA_600829,HPGC Renmintongtai Pharmaceutical Corp (600829)
+GOOG/SHA_600830,"Sunny Loan Top Co.,Ltd. (600830)"
+GOOG/SHA_600831,Shaanxi Brdcst&amp;TV Ntwk Intmdr Grp Co Ltd (600831)
+GOOG/SHA_600832,"Shanghai Oriental Pearl (Group) Co., Ltd (600832)"
+GOOG/SHA_600833,"Shanghai No.1 Pharmacy Co., Ltd. (600833)"
+GOOG/SHA_600834,"Shanghai Shentong Metro Co., Ltd (600834)"
+GOOG/SHA_600835,Shanghai Mechanical &amp; Elect. Ind. Co Ltd (600835)
+GOOG/SHA_600836,Shanghai Jielong Industry Group Corp Ltd (600836)
+GOOG/SHA_600837,HAITONG Securities Company Limited (600837)
+GOOG/SHA_600838,"Shanghai Join Buy Co., Ltd (600838)"
+GOOG/SHA_600839,"Sichuan Changhong Electric Co., Ltd. (600839)"
+GOOG/SHA_600841,Shanghai Diesel Engine Company Limited (600841)
+GOOG/SHA_600843,"SGSB Group Co., Ltd. (600843)"
+GOOG/SHA_600844,"Danhua Chemical Technology Co., Ltd. (600844)"
+GOOG/SHA_600845,Shanghai Baosight Software Co. Ltd (600845)
+GOOG/SHA_600846,Shanghai Tongji Science &amp; Technology Ind (600846)
+GOOG/SHA_600847,Chongqing Wanli New Energy Co Ltd (600847)
+GOOG/SHA_600848,Shanghai Automation Instrumentation Co. (600848)
+GOOG/SHA_600850,"Shanghai East-China Computer Co., Ltd. (600850)"
+GOOG/SHA_600851,"Shanghai Haixin Group Co., Ltd. (600851)"
+GOOG/SHA_600853,"Longjian Road &amp; Bridge Co., Ltd. (600853)"
+GOOG/SHA_600854,Jiangsu Chunlan Refrigerating Equipment (600854)
+GOOG/SHA_600855,"Beijing Aerospace Changfeng Co., Ltd (600855)"
+GOOG/SHA_600856,ChangChun Department JiTuan Store Co Ltd (600856)
+GOOG/SHA_600857,Ningbo Zhongbai Co Ltd (600857)
+GOOG/SHA_600858,Silver Plaza Group Co Ltd (600858)
+GOOG/SHA_600859,Beijing Wangfujing Department Store (600859)
+GOOG/SHA_600860,Beijing Jingcheng Machinry Elctrc Co Ltd (600860)
+GOOG/SHA_600861,Beijing Urban-Rural Trade Centre Co. Ltd (600861)
+GOOG/SHA_600862,"TONTEC Tecnology Inv. Gr Co., Ltd (600862)"
+GOOG/SHA_600863,Inner Mongolia MengDian HuaNeng Thermal (600863)
+GOOG/SHA_600864,"Harbin Hatou Investment Co., Ltd. (600864)"
+GOOG/SHA_600865,"Baida Group Co., Ltd. (600865)"
+GOOG/SHA_600866,Starlake Bioscience Co Inc Zhqng Gngdng (600866)
+GOOG/SHA_600867,"Tonghua Dongbao Pharmaceutical Co., Ltd. (600867)"
+GOOG/SHA_600868,Guangdong Meiyan Jixiang Hydrpwr Co Ltd (600868)
+GOOG/SHA_600869,Far East Smarter Energy Co Ltd (600869)
+GOOG/SHA_600870,Xiamen Overseas Chinese Electronic Co (600870)
+GOOG/SHA_600871,Sinopec Oilfield Service Corp (600871)
+GOOG/SHA_600872,"Jonjee Hi-Tech Ind.&amp; Com. Grp Co., Ltd (600872)"
+GOOG/SHA_600873,Meihua Holdings Group Co Ltd (600873)
+GOOG/SHA_600874,Tianjin Capital Environmental Prtctn Grp (600874)
+GOOG/SHA_600875,Dongfang Electric Corporation Limited (600875)
+GOOG/SHA_600876,"Luoyang Glass Co.,Ltd. (600876)"
+GOOG/SHA_600877,China Jialing Industrial Co Ltd (Group) (600877)
+GOOG/SHA_600879,China Aerospace Times Electronics Co Ltd (600879)
+GOOG/SHA_600880,"Chengdu B-ray Media Co., Ltd (600880)"
+GOOG/SHA_600881,Jilin Yatai (Group) Co Ltd (600881)
+GOOG/SHA_600882,Shandong Hualian Mining Holdings Co Ltd (600882)
+GOOG/SHA_600883,"Yunnan Bowin Technology Industry Co.,Ltd (600883)"
+GOOG/SHA_600884,"Ningbo Shanshan Co., Ltd (600884)"
+GOOG/SHA_600885,Hongfa Technology Co Ltd (600885)
+GOOG/SHA_600886,SDIC Power Holdings Co Ltd (600886)
+GOOG/SHA_600887,Inner Mongolia Yili Industrial Group Co. (600887)
+GOOG/SHA_600888,"Xinjiang Joinworld Co., Ltd. (600888)"
+GOOG/SHA_600889,"Nanjing Chemical Fibre Co.,Ltd (600889)"
+GOOG/SHA_600890,"CRED Holding Co.,Ltd (600890)"
+GOOG/SHA_600891,"Harbin Churin Group Jointstock Co.,Ltd. (600891)"
+GOOG/SHA_600892,Baocheng Investment Co Ltd (600892)
+GOOG/SHA_600893,AVIC Aviation Engine Corp PLC (600893)
+GOOG/SHA_600894,Guangzhou Guangri Stock Co Ltd (600894)
+GOOG/SHA_600895,Shanghai Zhangjiang Hi-Tech Park Dev. Co (600895)
+GOOG/SHA_600896,"China Shipping Haisheng Co., Ltd (600896)"
+GOOG/SHA_600897,Xiamen International Airport Co Ltd (600897)
+GOOG/SHA_600898,"Sanlian Commercial Co., Ltd (600898)"
+GOOG/SHA_600900,"China Yangtze Power Co., Ltd. (600900)"
+GOOG/SHA_600960,"Shandong Binzhou Bohai Piston Co., Ltd. (600960)"
+GOOG/SHA_600961,"Zhuzhou Smelter Group Co.,Ltd. (600961)"
+GOOG/SHA_600962,"SDIC Zhonglu Fruit Juice Co., Ltd. (600962)"
+GOOG/SHA_600963,"Yueyang Paper Co., Ltd. (600963)"
+GOOG/SHA_600965,"Fortune Ng Fung Food (Hebei) Co.,Ltd (600965)"
+GOOG/SHA_600966,Shandong Bohui Paper Industry Co Ltd (600966)
+GOOG/SHA_600967,"Baotou Beifang Chuangye Co., Ltd. (600967)"
+GOOG/SHA_600969,Hunan Chendian Int'l Dev. Share-Holding (600969)
+GOOG/SHA_600970,Sinoma International Engineering Co Ltd (600970)
+GOOG/SHA_600971,Anhui Hengyuan Coal Industry Co Ltd (600971)
+GOOG/SHA_600973,"Baosheng Sci &amp; Tech Innovation Co., Ltd. (600973)"
+GOOG/SHA_600975,"Hunan New Wellful Co., Ltd. (600975)"
+GOOG/SHA_600976,Jianmin Pharmaceutical Group Co Ltd (600976)
+GOOG/SHA_600978,"Guangdong Yihua Timber Industry Co., Ltd (600978)"
+GOOG/SHA_600979,"Sichuan Guangan AAA Public Co., Ltd. (600979)"
+GOOG/SHA_600980,BGRIMM Magnetic Materials &amp; Technology (600980)
+GOOG/SHA_600981,Jiangsu High Hope Corp (600981)
+GOOG/SHA_600982,"Ningbo Thermal Power Co., Ltd. (600982)"
+GOOG/SHA_600983,Whirlpool China Co Ltd (600983)
+GOOG/SHA_600984,"Shaanxi Construction Machinery Co., Ltd. (600984)"
+GOOG/SHA_600985,"Anhui Leimingkehua Co., Ltd. (600985)"
+GOOG/SHA_600986,"Keda Group Co., Ltd. (600986)"
+GOOG/SHA_600987,"Zhejiang Hangmin Co., Ltd. (600987)"
+GOOG/SHA_600988,Chifeng Jilong Gold Mining Co Ltd (600988)
+GOOG/SHA_600990,"Anhui Sun-Create Electronics Co., Ltd. (600990)"
+GOOG/SHA_600992,"Guizhou Wire Rope Co., Ltd. (600992)"
+GOOG/SHA_600993,"Mayinglong Pharmaceutical Group Co., Ltd (600993)"
+GOOG/SHA_600995,"Yunnan Wenshan Electric Power Co.,Ltd. (600995)"
+GOOG/SHA_600997,Kailuan Energy Chemical Co Ltd (600997)
+GOOG/SHA_600998,Jointown Pharmaceutical Group Co Ltd (600998)
+GOOG/SHA_600999,"China Merchants Securities CO., LTD. (600999)"
+GOOG/SHA_601000,"Tangshan Port Group Co., Ltd. (601000)"
+GOOG/SHA_601001,"Datong Coal Industry Co., Ltd (601001)"
+GOOG/SHA_601002,"Gem-Year Industrial Co., Ltd. (601002)"
+GOOG/SHA_601003,Liuzhou Iron &amp; Steel Co. Ltd. (601003)
+GOOG/SHA_601005,"Chongqing Iron &amp; Steel Co., Ltd. (601005)"
+GOOG/SHA_601006,"Daqin Railway Co., Ltd. (601006)"
+GOOG/SHA_601007,"Jinling Hotel Corporation, Ltd. (601007)"
+GOOG/SHA_601008,"Jiangsu Lianyungang Port Co., Ltd. (601008)"
+GOOG/SHA_601009,"Bank Of Nanjing Co.,Ltd. (601009)"
+GOOG/SHA_601010,Wenfeng Great World Chain Develpmnt Corp (601010)
+GOOG/SHA_601011,Qitaihe Baotailong Coal &amp; Coal (601011)
+GOOG/SHA_601012,XiAn LONGi Silicon Materials Co Ltd (601012)
+GOOG/SHA_601018,Ningbo Port Co Ltd (601018)
+GOOG/SHA_601028,Jiangsu Yulong Steel Pipe Co Ltd (601028)
+GOOG/SHA_601038,First Tractor Co Ltd (601038)
+GOOG/SHA_601058,Sailun Jinyu Group Co Ltd (601058)
+GOOG/SHA_601088,China Shenhua Energy Company Limited (601088)
+GOOG/SHA_601098,China South Publishing&amp;Media Grup Co Ltd (601098)
+GOOG/SHA_601099,Pacific Securities Co Ltd (601099)
+GOOG/SHA_601100,Jiangsu Hengli Highpressure Oil Cylinder (601100)
+GOOG/SHA_601101,Beijing Haohua Energy Resource Co Ltd (601101)
+GOOG/SHA_601106,China First Heavy Industries (601106)
+GOOG/SHA_601107,Sichuan Expressway Co Ltd (601107)
+GOOG/SHA_601111,Air China Ltd. (601111)
+GOOG/SHA_601113,Yiwu Huading Nylon Co Ltd (601113)
+GOOG/SHA_601116,Sanjiang Shopping Club Co Ltd (601116)
+GOOG/SHA_601117,"CN National Chemical Engineering Co.,Ltd (601117)"
+GOOG/SHA_601118,China Hainan Rubber Industry Group (601118)
+GOOG/SHA_601126,Beijing Sifang Automation Co Ltd (601126)
+GOOG/SHA_601137,Ningbo Boway Alloy Material Co Ltd (601137)
+GOOG/SHA_601139,Shenzhen Gas Corporation Ltd. (601139)
+GOOG/SHA_601158,Chongqing Water Group Company Limited (601158)
+GOOG/SHA_601166,"Industrial Bank Co., Ltd. (601166)"
+GOOG/SHA_601168,Western Mining Co Ltd (601168)
+GOOG/SHA_601169,"Bank of Beijing Co.,Ltd. (601169)"
+GOOG/SHA_601177,"Hangzhou Advance Gearbox Group Co., Ltd. (601177)"
+GOOG/SHA_601179,"China Xd Electric Co., Ltd. (601179)"
+GOOG/SHA_601186,China Railway Construction Corp Limited (601186)
+GOOG/SHA_601188,Heilongjiang Transportation Dvlp Co Ltd (601188)
+GOOG/SHA_601199,Jiangsu Jiangnan Water Co Ltd (601199)
+GOOG/SHA_601208,Sichuan EM Technology Co Ltd (601208)
+GOOG/SHA_601216,Inner Mongolia Junzheng E &amp; CI Co Ltd (601216)
+GOOG/SHA_601218,Jiangsu Jixin Wind Energy Technology (601218)
+GOOG/SHA_601222,Jiangsu Linyang Electronics Co Ltd (601222)
+GOOG/SHA_601231,Universal Scientfc Industrl Shngh Co Ltd (601231)
+GOOG/SHA_601233,Tongkun Group Co Ltd (601233)
+GOOG/SHA_601238,Guangzhou Automobile Group Co Ltd (601238)
+GOOG/SHA_601258,Pang Da Automobile Trade Co Ltd (601258)
+GOOG/SHA_601288,Agricultural Bank of China Ltd (601288)
+GOOG/SHA_601299,China CNR Corp Ltd (601299)
+GOOG/SHA_601311,Camel Group Co Ltd (601311)
+GOOG/SHA_601313,SJEC Corp (601313)
+GOOG/SHA_601318,Ping An Insurance (Grp) Co of China Ltd (601318)
+GOOG/SHA_601328,Bank of Communications Co Ltd (601328)
+GOOG/SHA_601333,"Guangshen Railway Co., Ltd. (601333)"
+GOOG/SHA_601336,New China Life Insurance Co Ltd (601336)
+GOOG/SHA_601339,Bros Eastern Co Ltd (601339)
+GOOG/SHA_601369,"Xi'An Shaangu Power Co., Ltd. (601369)"
+GOOG/SHA_601377,Industrial Securities Co Ltd (601377)
+GOOG/SHA_601388,Yechiu Metal Recycling China Ltd (601388)
+GOOG/SHA_601390,China Railway Group Ltd (601390)
+GOOG/SHA_601398,Industrial and Coml Bank of China Ltd (601398)
+GOOG/SHA_601515,Shantou Dongfeng Printing Co Ltd (601515)
+GOOG/SHA_601518,"Jilin Expressway Co., Ltd. (601518)"
+GOOG/SHA_601519,Shanghai DZH Ltd (601519)
+GOOG/SHA_601555,Soochow Securities Co Ltd (601555)
+GOOG/SHA_601558,Sinovel Wind Group Company Limited (601558)
+GOOG/SHA_601566,Joeone Co Ltd (601566)
+GOOG/SHA_601567,Ningbo Sanxing Electric Co Ltd (601567)
+GOOG/SHA_601588,Beijing North Star Company Limited (601588)
+GOOG/SHA_601599,Jiangsu Lugang Science &amp; Technlgy Co Ltd (601599)
+GOOG/SHA_601600,Aluminum Corporation of China Limited (601600)
+GOOG/SHA_601601,"China Pacific Insurance (Group) Co., Ltd (601601)"
+GOOG/SHA_601607,Shanghai Pharmaceuticals Holding Co Ltd (601607)
+GOOG/SHA_601608,CITIC Heavy Industries Co Ltd (601608)
+GOOG/SHA_601616,Shanghai Guangdian Electric Group Co Ltd (601616)
+GOOG/SHA_601618,Metallurgical Corporation of China Ltd. (601618)
+GOOG/SHA_601628,China Life Insurance Company Limited (601628)
+GOOG/SHA_601633,Great Wall Motor Co Ltd (601633)
+GOOG/SHA_601636,Zhuzhou Kibing Group Co Ltd (601636)
+GOOG/SHA_601666,Pingdingshan Tianan Coal Mining Co Ltd. (601666)
+GOOG/SHA_601668,China State Const. Eng. Corp Ltd (601668)
+GOOG/SHA_601669,Power Construction Corp of China Ltd (601669)
+GOOG/SHA_601677,Henan Mingtai Al.Industrial Co Ltd (601677)
+GOOG/SHA_601678,"Befar Group Co.,Ltd (601678)"
+GOOG/SHA_601688,"Huatai Securities Co., Ltd. (601688)"
+GOOG/SHA_601699,Shanxi Lu'an Environmental Energy Dev.Co (601699)
+GOOG/SHA_601700,Changshu Fengfan Power Equipment Co Ltd (601700)
+GOOG/SHA_601717,Zhengzhou Coal Mining Machinery Group Co (601717)
+GOOG/SHA_601718,Jihua Group Corporation Limited (601718)
+GOOG/SHA_601727,Shanghai Electric Group Company Limited (601727)
+GOOG/SHA_601766,CRRC Corp Ltd (601766)
+GOOG/SHA_601777,Lifan Industry (group) Co Ltd (601777)
+GOOG/SHA_601788,Everbright Securities Co Ltd (601788)
+GOOG/SHA_601789,Ningbo Construction Co Ltd (601789)
+GOOG/SHA_601798,Lanpec Technologies Co Ltd (601798)
+GOOG/SHA_601799,Changzhou Xingyu Automotive (601799)
+GOOG/SHA_601800,China Communications Construction Co Ltd (601800)
+GOOG/SHA_601801,"ANHUI XINHUA MEDIA CO., LTD (601801)"
+GOOG/SHA_601808,China Oilfield Services Limited (601808)
+GOOG/SHA_601818,"China Everbright Bank Co., Ltd (601818)"
+GOOG/SHA_601857,PetroChina Company Limited (601857)
+GOOG/SHA_601866,China Shipping Container Lines Co Ltd (601866)
+GOOG/SHA_601872,"China Merchants Energy Shipping Co., Ltd (601872)"
+GOOG/SHA_601877,"Zhejiang Chint Electrics Co., Ltd (601877)"
+GOOG/SHA_601880,Dalian Port (PDA) Co Ltd (601880)
+GOOG/SHA_601886,Jangho Group Co Ltd (601886)
+GOOG/SHA_601888,China Int'l Travel Service Corp (601888)
+GOOG/SHA_601890,Asian Star Anchor Chain Co Ltd Jiangsu (601890)
+GOOG/SHA_601898,China Coal Energy Company Limited (601898)
+GOOG/SHA_601899,"Zijin Mining Group Co., Ltd. (601899)"
+GOOG/SHA_601901,Founder Securities Co Ltd (601901)
+GOOG/SHA_601908,Beijing Jingyuntong Technology Co Ltd (601908)
+GOOG/SHA_601918,"SDIC XINJI ENERGY Co., Ltd (601918)"
+GOOG/SHA_601919,China COSCO Holdings Company Limited (601919)
+GOOG/SHA_601928,Jiangsu Phoenix Publishing&amp;Media (601928)
+GOOG/SHA_601929,JiShi Media Co Ltd (601929)
+GOOG/SHA_601933,"Yonghui Superstores Co., Ltd (601933)"
+GOOG/SHA_601939,China Construction Bank Corporation (601939)
+GOOG/SHA_601958,"Jinduicheng Molybdenum Co., Ltd. (601958)"
+GOOG/SHA_601965,China Automotive Engg Rsrch Inst Co Ltd (601965)
+GOOG/SHA_601988,Bank of China Limited (601988)
+GOOG/SHA_601989,China Shipbuilding Industry Co Ltd (601989)
+GOOG/SHA_601991,Datang Intl Power Generation Co Ltd (601991)
+GOOG/SHA_601992,BBMG Corp (601992)
+GOOG/SHA_601996,Guangxi Fenglin Wood Industry Grp Co Ltd (601996)
+GOOG/SHA_601998,China CITIC Bank Corporation Limited (601998)
+GOOG/SHA_601999,Northern United Publishing&amp;Md(Grp)Co Ltd (601999)
+GOOG/SHA_603000,Peoplecn Co Ltd (603000)
+GOOG/SHA_603001,Zhejiang Aokang Shoes Co Ltd (603001)
+GOOG/SHA_603002,Epoxy Base Electronic Material (603002)
+GOOG/SHA_603003,Shanghai Lonyer Fuels Co Ltd (603003)
+GOOG/SHA_603008,Xilinmen Furniture Co Ltd (603008)
+GOOG/SHA_603077,Sichuan Hebang Corp Ltd (603077)
+GOOG/SHA_603123,Beijing Cuiwei Tower Co Ltd (603123)
+GOOG/SHA_603128,CTS International Logistics Corp Ltd (603128)
+GOOG/SHA_603167,Bohai Ferry Company Limited (603167)
+GOOG/SHA_603333,Sichuan Star Cable Co Ltd (603333)
+GOOG/SHA_603366,Jiangsu Sunrain Solar Energy Co Ltd (603366)
+GOOG/SHA_603399,Jinzhou New China Dragon Molybdenum (603399)
+GOOG/SHA_603766,Loncin Motor Co Ltd (603766)
+GOOG/SHA_603993,China Molybdenum Luoyang Co Ltd (603993)
+GOOG/SHA_900901,INESA Electron Co Ltd (900901)
+GOOG/SHA_900902,Shanghai Shibei Hi-Tech Co Ltd (900902)
+GOOG/SHA_900903,Dazhong Transportation (Group) Co. Ltd. (900903)
+GOOG/SHA_900904,Shanghai Shenqi Pharmactcl Inv Mgt CoLtd (900904)
+GOOG/SHA_900905,Lao Feng Xiang Co Ltd (900905)
+GOOG/SHA_900906,Shanghai Zhongyida Co Ltd (900906)
+GOOG/SHA_900907,Shanghai Dingli Technology Development (900907)
+GOOG/SHA_900908,"Shanghai Chlor-Alkali Chemical Co., Ltd. (900908)"
+GOOG/SHA_900909,Double Coin Holdings Ltd. (900909)
+GOOG/SHA_900910,Shanghai Highly (Group) Co Ltd (900910)
+GOOG/SHA_900911,Shanghai Jinqiao Export Processing Zone (900911)
+GOOG/SHA_900912,Shanghai Wai Gao Qiao Free Trade Zone (900912)
+GOOG/SHA_900913,Shanxi Guoxin Energy Co Ltd (900913)
+GOOG/SHA_900914,Shanghai Jin Jiang Intl Indu Inv Co Ltd (900914)
+GOOG/SHA_900915,Zhonglu Co Ltd (900915)
+GOOG/SHA_900916,"Jinshan Development &amp; Cons. Co., Ltd. (900916)"
+GOOG/SHA_900917,"Shanghai Haixin Group Co., Ltd. (900917)"
+GOOG/SHA_900918,Shanghai Yaohua Pilkngtn Glass Gp Co Ltd (900918)
+GOOG/SHA_900919,Shanghai Greencourt Investment Gp Co Ltd (900919)
+GOOG/SHA_900920,Shanghai Diesel Engine Company Limited (900920)
+GOOG/SHA_900921,"Danhua Chemical Technology Co., Ltd. (900921)"
+GOOG/SHA_900922,Shanghai Sanmao Enterprise (Grp) Co Ltd (900922)
+GOOG/SHA_900923,Shanghai Bailian Group Inc Company (900923)
+GOOG/SHA_900924,"SGSB Group Co., Ltd. (900924)"
+GOOG/SHA_900925,Shanghai Mechanical &amp; Elect. Ind. Co Ltd (900925)
+GOOG/SHA_900926,Shanghai Baosight Software Co. Ltd (900926)
+GOOG/SHA_900927,"Shanghai Material Trading Co., Ltd. (900927)"
+GOOG/SHA_900928,Shanghai Automation Instrumentation Co. (900928)
+GOOG/SHA_900929,"Shanghai Jinjiang Intl. Travel Co., Ltd (900929)"
+GOOG/SHA_900930,Shanghai Potevio Co Ltd. (900930)
+GOOG/SHA_900932,Shanghai Lujiazui Finance &amp; Trade Zone (900932)
+GOOG/SHA_900933,Huaxin Cement Co. Ltd (900933)
+GOOG/SHA_900934,Shanghai Jinjiang Int'l Hotels Devlpt. (900934)
+GOOG/SHA_900935,"Shanghai Young Sun Investment Co., Ltd. (900935)"
+GOOG/SHA_900936,Inner Mongolia Eerduosi Resourses Co Ltd (900936)
+GOOG/SHA_900937,Huadian Energy Company Ltd. (900937)
+GOOG/SHA_900938,Tianjin Marine Shipping Co. Ltd. B (900938)
+GOOG/SHA_900939,Shanghai Huili Building Materials Co Ltd (900939)
+GOOG/SHA_900940,Greattown Holdings Ltd (900940)
+GOOG/SHA_900941,"Eastern Communication Co., Ltd. (900941)"
+GOOG/SHA_900942,"Huangshan Tourism Development Co., Ltd (900942)"
+GOOG/SHA_900943,Shanghai Kai Kai Industry Co Ltd (900943)
+GOOG/SHA_900945,"Hainan Airlines Co., Ltd. (900945)"
+GOOG/SHA_900946,Hunan Tyen Machinery Co Ltd (900946)
+GOOG/SHA_900947,"Shanghai Zhenhua Port Machinery Co., Ltd (900947)"
+GOOG/SHA_900948,Inner Mongolia Yitai Coal Company Ltd. (900948)
+GOOG/SHA_900950,"Jiangsu Xincheng Real Estate Co., Ltd. (900950)"
+GOOG/SHA_900951,Dahua Group Dalian Chemical Industry Co (900951)
+GOOG/SHA_900952,"Jinzhou Port Co., Ltd. (900952)"
+GOOG/SHA_900953,"KAMA CO., LTD. (900953)"
+GOOG/SHA_900955,Shanghai Nine Dragon Tourism Co Ltd (900955)
+GOOG/SHA_900956,Huangshi Dongbei Electrical Appliance Co (900956)
+GOOG/SHA_900957,Shanghai Lingyun Industries Development (900957)
+GOOG/SHE_000001,Ping An Bank Co Ltd (000001)
+GOOG/SHE_000002,"China Vanke Co., Ltd. (000002)"
+GOOG/SHE_000004,"Shenzhen Cau Technology Co., Ltd. (000004)"
+GOOG/SHE_000005,Shenzhen Fountain Corporation (000005)
+GOOG/SHE_000006,Shenzhen Zhenye Group Co Ltd (000006)
+GOOG/SHE_000007,ShenZhen Zero-Seven Co Ltd (000007)
+GOOG/SHE_000008,Baolilai Investment Co Ltd Guangdong (000008)
+GOOG/SHE_000009,"China Baoan Group Co.,Ltd (000009)"
+GOOG/SHE_000010,Beijing Shenhuaxin Co Ltd (000010)
+GOOG/SHE_000011,Shenzhen Properties &amp; Resources Develop. (000011)
+GOOG/SHE_000012,"CSG Holding Co., Ltd. (000012)"
+GOOG/SHE_000014,Shahe Industry Co Ltd (000014)
+GOOG/SHE_000016,"Konka Group Co., Ltd. (000016)"
+GOOG/SHE_000018,"Shenzhen Victor Onward Textile Ind. Co., (000018)"
+GOOG/SHE_000019,"Shenzhen Shenbao Industrial Co., Ltd (000019)"
+GOOG/SHE_000020,"Shenzhen Zhongheng Huafa Co., Ltd. (000020)"
+GOOG/SHE_000021,"Shenzhen Kaifa Technology Co., Ltd. (000021)"
+GOOG/SHE_000022,Shenzhen Chiwan Wharf Holdings Ltd (000022)
+GOOG/SHE_000023,Shenzhen Universe Group Co Ltd (000023)
+GOOG/SHE_000024,China Merchants Property Develpmt Co Ltd (000024)
+GOOG/SHE_000025,"Shenzhen Tellus Holding Co., Ltd. (000025)"
+GOOG/SHE_000026,Fiyta Holdings Ltd (000026)
+GOOG/SHE_000027,"Shenzhen Energy Group Co., Ltd. (000027)"
+GOOG/SHE_000028,China National Accord Medicines Corp Ltd (000028)
+GOOG/SHE_000029,Shenzhen Special Ecn Zn Rl Est Gr Co Ltd (000029)
+GOOG/SHE_000030,FAWER Automotive Parts Ltd Co (000030)
+GOOG/SHE_000031,"COFCO Property (Group) Co., Ltd. (000031)"
+GOOG/SHE_000032,"Shenzhen Sed Industry Co., Ltd (000032)"
+GOOG/SHE_000033,"Shenzhen Century Plaza Hotel Co., Ltd. (000033)"
+GOOG/SHE_000034,"Shenzhen Shenxin Taifeng Group Co.,Ltd. (000034)"
+GOOG/SHE_000035,China Kejian Company Limited (000035)
+GOOG/SHE_000036,China Union Holdings Ltd (000036)
+GOOG/SHE_000037,"Shenzhen Nanshan Power Co., Ltd. (000037)"
+GOOG/SHE_000038,"Shenzhen Capstone Industrial Co., Ltd. (000038)"
+GOOG/SHE_000039,China International Marine Cntnrs Gp Ltd (000039)
+GOOG/SHE_000040,BaoAn Hongji Real Estate Group Co Ltd (000040)
+GOOG/SHE_000042,Shenzhen Changcheng Investment Holding (000042)
+GOOG/SHE_000043,Avic Real Estate Holding Co Ltd (000043)
+GOOG/SHE_000045,"Shenzhen Textile (Holdings) Co., Ltd (000045)"
+GOOG/SHE_000046,Oceanwide Real Estate Group Co Ltd (000046)
+GOOG/SHE_000048,ShenZhen Kondarl Group Co Ltd (000048)
+GOOG/SHE_000049,"Shenzhen Desay Battery Tech Co., Ltd. (000049)"
+GOOG/SHE_000050,"Tianma Microelectronics Co., Ltd. (000050)"
+GOOG/SHE_000055,"China Fangda Group Co., Ltd. (000055)"
+GOOG/SHE_000056,Shenzhen International Enterprise Co Ltd (000056)
+GOOG/SHE_000058,"Shenzhen Seg Co., Ltd. (000058)"
+GOOG/SHE_000059,Liaoning Huajin Tongda Chemicals Co. Ltd (000059)
+GOOG/SHE_000060,Shenzhen Zhongjin Lingnan Nfmt Co Ltd (000060)
+GOOG/SHE_000061,"Shenzhen Agricultural Products Co., Ltd. (000061)"
+GOOG/SHE_000062,"Shenzhen Huaqiang Industry Co., Ltd. (000062)"
+GOOG/SHE_000065,Norinco International Co Ltd. (000065)
+GOOG/SHE_000066,China Greatwall Computer Shenzhen Co. (000066)
+GOOG/SHE_000068,Shenzhen Huakong Seg Co Ltd (000068)
+GOOG/SHE_000069,"Shenzhen Overseas Chinese Town Co., Ltd (000069)"
+GOOG/SHE_000070,"Shenzhen SDG Information Co., Ltd. (000070)"
+GOOG/SHE_000078,Shenzhen Neptunus Bioengineering Co. Ltd (000078)
+GOOG/SHE_000088,Shenzhen Yan Tian Port Holdings Co. Ltd. (000088)
+GOOG/SHE_000089,Shenzhen Airport Company Limited (000089)
+GOOG/SHE_000090,"Shenzhen Tonge (Group) Co., Ltd. (000090)"
+GOOG/SHE_000096,"Shenzhen Guangju Energy Co., Ltd. (000096)"
+GOOG/SHE_000099,"CITIC Offshore Helicopter Co., Ltd (000099)"
+GOOG/SHE_000100,TCL Corporation (000100)
+GOOG/SHE_000150,"Yihua Real Estate Co.,Ltd (000150)"
+GOOG/SHE_000151,China National Complete Import &amp; Export (000151)
+GOOG/SHE_000153,"Anhui Fengyuan Pharmaceutical Co., Ltd. (000153)"
+GOOG/SHE_000155,Sichuan Chemical Company Ltd. (000155)
+GOOG/SHE_000156,Wasu Media Holding Co Ltd (000156)
+GOOG/SHE_000158,"Shijiazhuang Changshan Textile Co., Ltd. (000158)"
+GOOG/SHE_000159,"Xinjiang International Industry Co., Ltd (000159)"
+GOOG/SHE_000301,Jiangsu Wujiang China Eastern Silk Mkt (000301)
+GOOG/SHE_000333,Midea Group Co Ltd (000333)
+GOOG/SHE_000338,"Weichai Power Co., Ltd. (000338)"
+GOOG/SHE_000400,"XJ Electric Co., Ltd (000400)"
+GOOG/SHE_000401,"Tangshan Jidong Cement Co., Ltd. (000401)"
+GOOG/SHE_000402,"Financial Street Holding Co., Ltd. (000402)"
+GOOG/SHE_000404,"Huayi Compressor Co., Ltd. (000404)"
+GOOG/SHE_000407,"Shandong Shengli Co., Ltd. (000407)"
+GOOG/SHE_000408,JinGuyuan Holding Co Ltd (000408)
+GOOG/SHE_000409,Taifu Industry Co Ltd (000409)
+GOOG/SHE_000410,Shenyang Machine Tool Co. Ltd (000410)
+GOOG/SHE_000413,Shijiazhuang Baoshi Electronic Glass Co (000413)
+GOOG/SHE_000415,Bohai Leasing Co Ltd (000415)
+GOOG/SHE_000416,"Qingdao Huaxin Industry Co.,Ltd. (000416)"
+GOOG/SHE_000417,"Hefei Department Store Group Co., Ltd. (000417)"
+GOOG/SHE_000418,Wuxi Little Swan Company Limited (000418)
+GOOG/SHE_000419,"Changsha Tongcheng Holdings Co., Ltd. (000419)"
+GOOG/SHE_000420,"Jilin Chemical Fibre Co., Ltd (000420)"
+GOOG/SHE_000421,"Nanjing Zhongbei (Group) Co.,Ltd. (000421)"
+GOOG/SHE_000422,"Hubei Yihua Chemical Industry Co., Ltd. (000422)"
+GOOG/SHE_000423,"Shan Dong Dong-E E-Jiao Co., Ltd. (000423)"
+GOOG/SHE_000425,XCMG Construction Machinery Co Ltd (000425)
+GOOG/SHE_000426,Inner Mongolia Xingye Mining Co Ltd (000426)
+GOOG/SHE_000428,"HUATIAN HOTEL GROUP CO.,LTD. (000428)"
+GOOG/SHE_000429,Guangdong Provincial Expressway Develop. (000429)
+GOOG/SHE_000488,Shandong Chenming Paper Holdings Limited (000488)
+GOOG/SHE_000498,Shandong Hi-Speed Road&amp;Bridge Co Ltd (000498)
+GOOG/SHE_000501,Wuhan Department Store Group Co. Ltd. (000501)
+GOOG/SHE_000502,Lvjing Holding Co Ltd (000502)
+GOOG/SHE_000503,Searainbow Holding Corp. (000503)
+GOOG/SHE_000504,"Beijing CCID Media Investments Co., Ltd. (000504)"
+GOOG/SHE_000505,"Hainan Pearl River Holdings Co., Ltd. (000505)"
+GOOG/SHE_000509,Huasu Holdings Co Ltd (000509)
+GOOG/SHE_000510,"Sichuan Jinlu Group Co., Ltd. (000510)"
+GOOG/SHE_000511,"ShenYang Ingenious Development Co., Ltd (000511)"
+GOOG/SHE_000513,Livzon Pharmaceutical Group Inc. (000513)
+GOOG/SHE_000514,"Chongqing Yukaifa Co.,Ltd. (000514)"
+GOOG/SHE_000516,"Xian Kaiyuan Holding Group Co., Ltd (000516)"
+GOOG/SHE_000517,Rongan Property Co Ltd (000517)
+GOOG/SHE_000518,"Jiangsu Sihuan Bioengineering Co., Ltd (000518)"
+GOOG/SHE_000519,Hunan Jiangnan Red Arrow Co Ltd (000519)
+GOOG/SHE_000520,Chang Jiang Shipping Group Phoenix Co. (000520)
+GOOG/SHE_000521,"Hefei Meiling Co., Ltd. (000521)"
+GOOG/SHE_000522,Guangzhou Baiyunshan Pharmaceutical Co. (000522)
+GOOG/SHE_000523,"Lonkey Industrial Co., Ltd., Guangzhou (000523)"
+GOOG/SHE_000524,"Guangzhou Dong Fang Hotel Co., Ltd. (000524)"
+GOOG/SHE_000525,Nanjing Red Sun Co Ltd (000525)
+GOOG/SHE_000526,Xiamen Insight Investment Co Ltd (000526)
+GOOG/SHE_000527,GD Midea Holding Co Ltd (000527)
+GOOG/SHE_000528,"Guangxi Liugong Machinery Co., Ltd. (000528)"
+GOOG/SHE_000529,Guangdong Guanghong Holdings Co Ltd (000529)
+GOOG/SHE_000530,"Dalian Refrigeration Co. , Ltd. (000530)"
+GOOG/SHE_000531,Guangzhou Hengyun Enterprises Holding (000531)
+GOOG/SHE_000532,"Leaguer Stock Co., Ltd. (000532)"
+GOOG/SHE_000533,Guangdong Macro Co Ltd (000533)
+GOOG/SHE_000534,Wedge Industrial Co Ltd (000534)
+GOOG/SHE_000536,CPT Technology (Group) Co Ltd (000536)
+GOOG/SHE_000537,"Tianjin Guangyu Development Co., Ltd (000537)"
+GOOG/SHE_000539,Guangdong Electric Power Development Co. (000539)
+GOOG/SHE_000541,"Foshan Electrical and Lighting Co., Ltd. (000541)"
+GOOG/SHE_000543,Anhui Wenergy Company Limited (000543)
+GOOG/SHE_000545,Jilin Gpro Titanium Industry CoLTD (000545)
+GOOG/SHE_000546,"Jilin Guanghua Holding Group Co.,Ltd. (000546)"
+GOOG/SHE_000547,"Chinascholars Group Co.,Ltd. (000547)"
+GOOG/SHE_000548,"Hunan Investment Group Co., Ltd. (000548)"
+GOOG/SHE_000550,"Jiangling Motors Corporation, Ltd. (000550)"
+GOOG/SHE_000551,"CREATE TECHNOLOGY &amp; SCIENCE CO., LTD. (000551)"
+GOOG/SHE_000552,Gansu Jngyn Coal Inds &amp; Elctr Pwr Co Ltd (000552)
+GOOG/SHE_000553,"Hubei Sanonda Co., Ltd. (000553)"
+GOOG/SHE_000554,Sinopec Shandong Taishan Petrolum Co Ltd (000554)
+GOOG/SHE_000555,"Shenzhen Techo Telcom., Ltd. (000555)"
+GOOG/SHE_000558,"Lander Real Estate Co., Ltd. (000558)"
+GOOG/SHE_000559,"Wanxiang Qianchao Co., Ltd. (000559)"
+GOOG/SHE_000560,"Kunming Sinobright (Group) Co.,Ltd. (000560)"
+GOOG/SHE_000561,Shaanxi Fenghuo Electronics Co Ltd (000561)
+GOOG/SHE_000562,"Hong Yuan Securities Co., Ltd (000562)"
+GOOG/SHE_000563,"Shaanxi International Trust Co.,Ltd. (000563)"
+GOOG/SHE_000564,"XI'AN MINSHENG GROUP CO., LTD. (000564)"
+GOOG/SHE_000565,"Chongqing Sanxia Paints Co., Ltd (000565)"
+GOOG/SHE_000566,"Hainan Haiyao Co., Ltd (000566)"
+GOOG/SHE_000567,"Hainan Haide Industry Co., Ltd. (000567)"
+GOOG/SHE_000568,"Lu Zhou Lao Jiao Co.,Ltd (000568)"
+GOOG/SHE_000570,"Changchai Co., Ltd. (000570)"
+GOOG/SHE_000571,"Sundiro Holding Co., Ltd. (000571)"
+GOOG/SHE_000572,Haima Automobile Group Co Ltd (000572)
+GOOG/SHE_000573,DongGuan Winnerway Industrial Zone Ltd. (000573)
+GOOG/SHE_000576,The Jiangmen Sugarcane Chem. Factory (000576)
+GOOG/SHE_000581,Weifu High-Technology Group Co Ltd (000581)
+GOOG/SHE_000582,"Beihai Port Co., Ltd. (000582)"
+GOOG/SHE_000584,Sichuan Youli Investment Holding Co Ltd (000584)
+GOOG/SHE_000585,Northeast Electric Development Co Ltd (000585)
+GOOG/SHE_000586,Sichuan Huiyuan Optical Communications (000586)
+GOOG/SHE_000587,Goldleaf Jewelry Co Ltd (000587)
+GOOG/SHE_000589,"Gui Zhou Tyre Co., Ltd. (000589)"
+GOOG/SHE_000590,Unisplendour Guhan Group Corporation Ltd (000590)
+GOOG/SHE_000591,"Chongqing Tong Jun Ge Co.,Ltd (000591)"
+GOOG/SHE_000592,"Fujian CFC Industries Co.,Ltd. (000592)"
+GOOG/SHE_000593,"Sichuan Datong Gas Development Co., Ltd. (000593)"
+GOOG/SHE_000594,Tianjin Good Hand Railway Holding Co Ltd (000594)
+GOOG/SHE_000595,"Xibei Bearing Co.,Ltd. (000595)"
+GOOG/SHE_000596,Anhui Gujing Distillery Company Limited (000596)
+GOOG/SHE_000597,"Northeast Pharmaceutical Group Co,Ltd (000597)"
+GOOG/SHE_000598,Chengdu Xingrong Investment Co Ltd (000598)
+GOOG/SHE_000599,"Qingdao Doublestar Co., Ltd (000599)"
+GOOG/SHE_000600,"Jointo Energy Investment Co.,Ltd. Hebei (000600)"
+GOOG/SHE_000601,"Guangdong Shaoneng Group Co., Ltd. (000601)"
+GOOG/SHE_000602,Guangdong Golden Horse Tourism Grp Stock (000602)
+GOOG/SHE_000603,Shengda Mining Co Ltd (000603)
+GOOG/SHE_000605,Sihuan Pharmaceutical Co Ltd (000605)
+GOOG/SHE_000606,Qinghai Gelatin Company Limited (000606)
+GOOG/SHE_000607,Huazhi Holding (Zhejiang) Co Ltd (000607)
+GOOG/SHE_000608,Yang Guang Co Ltd (000608)
+GOOG/SHE_000609,Beijing Mainstreets Invst. Group Corp. (000609)
+GOOG/SHE_000610,Xi'an Tourism Co Ltd (000610)
+GOOG/SHE_000611,Inner Mongolia Sihai Technology Co Ltd (000611)
+GOOG/SHE_000612,"JiaoZuo WanFang Alum. Manufac. Co.,Ltd. (000612)"
+GOOG/SHE_000613,"Hainan Dadonghai Tourism Centre Co., Ltd (000613)"
+GOOG/SHE_000615,"Hubei Golden Ring Co., Ltd. (000615)"
+GOOG/SHE_000616,Yeland Group Co Ltd (000616)
+GOOG/SHE_000617,"Jinan Diesel Engine Co., Ltd (000617)"
+GOOG/SHE_000619,"Wuhu Conch Profiles and Science Co., Ltd (000619)"
+GOOG/SHE_000620,Macrolink Real Estate Co Ltd (000620)
+GOOG/SHE_000623,Jilin Aodong Medicine Industry Group Co. (000623)
+GOOG/SHE_000625,Chongqing Changan Automobile Company Ltd (000625)
+GOOG/SHE_000626,"Lianyungang Ideal Group Co., Ltd (000626)"
+GOOG/SHE_000627,"Hubei Biocause Pharmaceutical Co.,Ltd (000627)"
+GOOG/SHE_000628,Chengdu Hi-Tech Development Co. Ltd. (000628)
+GOOG/SHE_000629,Pangang Group Vndm Tm &amp; Res Co Ltd (000629)
+GOOG/SHE_000630,Tongling Nonferrous Metals Group Co Ltd (000630)
+GOOG/SHE_000631,Shunfa Hengye Corp (000631)
+GOOG/SHE_000632,"Fujian Sanmu Group Co., Ltd. (000632)"
+GOOG/SHE_000633,"Shenyang Hejin Holding Co., Ltd. (000633)"
+GOOG/SHE_000635,Ningxia Younglight Chemicals Co Ltd (000635)
+GOOG/SHE_000636,Guangdong Fenghua Adv. Tech. (Hldg) Co (000636)
+GOOG/SHE_000637,"Maoming Petro-Chemical Shihua Co., Ltd. (000637)"
+GOOG/SHE_000638,Vanfund Urban Investment&amp;Dev Co Ltd (000638)
+GOOG/SHE_000639,Xiwang Foodstuffs Co Ltd (000639)
+GOOG/SHE_000650,"Renhe Pharmacy Co., Ltd. (000650)"
+GOOG/SHE_000651,Gree Electric Appliances Inc of Zhuhai (000651)
+GOOG/SHE_000652,Tianjin Ecnomc-technlgcl Dev Area Co Ltd (000652)
+GOOG/SHE_000655,"Shandong Jinling Mining Co., Ltd. (000655)"
+GOOG/SHE_000656,Jinke Property Group Co Ltd (000656)
+GOOG/SHE_000657,China Tungsten and Hightech Mtrls Co Ltd (000657)
+GOOG/SHE_000661,Changchun High &amp; New Tech Industry Inc (000661)
+GOOG/SHE_000662,"Softto Co., Ltd (000662)"
+GOOG/SHE_000663,Fujian Yongan Forestry (Grp) Joint-Stock (000663)
+GOOG/SHE_000665,Hubei Radio and Tlvsn Infrn Ntwrk Co Ltd (000665)
+GOOG/SHE_000666,Jingwei Textile Machinery Company Ltd (000666)
+GOOG/SHE_000667,Milord Real Estate Development Gp Co Ltd (000667)
+GOOG/SHE_000668,"RONGFENG HOLDING GROUP CO.,LTD. (000668)"
+GOOG/SHE_000669,PetroChina Jinhong Energy Invstmt Co Ltd (000669)
+GOOG/SHE_000670,Sunyoung Industry Development Co Ltd (000670)
+GOOG/SHE_000671,Yango Group Co Ltd (000671)
+GOOG/SHE_000672,Gansu Shangfeng Cement Co Ltd (000672)
+GOOG/SHE_000673,Contemporary Eastern Investment Co Ltd (000673)
+GOOG/SHE_000676,"Henan Star Hi-Tech Co., Ltd. (000676)"
+GOOG/SHE_000677,CHTC Helon Co Ltd (000677)
+GOOG/SHE_000678,Xiangyang Automobile Bearing Company Ltd (000678)
+GOOG/SHE_000679,"Dalian Friendship (Group) Co., Ltd. (000679)"
+GOOG/SHE_000680,"Shantui Construction Machinery Co., Ltd. (000680)"
+GOOG/SHE_000681,"Far East Industrial Stock Co., Ltd. (000681)"
+GOOG/SHE_000682,Dongfang Electronics Co Ltd (000682)
+GOOG/SHE_000683,Inner Mongolia Yuan Xing Energy Co Ltd (000683)
+GOOG/SHE_000686,Northeast Securities Co Ltd (000686)
+GOOG/SHE_000687,Swan Fiber Co Ltd (000687)
+GOOG/SHE_000688,Jianxin Mining Co Ltd (000688)
+GOOG/SHE_000690,"Guangdong Baolihua New Energy Stock Co., (000690)"
+GOOG/SHE_000691,Hainan Yatai Industrial Develpmnt Co Ltd (000691)
+GOOG/SHE_000692,"Shenyang Huitian Thermal Power Co., Ltd. (000692)"
+GOOG/SHE_000695,"Tianjin Binhai Energy &amp; Devel. Co., Ltd (000695)"
+GOOG/SHE_000697,Shaanxi Ligeance Mineral Res Co Ltd (000697)
+GOOG/SHE_000698,"Shenyang Chemical Industry Co., Ltd (000698)"
+GOOG/SHE_000700,Jiangnan Mould &amp; Plastic Tech Co Ltd (000700)
+GOOG/SHE_000701,Xiamen Xinde Co Ltd. (000701)
+GOOG/SHE_000702,Hunan Zhenghong Science &amp; Technology (000702)
+GOOG/SHE_000703,Hengyi Petrochemical Co Ltd (000703)
+GOOG/SHE_000707,Hubei Shuanghuan Science &amp;Tech. Stock Co (000707)
+GOOG/SHE_000708,"Daye Special Steel Co., Ltd (000708)"
+GOOG/SHE_000709,Hebei Iron And Steel Co Ltd (000709)
+GOOG/SHE_000710,Chengdu Tianxing Instrument &amp; Meter Co. (000710)
+GOOG/SHE_000711,Heilongjiang Tianlun Real Estate Dev Co (000711)
+GOOG/SHE_000712,Guangdong Golden Dragon Development Inc. (000712)
+GOOG/SHE_000713,"Hefei Fengle Seed Co.,Ltd (000713)"
+GOOG/SHE_000715,Citic Devel.-Shenyang Commercial Bldg Co (000715)
+GOOG/SHE_000716,Nanfang Black Sesame Group Co Ltd (000716)
+GOOG/SHE_000717,"SGIS Songshan Co., Ltd (000717)"
+GOOG/SHE_000718,"Suning Universal Co., Ltd. (000718)"
+GOOG/SHE_000719,Central China Land Media Co Ltd (000719)
+GOOG/SHE_000720,Shandong Xinneng Taishn Pwr Gnrtn Co Ltd (000720)
+GOOG/SHE_000721,"Xi'an Catering Co., Ltd. (000721)"
+GOOG/SHE_000722,Hunan Fazhan Industrial Co Ltd (000722)
+GOOG/SHE_000723,"Shanxi Meijin Energy Co., Ltd. (000723)"
+GOOG/SHE_000725,BOE Technology Group Co. Ltd (000725)
+GOOG/SHE_000726,"Lu Thai Textile Co., Ltd. (000726)"
+GOOG/SHE_000727,Nanjing Huadong Elect.Info &amp; Tech Co Ltd (000727)
+GOOG/SHE_000728,Guoyuan Securities Company Limited (000728)
+GOOG/SHE_000729,"Beijing Yanjing Brewery Co., Ltd. (000729)"
+GOOG/SHE_000731,"Sichuan Meifeng Chemical Ind. Co., Ltd. (000731)"
+GOOG/SHE_000732,Thaihot Group Co Ltd (000732)
+GOOG/SHE_000733,China Zhenhua (Group) Science &amp; Tech. (000733)
+GOOG/SHE_000735,Luoniushan Co Ltd (000735)
+GOOG/SHE_000736,Cred-Chongshi Real Estate Corp Ltd (000736)
+GOOG/SHE_000737,"Nafine Chemical Industry Group Co.,Ltd (000737)"
+GOOG/SHE_000738,AVIC Aero Engine Controls Co Ltd (000738)
+GOOG/SHE_000739,Apeloa Pharmaceutical Co Ltd (000739)
+GOOG/SHE_000748,"Greatwall Information Industry Co., Ltd (000748)"
+GOOG/SHE_000750,Sealand Securities Co Ltd (000750)
+GOOG/SHE_000751,"Huludao Zinc Industry Co., Ltd. (000751)"
+GOOG/SHE_000752,Tibet Galaxy Science &amp; Tech Dvlp Co Ltd (000752)
+GOOG/SHE_000753,"Fujian Zhangzhou Development Co., Ltd. (000753)"
+GOOG/SHE_000755,"Shanxi Sanwei Group Co.,Ltd (000755)"
+GOOG/SHE_000756,Shandong Xinhua Pharmaceutical Co (000756)
+GOOG/SHE_000757,Sichuan Haowu Electromechanical Co Ltd (000757)
+GOOG/SHE_000758,China Nonferrous Metal Ind. FE &amp; Const. (000758)
+GOOG/SHE_000760,"Hubei Bothwin Investment Co.,Ltd (000760)"
+GOOG/SHE_000761,"Bengang Steel Plates Co., Ltd. (000761)"
+GOOG/SHE_000762,"Tibet Mineral Development Co., Ltd (000762)"
+GOOG/SHE_000766,Tonghua Golden-Horse Pharm. Industry Co. (000766)
+GOOG/SHE_000767,Shanxi Zhangze Electric Power Co Ltd (000767)
+GOOG/SHE_000768,AVIC Aircraft Co Ltd (000768)
+GOOG/SHE_000776,GF Securities Co Ltd (000776)
+GOOG/SHE_000777,"SUFA Technology Industry Co., Ltd., CNNC (000777)"
+GOOG/SHE_000778,"Xinxing Ductile Iron Pipes Co., Ltd. (000778)"
+GOOG/SHE_000779,"Lanzhou Sanmao Industrial Co., Ltd. (000779)"
+GOOG/SHE_000780,Inner Mongolia PingZhuang Eng. Resources (000780)
+GOOG/SHE_000782,"Guangdong Xinhui Meida Nylon Co., Ltd. (000782)"
+GOOG/SHE_000783,Changjiang Securities Company Limited (000783)
+GOOG/SHE_000785,"Wuhan Zhongnan Commercial Group Co., Ltd (000785)"
+GOOG/SHE_000786,Beijing New Building Materials PLC (000786)
+GOOG/SHE_000788,PKU Intl Healthcare Gp SW Pharm Co Ltd (000788)
+GOOG/SHE_000789,"Jiangxi Wannianqing Cement Co., Ltd (000789)"
+GOOG/SHE_000790,Chengdu Huasun Group Inc Ltd (000790)
+GOOG/SHE_000791,GEPIC Energy Development Co Ltd (000791)
+GOOG/SHE_000792,Qinghai Salt Lake Potash Company Limited (000792)
+GOOG/SHE_000793,Huawen Media Investment Corp. (000793)
+GOOG/SHE_000795,Taiyuan Twin Tower Aluminium Oxide Co. (000795)
+GOOG/SHE_000796,E-Food Group Co Ltd (000796)
+GOOG/SHE_000797,"China Wuyi Co., Ltd. (000797)"
+GOOG/SHE_000798,"CNFC Overseas Fishery Co., Ltd (000798)"
+GOOG/SHE_000799,"Jiugui Liquor Co., Ltd. (000799)"
+GOOG/SHE_000800,"Faw Car Co., Ltd. (000800)"
+GOOG/SHE_000801,Sichuan Jiuzhou Electronic Co Ltd (000801)
+GOOG/SHE_000802,Beijing Jingxi Tourism Development Co. (000802)
+GOOG/SHE_000803,Si Chuan Jinyu Automobile City Gp Co Ltd (000803)
+GOOG/SHE_000806,Beihai Yinhe Industry Investment Co Ltd (000806)
+GOOG/SHE_000809,Tieling Newcity Investment Holding Ltd (000809)
+GOOG/SHE_000810,"China Resources Jinhua Co.,Ltd. (000810)"
+GOOG/SHE_000811,"Yantai Moon Co., Ltd (000811)"
+GOOG/SHE_000812,Shaanxi Jinye Sci Tech &amp; Education Co. (000812)
+GOOG/SHE_000813,Xinjiang Tianshan Wool Tex Stock Co Ltd. (000813)
+GOOG/SHE_000815,"MCC Meili Paper Industry Co., Ltd. (000815)"
+GOOG/SHE_000816,"Jiangsu Jianghuai Engine Co., Ltd. (000816)"
+GOOG/SHE_000818,Fangda Jinhua Chemical Technology Co Ltd (000818)
+GOOG/SHE_000820,"Jincheng Paper Co., Ltd (000820)"
+GOOG/SHE_000821,Hubei Jingshan Corrugating Machinery Co. (000821)
+GOOG/SHE_000822,Shandong Haihua Company Limited (000822)
+GOOG/SHE_000823,"Guangdong Goworld Co., Ltd (000823)"
+GOOG/SHE_000825,"Shanxi Taigang Stainless Steel Co., Ltd (000825)"
+GOOG/SHE_000826,Sound Environmental Resources Co Ltd (000826)
+GOOG/SHE_000828,"Dongguan Development (Holdings) Co., Ltd (000828)"
+GOOG/SHE_000829,"Telling Telecom Holding Co., Ltd. (000829)"
+GOOG/SHE_000830,Luxi Chemical Group Co Ltd (000830)
+GOOG/SHE_000831,Minmetals Rare Earth Co Ltd (000831)
+GOOG/SHE_000833,"Guangxi Guitang (Group) Co., Ltd (000833)"
+GOOG/SHE_000835,Sichuan Shengda Industrial Co. Ltd. (000835)
+GOOG/SHE_000836,"Tianjin Xinmao Science&amp;Tech. Co., Ltd. (000836)"
+GOOG/SHE_000837,Qinchuan Mach. Devt Co Ltd of Shaanxi (000837)
+GOOG/SHE_000838,"Guoxing Rongda Real Estate Co., Ltd (000838)"
+GOOG/SHE_000839,"CITIC Guoan Information Indust. Co., Ltd (000839)"
+GOOG/SHE_000848,He Bei Cheng De Lolo Company Limited (000848)
+GOOG/SHE_000850,Anhui Huamao Textile Company Limited (000850)
+GOOG/SHE_000851,"Gohigh Data Networks Technology Co., Ltd (000851)"
+GOOG/SHE_000852,Kingdream Public Limited Company (000852)
+GOOG/SHE_000856,Tangshan Jidong Equipment Eng Co Ltd (000856)
+GOOG/SHE_000858,"Wuliangye Yibin Co., Ltd. (000858)"
+GOOG/SHE_000859,"Anhui Guofeng Plastic Industry Co., Ltd (000859)"
+GOOG/SHE_000860,"Beijing Shunxin Agriculture Co., Ltd. (000860)"
+GOOG/SHE_000861,Guangdong Highsun Group Co Ltd (000861)
+GOOG/SHE_000862,"Ning Xia Yin Xing Energy Co., Ltd. (000862)"
+GOOG/SHE_000863,Sanxiang Co Ltd (000863)
+GOOG/SHE_000868,"Anhui Ankai Automobile Co., Ltd (000868)"
+GOOG/SHE_000869,Yantai Changyu Pioneer Wine Company Ltd (000869)
+GOOG/SHE_000875,"Jilin Power Share Co., Ltd (000875)"
+GOOG/SHE_000876,New Hope Liuhe Co Ltd (000876)
+GOOG/SHE_000877,"Xinjiang Tianshan Cement Co., Ltd. (000877)"
+GOOG/SHE_000880,Weichai Heavy Machinery Co Ltd (000880)
+GOOG/SHE_000881,China Dalian International Corporation (000881)
+GOOG/SHE_000882,Beijing Hualian Department Store Co. Ltd (000882)
+GOOG/SHE_000883,Hubei Energy Group Co Ltd (000883)
+GOOG/SHE_000885,"Henan Tongli Cement Co., Ltd. (000885)"
+GOOG/SHE_000886,"Hainan Expressway Co., Ltd. (000886)"
+GOOG/SHE_000887,"Anhui Zhongding Sealing Parts Co., Ltd. (000887)"
+GOOG/SHE_000888,Emei Shan Tourism Company Limited (000888)
+GOOG/SHE_000889,Maoye Logistics Corp Ltd (000889)
+GOOG/SHE_000890,"Jiangsu Fasten Co., Ltd (000890)"
+GOOG/SHE_000892,Stellar Megaunion Corporation (000892)
+GOOG/SHE_000893,Dongling Grain &amp; Oil Co Ltd (000893)
+GOOG/SHE_000895,Henan Shuanghui Investment &amp; Development (000895)
+GOOG/SHE_000897,"Tianjin Jinbin Development Co., Ltd. (000897)"
+GOOG/SHE_000898,Angang Steel Company Limited (000898)
+GOOG/SHE_000899,"Jiangxi Ganneng Co., Ltd (000899)"
+GOOG/SHE_000900,"Xiandai Investment Co., Ltd (000900)"
+GOOG/SHE_000901,"Aerospace Hi-Tech Holding Group Co., Ltd (000901)"
+GOOG/SHE_000902,"China Garments Co., Ltd. (000902)"
+GOOG/SHE_000903,"Kunming Yunnei Power Co., Ltd. (000903)"
+GOOG/SHE_000905,"Xiamen Port Development Co., Ltd. (000905)"
+GOOG/SHE_000908,"Hunan Tianyi Science and Tech. Co., Ltd (000908)"
+GOOG/SHE_000909,"Soyea Technology Co., Ltd. (000909)"
+GOOG/SHE_000910,Dare Technology Co Ltd (000910)
+GOOG/SHE_000911,Nanning Sugar Industry Co Ltd (000911)
+GOOG/SHE_000912,Sichuan Lutianhua Company Limited (000912)
+GOOG/SHE_000915,Shandong Shanda Wit Scienc &amp; Tech Co Ltd (000915)
+GOOG/SHE_000916,"Huabei Expressway Co., Ltd. (000916)"
+GOOG/SHE_000917,Hunan TV &amp; Broadcast Intermediary Co Ltd (000917)
+GOOG/SHE_000918,China Calxon Group Co Ltd (000918)
+GOOG/SHE_000919,"Jinling Pharmaceutical Co., Ltd. (000919)"
+GOOG/SHE_000920,"South Huiton Co., Ltd (000920)"
+GOOG/SHE_000921,"Hisense Kelon Electrical Hldngs Co., Ltd (000921)"
+GOOG/SHE_000922,Harbin Elctrc Cop Jms Elctrc Mchn Co Ltd (000922)
+GOOG/SHE_000923,"XuanHua Construction Machinery Co., Ltd. (000923)"
+GOOG/SHE_000925,United Mechanical &amp; Electrical Co Ltd (000925)
+GOOG/SHE_000926,Hubei Fuxing Science &amp; Technology Co Ltd (000926)
+GOOG/SHE_000927,"Tianjin Faw Xiali Automobile Co., Ltd. (000927)"
+GOOG/SHE_000928,"Sinosteel Jilin Carbon Co., Ltd. (000928)"
+GOOG/SHE_000929,"Lanzhou Huanghe Enterprise Co.,Ltd. (000929)"
+GOOG/SHE_000930,"Anhui BBCA Biochemical Co., Ltd. (000930)"
+GOOG/SHE_000931,Beijing Centergate Tech. (Holding) Co. (000931)
+GOOG/SHE_000932,"Hunan Valin Steel Co., Ltd. (000932)"
+GOOG/SHE_000933,Henan Shenhuo Coal &amp; Power Co Ltd (000933)
+GOOG/SHE_000935,Sichuan Shuangma Cement Co.Ltd (000935)
+GOOG/SHE_000936,"Jiangsu Huaxicun Co., Ltd. (000936)"
+GOOG/SHE_000937,Jizhong Energy Resources Co Ltd (000937)
+GOOG/SHE_000938,Unisplendour Corporation Limited (000938)
+GOOG/SHE_000939,"Wuhan Kaidi Electric Power Co., Ltd. (000939)"
+GOOG/SHE_000949,"Xinxiang Chemical Fiber Co., Ltd. (000949)"
+GOOG/SHE_000950,"Chongqing Jian Feng Chemical Co., Ltd (000950)"
+GOOG/SHE_000951,"CNHTC Jinan Truck Co., Ltd (000951)"
+GOOG/SHE_000952,"Hubei Guangji Pharmaceutical Co., Ltd. (000952)"
+GOOG/SHE_000953,Guangxi Hechi Chemical Co Ltd (000953)
+GOOG/SHE_000955,Xinlong Holding (Group) Company Ltd. (000955)
+GOOG/SHE_000958,Shijiazhuang Dongfang Thermoelectric Co (000958)
+GOOG/SHE_000959,"Beijing Shougang Co., Ltd. (000959)"
+GOOG/SHE_000961,Jiangsu Zhongnan Construction Gp Co Ltd (000961)
+GOOG/SHE_000962,Ningxia Orient Tantalum Industry Co Ltd (000962)
+GOOG/SHE_000963,"Huadong Medicine Co., Ltd. (000963)"
+GOOG/SHE_000965,Tianjin Tianbao Infrastructure Co..Ltd. (000965)
+GOOG/SHE_000966,Guodian Changyuan Electric Power Co. Ltd (000966)
+GOOG/SHE_000968,"Taiyuan Coal Gasification Company, Ltd (000968)"
+GOOG/SHE_000969,"Advanced Technology &amp; Materials Co., Ltd (000969)"
+GOOG/SHE_000970,Beijing Zhong Ke San Huan Hi-Tech Co Ltd (000970)
+GOOG/SHE_000971,Hubei Landing Holding Co Ltd (000971)
+GOOG/SHE_000972,"Xinjiang Chalkis Co., Ltd. (000972)"
+GOOG/SHE_000973,FSPG Hi-Tech Co Ltd (000973)
+GOOG/SHE_000976,"Guangdong Kaiping Chunhui Co., Ltd. (000976)"
+GOOG/SHE_000977,Langchao Electronic Information Co Ltd (000977)
+GOOG/SHE_000978,Guilin Tourism Corp Ltd (000978)
+GOOG/SHE_000980,"Huangshan Jinma Co.,Ltd. (000980)"
+GOOG/SHE_000982,"Ningxia Zhongyin Cashmere Co., Ltd (000982)"
+GOOG/SHE_000983,Shanxi Xishan Coal and Electricity Power (000983)
+GOOG/SHE_000985,Daqing Huake Company Ltd. (000985)
+GOOG/SHE_000987,"Guangzhou Friendship Group Co., Ltd. (000987)"
+GOOG/SHE_000988,Huagong Tech Company Limited (000988)
+GOOG/SHE_000989,"Jiuzhitang Co.,Ltd. (000989)"
+GOOG/SHE_000990,"Chengzhi Co., Ltd (000990)"
+GOOG/SHE_000993,"Fujian Mindong Electric Power Co., Ltd. (000993)"
+GOOG/SHE_000995,"Gansu Huangtai Wine-Mktg Ind Co., Ltd (000995)"
+GOOG/SHE_000996,"China Cifco Investment Co., Ltd (000996)"
+GOOG/SHE_000997,"Fujian Newland Computer Co., Ltd. (000997)"
+GOOG/SHE_000999,China Resources Sanju Mdcl &amp; Phrm Co Ltd (000999)
+GOOG/SHE_001696,Chongqing Zongshen Power Mchnry Co Ltd (001696)
+GOOG/SHE_001896,Henan Yuneng Holdings Co. Ltd. (001896)
+GOOG/SHE_002002,Hongda Xingye Co Ltd (002002)
+GOOG/SHE_002004,Huapont-Nutrichem Co Ltd (002004)
+GOOG/SHE_002005,"Elec-Tech International Co., Ltd. (002005)"
+GOOG/SHE_002007,"Hualan Biological Engineering, Inc. (002007)"
+GOOG/SHE_002008,Han's Laser Technology Co Ltd (002008)
+GOOG/SHE_002009,Miracle Automation Engineering CoLtd (002009)
+GOOG/SHE_002013,Hubei Aviation Precision Machinery Tech (002013)
+GOOG/SHE_002014,"Huangshan Novel Co., Ltd. (002014)"
+GOOG/SHE_002015,"Xiake Color Spinning Co., Ltd. (002015)"
+GOOG/SHE_002016,"Guangdong Shirongzhaoye Co.,Ltd (002016)"
+GOOG/SHE_002017,Eastcompeace Technology Co Ltd (002017)
+GOOG/SHE_002018,"Anhui Huaxing Chemical Industry Co., Ltd (002018)"
+GOOG/SHE_002022,"Shanghai Kehua Bio-Engineering Co., Ltd. (002022)"
+GOOG/SHE_002023,"Sichuan Haite High-Tech Co., Ltd. (002023)"
+GOOG/SHE_002024,Suning Commerce Group Co Ltd (002024)
+GOOG/SHE_002025,"Guizhou Space Appliance Co., Ltd (002025)"
+GOOG/SHE_002026,"Shandong Weida Machinery Co., Ltd. (002026)"
+GOOG/SHE_002027,"Hedy Holding Co., Ltd. (002027)"
+GOOG/SHE_002028,"Sieyuan Electric Co., Ltd. (002028)"
+GOOG/SHE_002029,"Fujian Septwolves Industry Co., Ltd. (002029)"
+GOOG/SHE_002030,"Da An Gene Co., Ltd. of Sun Yat-Sen Uni. (002030)"
+GOOG/SHE_002031,Greatoo Inc (002031)
+GOOG/SHE_002033,"LiJiang YuLong Tourism Co., LTD. (002033)"
+GOOG/SHE_002036,Ningbo YAK Technology Industrial Co. Ltd (002036)
+GOOG/SHE_002037,Guizhou Jiulian Indust. Explv. Mat. Devt (002037)
+GOOG/SHE_002038,"Beijing SL Pharmaceutical Co., Ltd. (002038)"
+GOOG/SHE_002039,"Guizhou Qianyuan Power Co., Ltd. (002039)"
+GOOG/SHE_002040,"Nanjing Port Co., Ltd. (002040)"
+GOOG/SHE_002041,Shandong Denghai Seeds Co Ltd (002041)
+GOOG/SHE_002042,Huafu Top Dyed Melange Yarn Co Ltd (002042)
+GOOG/SHE_002043,Dehua TB New Decoration Material Co. Ltd (002043)
+GOOG/SHE_002044,"Jiangsu Sanyou Group Co., Ltd. (002044)"
+GOOG/SHE_002045,"Guoguang Electric Co., Ltd. (002045)"
+GOOG/SHE_002046,Luoyang Bearing Science &amp; Technology Co. (002046)
+GOOG/SHE_002047,Shenzhen Globe Union Industrial Corp. (002047)
+GOOG/SHE_002048,"Ningbo Huaxiang Electronic Co., Ltd. (002048)"
+GOOG/SHE_002049,Tongfang Guoxin Electronics Co Ltd (002049)
+GOOG/SHE_002051,"China CAMC Engineering Co., Ltd. (002051)"
+GOOG/SHE_002052,"Shenzhen Coship Electronics Co., Ltd. (002052)"
+GOOG/SHE_002054,"Dymatic Chemicals, Inc (002054)"
+GOOG/SHE_002055,"Shenzhen Deren Electronic Co., Ltd. (002055)"
+GOOG/SHE_002056,"Hengdian Group DMEGC Magnetics Co., Ltd. (002056)"
+GOOG/SHE_002057,"Sinosteel Anhui Tianyuan Tech. Co., Ltd. (002057)"
+GOOG/SHE_002058,"Shanghai Welltech Automation Co., Ltd. (002058)"
+GOOG/SHE_002060,Guangdong No.2 Hydropower Engn. Co. Ltd. (002060)
+GOOG/SHE_002062,"Hongrun Construction Group Co., Ltd. (002062)"
+GOOG/SHE_002063,YGSOFT INC. (002063)
+GOOG/SHE_002065,"DHC Software Co., Ltd (002065)"
+GOOG/SHE_002066,"Ruitai Materials Technology Co.,Ltd. (002066)"
+GOOG/SHE_002068,"Jiangxi Black Cat Carbon Black Co., Ltd. (002068)"
+GOOG/SHE_002071,"Jiangsu Hongbao Hardware Co., Ltd. (002071)"
+GOOG/SHE_002072,Shandong Demian Incorporated Company (002072)
+GOOG/SHE_002073,"Mesnac Co., Ltd. (002073)"
+GOOG/SHE_002074,"Jiangsu Dongyuan Electrical Grp Co., Ltd (002074)"
+GOOG/SHE_002075,"JIANGSU SHAGANG CO.,LTD. (002075)"
+GOOG/SHE_002076,Cnlight Co Ltd (002076)
+GOOG/SHE_002077,"Jiangsu Dagang Co., Ltd. (002077)"
+GOOG/SHE_002078,Shan Dong Sun Paper Industry JSC Ltd (002078)
+GOOG/SHE_002079,"Suzhou Good-Ark Electronics Co., Ltd (002079)"
+GOOG/SHE_002080,"Sinoma Science &amp; Technology Co., Ltd (002080)"
+GOOG/SHE_002081,"Suzhou Gold Mantis Const Deco Co., Ltd. (002081)"
+GOOG/SHE_002083,"Sunvim Group Co., Ltd. (002083)"
+GOOG/SHE_002084,"GuangZhou Seagull Kth &amp; Bth Prd Co.,Ltd. (002084)"
+GOOG/SHE_002086,"Shandong Oriental Ocean Sci-Tech Co.,Ltd (002086)"
+GOOG/SHE_002087,"Henan Xinye Textile Co., Ltd. (002087)"
+GOOG/SHE_002088,"Shandong Luyang Share Co., Ltd. (002088)"
+GOOG/SHE_002089,Suzhou New Sea Union Tlcm Tchnlgy Co Ltd (002089)
+GOOG/SHE_002090,"Wiscom System Co., Ltd. (002090)"
+GOOG/SHE_002091,"Jiangsu Guotai Intl Grp Guomao Co., Ltd. (002091)"
+GOOG/SHE_002092,Xinjiang Zhongtai Chemical Co Ltd (002092)
+GOOG/SHE_002093,"Guomai Technologies, Inc. (002093)"
+GOOG/SHE_002094,Qingdao Kingking Applied Chemistry Co (002094)
+GOOG/SHE_002096,Hunan Nanling Ind. Explosive Material (002096)
+GOOG/SHE_002097,Sunward Intelligent Equipment Co Ltd (002097)
+GOOG/SHE_002098,Fujian SBS Zipper Science &amp; Technology (002098)
+GOOG/SHE_002100,Xinjiang Tecon Anml Hsbndry Bio Tchnlgy (002100)
+GOOG/SHE_002101,"Guangdong Hongtu Tech. (hold.) Co., Ltd. (002101)"
+GOOG/SHE_002102,Fujian Guanfu Modern Household Wares Co (002102)
+GOOG/SHE_002103,Guangbo Group Stock Co Ltd (002103)
+GOOG/SHE_002104,"Hengbao Co., Ltd. (002104)"
+GOOG/SHE_002105,HL Corp. (Shenzhen) (002105)
+GOOG/SHE_002106,"Shenzhen Laibao Hi-Tech Co., Ltd. (002106)"
+GOOG/SHE_002107,"Shandong Wohua Pharmaceutical Co., Ltd. (002107)"
+GOOG/SHE_002108,"Cangzhou Mingzhu Plastic Co., Ltd. (002108)"
+GOOG/SHE_002109,"Shaanxi Xinghua Chemistry Co., Ltd. (002109)"
+GOOG/SHE_002110,"Sansteel MinGuang Co., Ltd., Fujian (002110)"
+GOOG/SHE_002111,Weihai Guangtai Airport Equipment Co Ltd (002111)
+GOOG/SHE_002112,"San Bian Sci-Tech Co., Ltd. (002112)"
+GOOG/SHE_002113,Hunan Tianrun Enterprises Holding Co Ltd (002113)
+GOOG/SHE_002115,"Sunwave Communications Co.,Ltd. (002115)"
+GOOG/SHE_002116,"China Haisum Engineering Co., Ltd. (002116)"
+GOOG/SHE_002117,Tungkong Co Ltd (002117)
+GOOG/SHE_002118,"Jilin Zixin Pharmaceutical Ind. Co., Ltd (002118)"
+GOOG/SHE_002119,"Ningbo Kangqiang Electronics Co., Ltd. (002119)"
+GOOG/SHE_002120,"Ningbo Xinhai Electric Co., Ltd (002120)"
+GOOG/SHE_002121,Shenzhen Clou Electronics Co Ltd (002121)
+GOOG/SHE_002122,Tianma Bearing Group Co Ltd (002122)
+GOOG/SHE_002123,"Rongxin Power Electronic Co., Ltd. (002123)"
+GOOG/SHE_002124,"Ningbo Tech-Bank Co., Ltd. (002124)"
+GOOG/SHE_002125,"Xiangtan Electrochemical Scie. Co., Ltd. (002125)"
+GOOG/SHE_002127,Jiangsu Xinmin Textile Sci &amp; Tech Co Ltd (002127)
+GOOG/SHE_002128,Huolinhe Opencut Coal Ind Corp. Ltd. (002128)
+GOOG/SHE_002129,Tianjin Zhonghuan Semiconductor Co. Ltd. (002129)
+GOOG/SHE_002130,Shenzhen Woer Heat-Shrinkable Mat Co Ltd (002130)
+GOOG/SHE_002131,Leo Group Co Ltd (002131)
+GOOG/SHE_002132,"Henan Hengxing Science &amp; Technology Co., (002132)"
+GOOG/SHE_002133,"Cosmos Group Co., Ltd (002133)"
+GOOG/SHE_002134,Tianjin Printronics Circuit Corporation (002134)
+GOOG/SHE_002136,"Anhui Annada Titanium Industry Co., Ltd. (002136)"
+GOOG/SHE_002137,"Shenzhen Sea Star Technology Co., Ltd. (002137)"
+GOOG/SHE_002138,"Shenzhen Sunlord Electronics Co., Ltd. (002138)"
+GOOG/SHE_002139,Shenzhen Topband Co Ltd (002139)
+GOOG/SHE_002140,East China Engineering Science &amp; Tech Co (002140)
+GOOG/SHE_002141,Guangdong Ronsen Super Micro-Wire Co Ltd (002141)
+GOOG/SHE_002142,"Bank of Ningbo Co., Ltd. (002142)"
+GOOG/SHE_002143,"Sichuan Gaojin Food Co., Ltd. (002143)"
+GOOG/SHE_002144,Hongda High-Tech Holding Co Ltd (002144)
+GOOG/SHE_002145,"CNNC HUA YUAN TITANIUM DIOXIDE CO., LTD (002145)"
+GOOG/SHE_002146,"Risesun Real Estate Development Co., Ltd (002146)"
+GOOG/SHE_002147,"Maanshan Fangyuan Slewing Ring Co., Ltd. (002147)"
+GOOG/SHE_002148,"Beijing Bewinner Communications Co., Ltd (002148)"
+GOOG/SHE_002149,"Western Metal Materials Co., Ltd. (002149)"
+GOOG/SHE_002150,Jiangsu Tongrun Equipment Tchnlgy Co Ltd (002150)
+GOOG/SHE_002151,"Beijing BDStar Navigation Co., Ltd. (002151)"
+GOOG/SHE_002152,"GRG Banking Equipment Co., Ltd. (002152)"
+GOOG/SHE_002153,"Beijing Shiji Info Technology Co., Ltd. (002153)"
+GOOG/SHE_002155,"Chenzhou Mining Group Co., Ltd. (002155)"
+GOOG/SHE_002156,Nantong Fujitsu Microelectronics Co.Ltd. (002156)
+GOOG/SHE_002157,"Jiangxi Zhengbang Technology Co., Ltd (002157)"
+GOOG/SHE_002158,"Shanghai Hanbell Precise Machi Co., Ltd. (002158)"
+GOOG/SHE_002159,"Wuhan Sante Cableway Group Co., Ltd. (002159)"
+GOOG/SHE_002160,"Jiangsu Alcha Aluminum Co., Ltd. (002160)"
+GOOG/SHE_002161,Invengo Information Technology Co Ltd (002161)
+GOOG/SHE_002162,Shanghai CIMIC Holdings Co Ltd (002162)
+GOOG/SHE_002163,Avic Sanxin Co Ltd (002163)
+GOOG/SHE_002164,"Ningbo Donly Transmission Equip Co.,Ltd. (002164)"
+GOOG/SHE_002165,"Nanjing Hongbaoli Co., Ltd. (002165)"
+GOOG/SHE_002166,Guilin Layn Natural Ingredients Corp (002166)
+GOOG/SHE_002167,Guangdong Orient Zirconic Ind Sci &amp; Tech (002167)
+GOOG/SHE_002168,"Shenzhen HiFuture Electric Co.,Ltd. (002168)"
+GOOG/SHE_002169,"Guangzhou Zhiguang Electric Co., Ltd. (002169)"
+GOOG/SHE_002170,Shenzhen Batian Ecotypic Engineering Co (002170)
+GOOG/SHE_002171,"Anhui Jingcheng Copper Share Co., Ltd. (002171)"
+GOOG/SHE_002172,Jiangsu Aoyang Technology Corp Ltd. (002172)
+GOOG/SHE_002173,Pure Pearl Group Co Ltd (002173)
+GOOG/SHE_002174,"Susino Umbrella Co., Ltd. (002174)"
+GOOG/SHE_002175,Guilin Guanglu Measuring Instr. Co Ltd (002175)
+GOOG/SHE_002176,Jiangxi Special Electric Motor Co Ltd (002176)
+GOOG/SHE_002177,Guangzhou KingTeller Technology Co Ltd (002177)
+GOOG/SHE_002178,Shanghai Yanhua Smartech Group Co Ltd (002178)
+GOOG/SHE_002179,China Aviation Optical-Electrical Tech. (002179)
+GOOG/SHE_002181,Guangdong Guangzhou Daily Media Co Ltd (002181)
+GOOG/SHE_002182,"Nanjing Yunhai Special Metals Co., Ltd. (002182)"
+GOOG/SHE_002183,Eternal Asia Supply Chain Management LTD (002183)
+GOOG/SHE_002184,"Shanghai Hi-Tech Control System Co., Ltd (002184)"
+GOOG/SHE_002185,"Tianshui Huatian Technology Co., Ltd. (002185)"
+GOOG/SHE_002186,"China Quanjude (Group) Co., Ltd (002186)"
+GOOG/SHE_002187,"Guangzhou Grandbuy Co., Ltd. (002187)"
+GOOG/SHE_002189,"Lida Optical &amp; Electronic Co., Ltd. (002189)"
+GOOG/SHE_002190,Sichuan Chengfei Integration Tech Corp (002190)
+GOOG/SHE_002191,Shenzhen Jinjia Color Printing Gp Co Ltd (002191)
+GOOG/SHE_002192,Luxiang Co Ltd (002192)
+GOOG/SHE_002193,Shandong Jining Ruyi Woolen Textile Co (002193)
+GOOG/SHE_002194,Wuhan Fingu Electronic Technology Co (002194)
+GOOG/SHE_002195,"Shanghai Hyron Software Co., Ltd. (002195)"
+GOOG/SHE_002197,"Shenzhen Zhengtong Electronic Co.,Ltd. (002197)"
+GOOG/SHE_002198,Guangdong Jiaying Pharmaceutical Co Ltd (002198)
+GOOG/SHE_002201,"Jiangsu Jiuding New Material Co., Ltd. (002201)"
+GOOG/SHE_002202,Xinjiang Goldwind Science &amp; Tech Co Ltd (002202)
+GOOG/SHE_002204,Dalian Huarui Heavy Industry Grup Co Ltd (002204)
+GOOG/SHE_002205,"Xinjiang Guotong Pipeline Co., Ltd (002205)"
+GOOG/SHE_002207,Xinjiang Zhundong Petroleum Tech Co Ltd (002207)
+GOOG/SHE_002208,Hefei Urban Construction Devel Co. Ltd (002208)
+GOOG/SHE_002209,Guangzhou Tech-Long Packing Machine Co. (002209)
+GOOG/SHE_002210,Shenzhen Feima Int'l Supply Chain Co Ltd (002210)
+GOOG/SHE_002211,"Jiangsu Hongda New Material Co., Ltd. (002211)"
+GOOG/SHE_002212,Guang Dong Nan Yang Cable Group Holding (002212)
+GOOG/SHE_002213,"Shenzhen Terca Technology Co., Ltd (002213)"
+GOOG/SHE_002215,"Shenzhen Noposion Agrochemicals Co., Ltd (002215)"
+GOOG/SHE_002216,Sanquan Food Co Ltd (002216)
+GOOG/SHE_002217,Shandong Liaherd Chemical Industry Co. (002217)
+GOOG/SHE_002218,"Shenzhen Topraysolar Co., Ltd. (002218)"
+GOOG/SHE_002219,Gansu Duyiwei Biological Phrmctcl Co Ltd (002219)
+GOOG/SHE_002220,"Dalian Tianbao Green Foods Co., Ltd. (002220)"
+GOOG/SHE_002221,"Oriental Energy Co., Ltd. (002221)"
+GOOG/SHE_002222,Castech Inc (002222)
+GOOG/SHE_002223,Jiangsu Yuyue Mdcl Eqpmnt &amp; Sply Co Ltd (002223)
+GOOG/SHE_002224,Sanlux Co Ltd (002224)
+GOOG/SHE_002225,"PUYANG REFRACTORIES GROUP CO., LTD. (002225)"
+GOOG/SHE_002226,"Anhui Jiangnan Chemical Industry Co.,Ltd (002226)"
+GOOG/SHE_002227,Shenzhen Auto Electric Pwr Plnt Co Ltd (002227)
+GOOG/SHE_002228,"Xiamen Hexing Packaging Printing Co.,Ltd (002228)"
+GOOG/SHE_002229,Hongbo Co Ltd (002229)
+GOOG/SHE_002230,"Anhui USTC iFlytek Co., Ltd. (002230)"
+GOOG/SHE_002231,"Allwin Telecommunication Co., Ltd. (002231)"
+GOOG/SHE_002232,"QiMing Information Technology Co., Ltd (002232)"
+GOOG/SHE_002233,"Guangdong Tapai Group Co., Ltd (002233)"
+GOOG/SHE_002234,"Shandong Minhe Animal Husbandry Co., Ltd (002234)"
+GOOG/SHE_002235,Xiamen Anne Corporation Limited (002235)
+GOOG/SHE_002237,"Shandong Humon Smelting Co., Ltd. (002237)"
+GOOG/SHE_002238,Shenzhen Topway Video Communication Co. (002238)
+GOOG/SHE_002239,"Jiangsu Kingfield Garments Co.,Ltd. (002239)"
+GOOG/SHE_002240,Guangdong Weihua Corporation (002240)
+GOOG/SHE_002241,GoerTek Inc. (002241)
+GOOG/SHE_002242,"Joyoung Co., Ltd (002242)"
+GOOG/SHE_002243,Shenzhen Beauty Star Co Ltd (002243)
+GOOG/SHE_002244,Hangzhou Binjiang Real Estate Grp Co Ltd (002244)
+GOOG/SHE_002245,Jiangsu Aucksun Co Ltd (002245)
+GOOG/SHE_002246,Sichuan Nitrocell Corp (002246)
+GOOG/SHE_002248,"Weihai Huadong Automation Co., Ltd (002248)"
+GOOG/SHE_002250,"Lianhe Chemical Technology Co., Ltd. (002250)"
+GOOG/SHE_002251,"Better Life Comm Chain Share Co.,Ltd (002251)"
+GOOG/SHE_002252,"Shanghai RAAS Blood Products Co., Ltd. (002252)"
+GOOG/SHE_002253,"Wisesoft Co. Ltd., (002253)"
+GOOG/SHE_002254,"Yantai Spandex Co., Ltd. (002254)"
+GOOG/SHE_002255,"Suzhou Hailu Heavy Industry Co., Ltd (002255)"
+GOOG/SHE_002256,"Shenzhen Rainbow Fine Chem Ind Co., Ltd (002256)"
+GOOG/SHE_002258,"Lier Chemical Co.,Ltd. (002258)"
+GOOG/SHE_002259,Sichuan Shengda Forestry Industry Co Ltd (002259)
+GOOG/SHE_002260,Guangdong Elecpro Eltrc Apl Hld Co Ltd (002260)
+GOOG/SHE_002261,Talkweb Information System Co Ltd (002261)
+GOOG/SHE_002262,"Jiangsu Nhwa Pharmaceutical Co., LTD (002262)"
+GOOG/SHE_002264,New Huadu Supercenter Co Ltd (002264)
+GOOG/SHE_002267,"ShaanXi Provincial Natural Gas Co., Ltd. (002267)"
+GOOG/SHE_002268,Westone Information Industry Inc. (002268)
+GOOG/SHE_002269,Shanghai Metersbonwe Fshn&amp;Accsrs Co Ltd (002269)
+GOOG/SHE_002270,"SHANDONG FIN CNC MACHINE CO., LTD. (002270)"
+GOOG/SHE_002271,Beijing Oriental Yhng Wtrprf Tech Co Ltd (002271)
+GOOG/SHE_002272,"SICHUAN CRUN CO., LTD (002272)"
+GOOG/SHE_002274,"JIANGSU HUACHANG CHEMICAL CO., LTD (002274)"
+GOOG/SHE_002275,"Guilin Sanjin Pharmaceutical Co., Ltd. (002275)"
+GOOG/SHE_002277,Hunan Friendship&amp;Apollo Commercal Co Ltd (002277)
+GOOG/SHE_002278,Shanghai SK Petrlm &amp; Chemcl Eqp Corp Ltd (002278)
+GOOG/SHE_002279,Beijing Join-Cheer Software Co Ltd (002279)
+GOOG/SHE_002280,Hangzhou New Cent. Info Tech CoLtd (002280)
+GOOG/SHE_002281,"ACCELINK TECHNOLOGIES CO.,LTD (002281)"
+GOOG/SHE_002282,Bosun Tools Co Ltd (002282)
+GOOG/SHE_002283,Tianrun Crankshaft Co Ltd (002283)
+GOOG/SHE_002285,Shenzhen Worldunion Prpts Cnsltcy Co Ltd (002285)
+GOOG/SHE_002286,"Baolingbao Biology Co., Ltd. (002286)"
+GOOG/SHE_002287,Tibet Cheezheng Tibetan Med Co Ltd (002287)
+GOOG/SHE_002288,"Guangdong Chaohua Technology Co.,Ltd (002288)"
+GOOG/SHE_002289,Success Electronics Ltd (002289)
+GOOG/SHE_002290,Suzhou Hesheng Special Material CO LTD (002290)
+GOOG/SHE_002291,FOSHAN SATURDAY SHOES CO LTD (002291)
+GOOG/SHE_002292,Guangdong Alpha Animation and Culture Co (002292)
+GOOG/SHE_002293,"Luolai Home Textile Co.,Ltd (002293)"
+GOOG/SHE_002294,Shenzhen Salubris Pharmaceuticals Co Ltd (002294)
+GOOG/SHE_002295,Guangdong Jingyi Metal Co Ltd (002295)
+GOOG/SHE_002296,HeNan Splendor Science&amp;Technology Co Ltd (002296)
+GOOG/SHE_002297,HUNAN BOYUN NEW MATERIALS Co Ltd (002297)
+GOOG/SHE_002298,ANHUI XINLONG ELECTRICAL CO LTD (002298)
+GOOG/SHE_002299,Fujian Sunner Development Co Ltd (002299)
+GOOG/SHE_002300,Fujian Nanping Sun Cable Co Ltd (002300)
+GOOG/SHE_002301,Shenzhen Comix Stationery Co Ltd (002301)
+GOOG/SHE_002302,China West Construction Co Ltd (002302)
+GOOG/SHE_002303,Shenzhen MYS Environmental Protection (002303)
+GOOG/SHE_002304,Jiangsu Yanghe Brewery JSC Ltd. (002304)
+GOOG/SHE_002305,Wuhan Langold Real Estate Co Ltd (002305)
+GOOG/SHE_002306,Beijing Xiangeqing Group Co Ltd (002306)
+GOOG/SHE_002307,Xinjiang Beixin Road and Brdge Gp Co Ltd (002307)
+GOOG/SHE_002308,Vtron Technologies Ltd (002308)
+GOOG/SHE_002310,"Beijing Orient Landscape Co., Ltd. (002310)"
+GOOG/SHE_002311,"Guangdong Haid Group Co., Limited (002311)"
+GOOG/SHE_002312,Chengdu Santai Electronics Indsty Co Ltd (002312)
+GOOG/SHE_002313,"SUNSEA TELECOMMUNICATIONS CO.,LTD. (002313)"
+GOOG/SHE_002314,"YAHGEE MODULAR HOUSE CO., LTD. (002314)"
+GOOG/SHE_002315,"Focus Technology Co., Ltd. (002315)"
+GOOG/SHE_002316,Shenzhen Keybridge Communications Co Ltd (002316)
+GOOG/SHE_002317,"Guangdong Zhongsheng Pharm Co.,Ltd. (002317)"
+GOOG/SHE_002319,"Letong Chemical Co.,LTD (002319)"
+GOOG/SHE_002320,"Hainan Strait Shipping Co.,Ltd (002320)"
+GOOG/SHE_002321,Henan Huaying Agri Development Co. Ltd. (002321)
+GOOG/SHE_002322,"NB Ligong Online Monitoring Tech Co.,Ltd (002322)"
+GOOG/SHE_002323,"JiangSu ZhongLian Electric CO., LTD (002323)"
+GOOG/SHE_002324,"Shanghai Pret Composites Co.,Ltd. (002324)"
+GOOG/SHE_002325,"SHENZHEN HONGTAO DECORATION CO.,LTD. (002325)"
+GOOG/SHE_002327,Shenzhen Fuanna Beddg And Furnshg Co Ltd (002327)
+GOOG/SHE_002328,Shanghai Xinpeng Industry Co Ltd (002328)
+GOOG/SHE_002329,"Guangxi Royal Dairy Co.,Ltd (002329)"
+GOOG/SHE_002330,Shan Dong Delisi Food Co Ltd (002330)
+GOOG/SHE_002331,"Anhui Wantong Technology Co.,Ltd. (002331)"
+GOOG/SHE_002333,"Suzhou Lopsking Aluminum Co., Ltd. (002333)"
+GOOG/SHE_002334,Shenzhen INVT Electric Co Ltd (002334)
+GOOG/SHE_002335,Xiamen Kehua Hengsheng Co Ltd (002335)
+GOOG/SHE_002336,Renrenle Commercial Group Co Ltd (002336)
+GOOG/SHE_002337,"TIANJIN SAIXIANG TECHNOLOGY CO.,LTD (002337)"
+GOOG/SHE_002338,"Changchun Up Optotech Co.,Ltd. (002338)"
+GOOG/SHE_002339,Integrated Electronic Systems Lab (002339)
+GOOG/SHE_002340,Shenzhen Green Eco-manufacture Hi-tech (002340)
+GOOG/SHE_002341,Shenzhen Selen Science &amp; Technlgy Co Ltd (002341)
+GOOG/SHE_002342,"Juli Sling Co., Ltd. (002342)"
+GOOG/SHE_002344,"Haining China Leather Market Co.,Ltd (002344)"
+GOOG/SHE_002345,"Guangdong CHJ Industry Co., Ltd. (002345)"
+GOOG/SHE_002346,"Shanghai Zhezhong Construction Co.,Ltd (002346)"
+GOOG/SHE_002347,Taier Heavy Industry Co Ltd (002347)
+GOOG/SHE_002348,"Goldlok Toys Holdings (GuangDong)Co.,Ltd (002348)"
+GOOG/SHE_002349,"NANTONG JINGHUA PHARMACEUTICAL CO.,LTD. (002349)"
+GOOG/SHE_002350,Beijing Creative Distributn Atmtn Co Ltd (002350)
+GOOG/SHE_002351,"Edifier Technology Co.,Ltd. (002351)"
+GOOG/SHE_002352,Maanshan Dingtai Rar Erth&amp;Nw Mtrl Co Ltd (002352)
+GOOG/SHE_002353,Yantai Jereh Oilfield Services Gp Co Ltd (002353)
+GOOG/SHE_002354,"Dalian Kemian Wood Industry Co., Ltd. (002354)"
+GOOG/SHE_002355,"Shandong Xingmin Wheel Co.,LTD. (002355)"
+GOOG/SHE_002356,"Shenzhen Haoningda Meters Co., LTD. (002356)"
+GOOG/SHE_002357,"SC Fulin Transportation Group Co., Ltd. (002357)"
+GOOG/SHE_002358,"HENAN SENYUAN ELECTRIC CO.,LTD. (002358)"
+GOOG/SHE_002359,"Shandong Qixing Iron Tower Co., Ltd. (002359)"
+GOOG/SHE_002360,"Shanxi Tond Chemical Co., Ltd. (002360)"
+GOOG/SHE_002361,"Anhui Shenjian New Materials Co.,LTD. (002361)"
+GOOG/SHE_002362,"Hanwang Technology Co.,Ltd. (002362)"
+GOOG/SHE_002363,"Shandong Longji Machinery Co., Ltd. (002363)"
+GOOG/SHE_002364,"HANGZHOU ZHONGHENG ELECTRIC Co., Ltd. (002364)"
+GOOG/SHE_002365,"QIANJIANG YONGAN PHARMACEUTICAL CO.,LTD. (002365)"
+GOOG/SHE_002366,"SICHUAN DANFU COMPRESSOR CO.,LTD (002366)"
+GOOG/SHE_002367,"CANNY ELEVATOR CO., LTD. (002367)"
+GOOG/SHE_002368,Taiji Computer Corporation Limited (002368)
+GOOG/SHE_002369,"Shenzhen Zowee Tech. Co., Ltd. (002369)"
+GOOG/SHE_002371,"Beijing Sevenstar Electronics Co., Ltd. (002371)"
+GOOG/SHE_002373,Beijing Surekam Technology Co Ltd (002373)
+GOOG/SHE_002374,"SHANDONG LIPENG CO., LTD (002374)"
+GOOG/SHE_002376,Shandong New Beiyng Infrmt Tchlgy Co Ltd (002376)
+GOOG/SHE_002377,"Hubei Guochuang Hi-tech Material Co.,Ltd (002377)"
+GOOG/SHE_002378,"Chongyi Zhangyuan Tungsten Co.,Ltd. (002378)"
+GOOG/SHE_002379,"Shandong Loften Aluminium Foil Co., Ltd. (002379)"
+GOOG/SHE_002380,Nanjing Sciyon Automation Group Co Ltd (002380)
+GOOG/SHE_002382,Shandong Blue Sail Plastic&amp;Rubber Co Ltd (002382)
+GOOG/SHE_002383,Beijing UniStrong Science &amp; Technology (002383)
+GOOG/SHE_002384,SZ Dongshan Precision Manufacturing Co (002384)
+GOOG/SHE_002385,Beijing Dabeinong Technology Grp Co Ltd (002385)
+GOOG/SHE_002386,"Yibin Tianyuan Group Co.,Ltd. (002386)"
+GOOG/SHE_002387,"Blackcow Food Co., Ltd. (002387)"
+GOOG/SHE_002388,Shenzhen Snys Elctrc Mnfctrg Hldg Co Ltd (002388)
+GOOG/SHE_002390,"Guizhou Xinbang Pharmaceutical Co.,Ltd. (002390)"
+GOOG/SHE_002391,"JS CHANGQING AGRICUL. AND CHEM. CO.,LTD (002391)"
+GOOG/SHE_002392,Beijing Lier High Temperatr Mtrls Co Ltd (002392)
+GOOG/SHE_002393,"Tianjin Lisheng Pharmaceutical Co.,Ltd. (002393)"
+GOOG/SHE_002394,Jiangsu lianfa textile Co.Ltd. (002394)
+GOOG/SHE_002395,Wuxi Double Elephant Mcr Fbr Mtrl Co Ltd (002395)
+GOOG/SHE_002396,"Fujian Star-net Communication Co.,Ltd. (002396)"
+GOOG/SHE_002397,"Hunan Mendale Hometextile Co.,Ltd. (002397)"
+GOOG/SHE_002398,"XIAMEN ACAD. OF BUIL. RES. GRO. CO.,LTD. (002398)"
+GOOG/SHE_002399,"Shenzhen Hepalink Pharma. Co., Ltd. (002399)"
+GOOG/SHE_002400,"Guangdong Advertising Co., Ltd. (002400)"
+GOOG/SHE_002401,China Shipping Network Technology Co Ltd (002401)
+GOOG/SHE_002402,Shenzhen H&amp;T Intelligent Control Co Ltd (002402)
+GOOG/SHE_002405,"NavInfo Co., Ltd. (002405)"
+GOOG/SHE_002406,"Xuchang Yuandong Drive Shaft CO.,Ltd. (002406)"
+GOOG/SHE_002407,"Do-Fluoride Chemicals Co.,Ltd. (002407)"
+GOOG/SHE_002409,"Jiangsu Yoke Technology Co., Ltd (002409)"
+GOOG/SHE_002410,Glodon Software Company Limited. (002410)
+GOOG/SHE_002411,"Jiangsu Jiujiujiu Technology Co., LTD. (002411)"
+GOOG/SHE_002412,"Hunan Hansen Pharmaceutical Co., Ltd (002412)"
+GOOG/SHE_002413,"JIANGSU CHANGFA REFRIGERATION CO., LTD. (002413)"
+GOOG/SHE_002414,"Wuhan Guide Infrared CO.,LTD. (002414)"
+GOOG/SHE_002415,Hangzhou Hikvision Digital Techgy Co Ltd (002415)
+GOOG/SHE_002416,"Shenzhen Aisidi Co., LTD. (002416)"
+GOOG/SHE_002417,"Fujian Sunnada Communication Co.,Ltd (002417)"
+GOOG/SHE_002419,"RAINBOW DEPARTMENT STORE CO., LTD. (002419)"
+GOOG/SHE_002420,Guangzhou Echom Sci&amp;Tech Co Ltd (002420)
+GOOG/SHE_002421,"SHENZHEN DAS INTELLITECH CO., LTD. (002421)"
+GOOG/SHE_002422,"Sichuan Kelun Pharmaceutical Co., Ltd. (002422)"
+GOOG/SHE_002424,"GZ Bailing Group Pharm. Co., Ltd. (002424)"
+GOOG/SHE_002425,"Kaiser (China) Holding Co.,Ltd (002425)"
+GOOG/SHE_002426,Suzhou Victory Precision Manufctr Co Ltd (002426)
+GOOG/SHE_002429,"Shenzhen MTC Co.,Ltd. (002429)"
+GOOG/SHE_002430,"Hangzhou Hangyang Co., Ltd. (002430)"
+GOOG/SHE_002431,Palm Landscape Architecture Co Ltd (002431)
+GOOG/SHE_002432,Andon Health Co Ltd (002432)
+GOOG/SHE_002433,Guangdong Taiantang Pharmaceuticl Co Ltd (002433)
+GOOG/SHE_002435,"Chang Jiang Runfa Machinery Co.,Ltd. (002435)"
+GOOG/SHE_002436,Shenzhen Fastprint Circuit Tech Co.Ltd (002436)
+GOOG/SHE_002437,"Harbin Gloria Pharmaceuticals Co., Ltd. (002437)"
+GOOG/SHE_002438,"Jiangsu Shentong Valve Co.,Ltd. (002438)"
+GOOG/SHE_002439,Beijing Venustech Inc. (002439)
+GOOG/SHE_002442,Longxing Chemical Stock Co Ltd (002442)
+GOOG/SHE_002444,"HANGZHOU GREAT STAR INDUSTRIAL CO., LTD (002444)"
+GOOG/SHE_002445,"JY Zhongnan Heavy Industries Co., Ltd. (002445)"
+GOOG/SHE_002446,"GD Shenglu Telecommunic. Tech. Co., Ltd. (002446)"
+GOOG/SHE_002447,"DALIAN YI QIAO MARINE SEEDS CO.,LTD (002447)"
+GOOG/SHE_002449,Foshan Nationstar Optoelectronics Co Ltd (002449)
+GOOG/SHE_002450,Beijing Kangde Xin Composite Material Co (002450)
+GOOG/SHE_002451,"SHANGHAI MORN ELECTRIC EQUIPMENT CO.,LTD (002451)"
+GOOG/SHE_002452,HN Changgao High Voltage Switchgear Grp (002452)
+GOOG/SHE_002453,Suzhou Tianma Specialty Chemicals Co Ltd (002453)
+GOOG/SHE_002454,Shanghai Jlng Sngzh Atmbl Arcndtn Co Ltd (002454)
+GOOG/SHE_002455,"Wuxi Baichuan Chemical Industry Co., Ltd (002455)"
+GOOG/SHE_002456,"Shenzhen O-film Tech Co., Ltd. (002456)"
+GOOG/SHE_002457,"Ningxia Qinglong Pipes Industry Co., Ltd (002457)"
+GOOG/SHE_002458,Shandong Yshng Lvstck &amp;Pltry Brdg Co Ltd (002458)
+GOOG/SHE_002459,"QHD TIANYE TOLIAN HEAVY IND. CO., LTD. (002459)"
+GOOG/SHE_002460,"JIANGXI GANFENG LITHIUM CO.,LTD. (002460)"
+GOOG/SHE_002461,"GUANGZHOU ZHUJIANG BREWERY CO.,LTD (002461)"
+GOOG/SHE_002462,"Cachet Pharmaceutical Co., Ltd (002462)"
+GOOG/SHE_002463,"WUS Printed Circuit (Kunshan) Co.,Ltd. (002463)"
+GOOG/SHE_002464,Kee Ever Bright Decorative Techgy Co Ltd (002464)
+GOOG/SHE_002465,Guangzhou Haige Cmncts Grp Inc Co (002465)
+GOOG/SHE_002466,"Sichuan Tianqi Lithium Industries, Inc. (002466)"
+GOOG/SHE_002467,Net263 Ltd. (002467)
+GOOG/SHE_002469,Shandong Sunway Petrochmcl Engg Co Ltd (002469)
+GOOG/SHE_002470,Shandong Kingenta Ecological Engg Co Ltd (002470)
+GOOG/SHE_002471,"Jiangsu Zhongchao Cable CO., LTD. (002471)"
+GOOG/SHE_002473,"NB Sunlight Elec Appliance Co., Ltd. (002473)"
+GOOG/SHE_002474,"Fujian Rongji Software Co., Ltd. (002474)"
+GOOG/SHE_002475,Luxshare Precision Industry Co Ltd (002475)
+GOOG/SHE_002476,"SHANDONG POLYMER BIOCHEMICALS CO., LTD. (002476)"
+GOOG/SHE_002477,Chuying Agro-Pastoral Co Ltd (002477)
+GOOG/SHE_002478,"Jiangsu Changbao Steeltube Co., Ltd. (002478)"
+GOOG/SHE_002480,Chengdu Xinzhu Road&amp;Bridg Mchnry Co Ltd (002480)
+GOOG/SHE_002481,"Yantai Shuangta Food Co., Ltd (002481)"
+GOOG/SHE_002482,Shenzhen Grandland Decoration Grp Co Ltd (002482)
+GOOG/SHE_002483,"JS Rainbow Heavy Industries Co.,Ltd. (002483)"
+GOOG/SHE_002484,"Nantong Jianghai Capacitor Co.,Ltd. (002484)"
+GOOG/SHE_002485,"Sinoer Men's Wear Co., Ltd. (002485)"
+GOOG/SHE_002486,Shanghai Challenge Textile Co Ltd (002486)
+GOOG/SHE_002487,Dajin Heavy Industry Corporation (002487)
+GOOG/SHE_002490,Shandong Molong Petroleum Machinery (002490)
+GOOG/SHE_002491,Jiangsu Tongding Optic (002491)
+GOOG/SHE_002493,Rongsheng Petrochemical Co Ltd (002493)
+GOOG/SHE_002494,Huasi Agricultural Development Co Ltd (002494)
+GOOG/SHE_002495,Guangdong Jialong Food Co Ltd (002495)
+GOOG/SHE_002496,Jiangsu Huifeng Agrochemical Co (002496)
+GOOG/SHE_002497,Sichuan Yahua Industrial Group Co Ltd (002497)
+GOOG/SHE_002498,Qingdao Hanhe Cable Co Ltd (002498)
+GOOG/SHE_002499,Kelin Environmental Protection Equip (002499)
+GOOG/SHE_002500,Shanxi Securities Co Ltd (002500)
+GOOG/SHE_002501,Jilin Liyuan Precision Manufactrg Co Ltd (002501)
+GOOG/SHE_002502,Huawei Technology Co Ltd (002502)
+GOOG/SHE_002503,Dongguan Souyute Fashion Co Ltd (002503)
+GOOG/SHE_002504,Jiangsu Dongguang Micro-electrncs Co Ltd (002504)
+GOOG/SHE_002505,Hunan Dakang Pasture Farming Co Ltd (002505)
+GOOG/SHE_002506,Shanghai Chr Slr Enrgy Sci &amp; Tech Co Ltd (002506)
+GOOG/SHE_002507,Chongqing Fuling Zhacai Group Co Ltd (002507)
+GOOG/SHE_002508,Hangzhou Robam Appliances Co Ltd (002508)
+GOOG/SHE_002509,Tianguang Fire-Fighting Co Ltd (002509)
+GOOG/SHE_002510,Tian Jin Motor Dies Co Ltd (002510)
+GOOG/SHE_002511,C&amp;S Paper Co Ltd (002511)
+GOOG/SHE_002512,Tatwah Smartech Company Limited (002512)
+GOOG/SHE_002513,Jiangsu Lanfeng Bio-chemical Co Ltd (002513)
+GOOG/SHE_002514,Suzhou Boamax Tech Group Co Ltd (002514)
+GOOG/SHE_002515,Jinzi Ham Company Ltd. (002515)
+GOOG/SHE_002516,Jiangsu Kuangda Automobile Textile (002516)
+GOOG/SHE_002517,Taiya Shoes Company Limited (002517)
+GOOG/SHE_002518,Shenzhen Kstar Science And Technology (002518)
+GOOG/SHE_002519,Jiang Su Yin He Electronics Co Ltd (002519)
+GOOG/SHE_002521,Qifeng New Material Co Ltd (002521)
+GOOG/SHE_002524,Guangzheng Group Co Ltd (002524)
+GOOG/SHE_002526,Shandong Mining Machinery Group Co Ltd (002526)
+GOOG/SHE_002527,Shanghai STEP Electric Corp (002527)
+GOOG/SHE_002528,Shenzhen Infinova Ltd (002528)
+GOOG/SHE_002529,Fujian Haiyuan Automatic Eqpmnts Co Ltd (002529)
+GOOG/SHE_002530,Jiangsu Fengdong Thermal Tech Co Ltd (002530)
+GOOG/SHE_002531,Titan Wind Energy (suzhou) Co Ltd (002531)
+GOOG/SHE_002532,Shimge Pump Industry Group Co Ltd (002532)
+GOOG/SHE_002533,Goldcup Electric Apparatus Co Ltd (002533)
+GOOG/SHE_002534,Hangzhou Boiler Group Co Ltd (002534)
+GOOG/SHE_002535,Linzhou Heavy Machinery Group Co Ltd (002535)
+GOOG/SHE_002536,Henan Province Xixia Automobile Water (002536)
+GOOG/SHE_002537,Qingdao Haili Metal One Co Ltd (002537)
+GOOG/SHE_002538,Anhui Sierte Fertilizer Industry Ltd Co (002538)
+GOOG/SHE_002539,Shindoo Chemical Industry Co Ltd (002539)
+GOOG/SHE_002540,Jiangsu Asia Pacific Lght Aly Tech CoLtd (002540)
+GOOG/SHE_002541,Anhui Honglu Steel Constructin Gp Co Ltd (002541)
+GOOG/SHE_002542,China Zhonghua Geotechnical Engng Co Ltd (002542)
+GOOG/SHE_002543,Guangdong Vanward New Electric Co Ltd (002543)
+GOOG/SHE_002544,Gci Science &amp; Technology Co Ltd (002544)
+GOOG/SHE_002545,Qingdao East Steel Tower Stock Co Ltd (002545)
+GOOG/SHE_002546,Nanjing Xinlian Electronics Co Ltd (002546)
+GOOG/SHE_002547,Suzhou Chunxing Precision Mechncl Co Ltd (002547)
+GOOG/SHE_002548,Shenzhen Jinxinnong Feed Co Ltd (002548)
+GOOG/SHE_002549,Hunan Kaimeite Gases Co Ltd (002549)
+GOOG/SHE_002550,Changzhou Qianhong Bio Pharma Co Ltd (002550)
+GOOG/SHE_002551,Shenzhen Glory Medical Co Ltd (002551)
+GOOG/SHE_002552,Baoding Heavy Industry Co Ltd (002552)
+GOOG/SHE_002553,Jiangsu Nanfang Bearing Co Ltd (002553)
+GOOG/SHE_002554,China Oil Hbp Science&amp;Technology Co Ltd (002554)
+GOOG/SHE_002555,Wuhu Shunrong Auto Parts Co Ltd (002555)
+GOOG/SHE_002556,Anhui Huilong Agrcl Mns of Prdn Co Ltd (002556)
+GOOG/SHE_002557,Qiaqia Food Co Ltd (002557)
+GOOG/SHE_002558,Chongqing New Century Cruise Co Ltd (002558)
+GOOG/SHE_002559,Jiangsu Yawei Machine Tool Co Ltd (002559)
+GOOG/SHE_002560,Henan Tong Da Cable Co Ltd (002560)
+GOOG/SHE_002561,Shanghai Xujiahui Commercial Co Ltd (002561)
+GOOG/SHE_002562,Brother Enterprises Holding Co Ltd (002562)
+GOOG/SHE_002565,Shanghai Luxin Packing Materials Science (002565)
+GOOG/SHE_002566,Jilin Jian Yisheng Pharmaceutical Co Ltd (002566)
+GOOG/SHE_002567,Tangrenshen Group Co Ltd (002567)
+GOOG/SHE_002568,Shanghai Bairun Flavor &amp; Fragrance CoLtd (002568)
+GOOG/SHE_002571,Anhui Deli Household Glass Co Ltd (002571)
+GOOG/SHE_002572,Suofeiya Home Collection Co Ltd (002572)
+GOOG/SHE_002573,Beijing SPC Environment Protection Tech (002573)
+GOOG/SHE_002575,Guangdong Qunxing Toys Joint-Stock Co (002575)
+GOOG/SHE_002576,Jiangsu Tongda Power Technology Co Ltd (002576)
+GOOG/SHE_002577,Shenzhen Rapoo Technology Co Ltd (002577)
+GOOG/SHE_002578,Fujian Minfa Aluminium Co Ltd (002578)
+GOOG/SHE_002579,Huizhou China Eagle Electronic Tech (002579)
+GOOG/SHE_002580,Shandong Sacred Sun Power Sources Co Ltd (002580)
+GOOG/SHE_002582,Haoxiangni Jujube Co Ltd (002582)
+GOOG/SHE_002583,Hytera Communications Corp Ltd (002583)
+GOOG/SHE_002584,Xilong Chemical Co Ltd (002584)
+GOOG/SHE_002585,Jiangsu Shgxg Clr Plstc New Mtrls Co Ltd (002585)
+GOOG/SHE_002587,Shenzhen AOTO Electronics Co Ltd (002587)
+GOOG/SHE_002588,Stanley Fertilizer Co Ltd (002588)
+GOOG/SHE_002589,Shandong Realcan Pharmaceutical Co Ltd (002589)
+GOOG/SHE_002591,Jiangxi Hengda Hi Tech Co Ltd (002591)
+GOOG/SHE_002592,Nanning Baling Technology Co Ltd (002592)
+GOOG/SHE_002593,Xiamen Sunrise Wheel Group Co Ltd (002593)
+GOOG/SHE_002594,BYD Company Limited (002594)
+GOOG/SHE_002595,Shandong Himile Mechanical Science &amp; Tec (002595)
+GOOG/SHE_002596,Hainan RuiZe New Building Material Co (002596)
+GOOG/SHE_002597,Anhui Jinhe Industrial Co Ltd (002597)
+GOOG/SHE_002598,Shandong Zhangqiu Blower Co Ltd (002598)
+GOOG/SHE_002599,Beijing Shengtong Printing Co Ltd (002599)
+GOOG/SHE_002600,JPMF Guangdong Co Ltd (002600)
+GOOG/SHE_002601,Henan Billions Chemicals Co Ltd (002601)
+GOOG/SHE_002603,Shijiazhuang Yiling Pharmaceutical (002603)
+GOOG/SHE_002604,Shandong Longlive Bio Technology Co Ltd (002604)
+GOOG/SHE_002605,Shanghai Yaoji Playing Card Co Ltd (002605)
+GOOG/SHE_002606,Dalian Insulator Group Co Ltd (002606)
+GOOG/SHE_002607,Wuhu Yaxia Automobile Corp (002607)
+GOOG/SHE_002608,Sainty Marine Corp Ltd (002608)
+GOOG/SHE_002609,Shenzhen Jieshun Science (002609)
+GOOG/SHE_002610,Jiangsu Akcome Science &amp; Technlgy Co Ltd (002610)
+GOOG/SHE_002611,Guangdong Dongfang Precision &amp; Tech (002611)
+GOOG/SHE_002612,Lancy Co Ltd (002612)
+GOOG/SHE_002613,Luoyang North Glass Technology Co Ltd (002613)
+GOOG/SHE_002614,Xiamen Comfort Science&amp;Technology (002614)
+GOOG/SHE_002616,Guangdong Chant Group Co Ltd (002616)
+GOOG/SHE_002617,Roshow Technology Co Ltd (002617)
+GOOG/SHE_002618,Shenzhen Danbond Technology Co Ltd (002618)
+GOOG/SHE_002620,Shenzhen Ruihe Construction Decoration (002620)
+GOOG/SHE_002621,Dalian Sunlight Machinery Co Ltd (002621)
+GOOG/SHE_002622,Jilin Yongda Group Co Ltd (002622)
+GOOG/SHE_002623,Changzhou Almaden Stock Co Ltd (002623)
+GOOG/SHE_002626,Xiamen Kingdomway Group Co (002626)
+GOOG/SHE_002627,Hubeiyichang Transportation Group Co Ltd (002627)
+GOOG/SHE_002628,Chengdu Road &amp; Bridge Engineering Co Ltd (002628)
+GOOG/SHE_002629,Sichuan Renzhi Oilfield Technology Se (002629)
+GOOG/SHE_002630,China Western Power Industrial Co Ltd (002630)
+GOOG/SHE_002631,Der International Home Furnishing Co Ltd (002631)
+GOOG/SHE_002632,Daoming Optics&amp;Chemical CoLTD (002632)
+GOOG/SHE_002633,Shenke Slide Bearing Corp (002633)
+GOOG/SHE_002635,Suzhou Anjie Technology Co Ltd (002635)
+GOOG/SHE_002636,Goldenmax International Technology Ltd (002636)
+GOOG/SHE_002638,Kingsun Optoelectronic Co Ltd (002638)
+GOOG/SHE_002639,Fujian Snowman Co Ltd (002639)
+GOOG/SHE_002640,Shanxi Baiyuan Trousers Chain Management (002640)
+GOOG/SHE_002642,United Electronics Co Ltd (002642)
+GOOG/SHE_002643,Yantai Valiant Fine Chemicals Co Ltd (002643)
+GOOG/SHE_002644,Lanzhou Foci Pharmaceutical Co Ltd (002644)
+GOOG/SHE_002645,Jiangsu Huahong Technology Stock Co Ltd (002645)
+GOOG/SHE_002646,Qinghai Huzhu Barley Wine CoLtd (002646)
+GOOG/SHE_002649,Beyondsoft Corp (002649)
+GOOG/SHE_002650,Jiajia Food Group Co Ltd (002650)
+GOOG/SHE_002651,Chengdu Leejun Industrial Co Ltd (002651)
+GOOG/SHE_002652,Suzhou Yangtze New Materials Co Ltd (002652)
+GOOG/SHE_002653,Xizang Haisco Pharmaceutical Grp Co Ltd (002653)
+GOOG/SHE_002654,Shenzhen Mason Technologies Co Ltd (002654)
+GOOG/SHE_002655,Shandong Gettop Acoustic Co Ltd (002655)
+GOOG/SHE_002656,Guangzhou Canudilo Fshn and Acsrs Co Ltd (002656)
+GOOG/SHE_002657,Sinodata Co Ltd (002657)
+GOOG/SHE_002658,Beijing SDL Technology Co Ltd (002658)
+GOOG/SHE_002659,Jiangsu Zhongtai Bridg Stl Strctr Co Ltd (002659)
+GOOG/SHE_002660,Moso Power Supply Technology Co Ltd (002660)
+GOOG/SHE_002661,Kemen Noodle Manufacturing Co Ltd (002661)
+GOOG/SHE_002662,Beijing WKW Automotive Parts Co Ltd (002662)
+GOOG/SHE_002663,Pubang Landscape Architecture Co Ltd (002663)
+GOOG/SHE_002664,Xinzhi Motor Co Ltd (002664)
+GOOG/SHE_002665,Beijing Shouhang Resources Saving Co Ltd (002665)
+GOOG/SHE_002666,Guangdong Delian Group Co Ltd (002666)
+GOOG/SHE_002667,AnShan Heavy Duty Mining Machinry Co Ltd (002667)
+GOOG/SHE_002668,Guangdong Homa Appliances Co Ltd (002668)
+GOOG/SHE_002669,Shanghai Kangda New Materials Co Ltd (002669)
+GOOG/SHE_002670,GuangDong Huasheng Elctrcl Aplncs Co Ltd (002670)
+GOOG/SHE_002671,Shandong Longquan Pipeline Engineering (002671)
+GOOG/SHE_002672,Dongjiang Environmental Co Ltd (002672)
+GOOG/SHE_002673,Western Securities Co Ltd (002673)
+GOOG/SHE_002674,Xingye Leather Technology Co Ltd (002674)
+GOOG/SHE_002675,Yantai Dongcheng Biochemicals Co Ltd (002675)
+GOOG/SHE_002676,Guangdong Sunwill Precising Plastic (002676)
+GOOG/SHE_002678,Guangzhou Pearl River Piano Group Co Ltd (002678)
+GOOG/SHE_002679,Fujian Jinsen Forestry Co Ltd (002679)
+GOOG/SHE_002680,LianYunGang HuangHai Machinery Co Ltd (002680)
+GOOG/SHE_002681,Shenzhen Fenda Technology Co Ltd (002681)
+GOOG/SHE_002682,Fujian Longzhou Transportation Co Ltd (002682)
+GOOG/SHE_002683,Guangdong Hongda Blasting Co Ltd (002683)
+GOOG/SHE_002684,Guangdong Dynavolt Power Tech (002684)
+GOOG/SHE_002685,Wuxi Huadong Heavy Machinery Co Ltd (002685)
+GOOG/SHE_002688,Jinhe Biotechnology Co Ltd (002688)
+GOOG/SHE_002689,Shenyang Brilliant Elevator Co Ltd (002689)
+GOOG/SHE_002690,Hefei Meiya Optoelectronic Technolgy Inc (002690)
+GOOG/SHE_002691,Shijiazhuang Zhongmei Cl Mn Eqpmt Mnfctr (002691)
+GOOG/SHE_002693,Hainan Shuangcheng Phrmcutcls Co Ltd (002693)
+GOOG/SHE_002694,Goody Science &amp; Technology Co Ltd (002694)
+GOOG/SHE_002695,Jiangxi Huangshanghuang Group Food Co (002695)
+GOOG/SHE_002696,Baiyang Aquatic Group Co Ltd (002696)
+GOOG/SHE_002697,Chengdu Hongqi Chain Co Ltd (002697)
+GOOG/SHE_002698,Harbin Boshi Automation Co Ltd (002698)
+GOOG/SHE_002699,Meisheng Cultural &amp; Creative Corp Ltd (002699)
+GOOG/SHE_002700,Xinjiang Haoyuan Natural Gas Co Ltd (002700)
+GOOG/SHE_002701,ORG Packaging Co Ltd (002701)
+GOOG/SHE_002702,HaiXin Foods Co Ltd (002702)
+GOOG/SHE_200002,"China Vanke Co., Ltd. (200002)"
+GOOG/SHE_200011,Shenzhen Properties &amp; Resources Develop. (200011)
+GOOG/SHE_200012,"CSG Holding Co., Ltd. (200012)"
+GOOG/SHE_200016,"Konka Group Co., Ltd. (200016)"
+GOOG/SHE_200018,"Shenzhen Victor Onward Textile Ind. Co., (200018)"
+GOOG/SHE_200019,"Shenzhen Shenbao Industrial Co., Ltd (200019)"
+GOOG/SHE_200020,"Shenzhen Zhongheng Huafa Co., Ltd. (200020)"
+GOOG/SHE_200022,Shenzhen Chiwan Wharf Holdings Ltd (200022)
+GOOG/SHE_200024,China Merchants Property Develpmt Co Ltd (200024)
+GOOG/SHE_200025,"Shenzhen Tellus Holding Co., Ltd. (200025)"
+GOOG/SHE_200026,Fiyta Holdings Ltd (200026)
+GOOG/SHE_200028,China National Accord Medicines Corp Ltd (200028)
+GOOG/SHE_200029,Shenzhen Special Ecn Zn Rl Est Gr Co Ltd (200029)
+GOOG/SHE_200030,FAWER Automotive Parts Ltd Co (200030)
+GOOG/SHE_200037,"Shenzhen Nanshan Power Co., Ltd. (200037)"
+GOOG/SHE_200039,China International Marine Cntnrs Gp Ltd (200039)
+GOOG/SHE_200045,"Shenzhen Textile (Holdings) Co., Ltd (200045)"
+GOOG/SHE_200053,Shenzhen Chiwan Ptrlm Sply Bs Co Ltd (200053)
+GOOG/SHE_200054,"Chongqing Jianshe Motorcycle Co., Ltd (200054)"
+GOOG/SHE_200055,"China Fangda Group Co., Ltd. (200055)"
+GOOG/SHE_200056,Shenzhen International Enterprise Co Ltd (200056)
+GOOG/SHE_200058,"Shenzhen Seg Co., Ltd. (200058)"
+GOOG/SHE_200152,"Shandong Airlines Co., Ltd. (200152)"
+GOOG/SHE_200160,Chengde Nanjiang Co Ltd (200160)
+GOOG/SHE_200168,Guangdong Rieys Group Company Ltd (200168)
+GOOG/SHE_200413,Shijiazhuang Baoshi Electronic Glass Co (200413)
+GOOG/SHE_200418,Wuxi Little Swan Company Limited (200418)
+GOOG/SHE_200429,Guangdong Provincial Expressway Develop. (200429)
+GOOG/SHE_200468,"Nanjing Putian Telecomm. Co., Ltd. (200468)"
+GOOG/SHE_200488,Shandong Chenming Paper Holdings Limited (200488)
+GOOG/SHE_200505,"Hainan Pearl River Holdings Co., Ltd. (200505)"
+GOOG/SHE_200512,Tsann Kuen (China) Enterprise Co. Ltd. (200512)
+GOOG/SHE_200513,Livzon Pharmaceutical Group Inc. (200513)
+GOOG/SHE_200521,"Hefei Meiling Co., Ltd. (200521)"
+GOOG/SHE_200530,"Dalian Refrigeration Co. , Ltd. (200530)"
+GOOG/SHE_200539,Guangdong Electric Power Development Co. (200539)
+GOOG/SHE_200541,"Foshan Electrical and Lighting Co., Ltd. (200541)"
+GOOG/SHE_200550,"Jiangling Motors Corporation, Ltd. (200550)"
+GOOG/SHE_200553,"Hubei Sanonda Co., Ltd. (200553)"
+GOOG/SHE_200570,"Changchai Co., Ltd. (200570)"
+GOOG/SHE_200581,Weifu High-Technology Group Co Ltd (200581)
+GOOG/SHE_200596,Anhui Gujing Distillery Company Limited (200596)
+GOOG/SHE_200613,"Hainan Dadonghai Tourism Centre Co., Ltd (200613)"
+GOOG/SHE_200625,Chongqing Changan Automobile Company Ltd (200625)
+GOOG/SHE_200706,Wafangdian Bearing Company Limited (200706)
+GOOG/SHE_200725,BOE Technology Group Co. Ltd (200725)
+GOOG/SHE_200726,"Lu Thai Textile Co., Ltd. (200726)"
+GOOG/SHE_200761,"Bengang Steel Plates Co., Ltd. (200761)"
+GOOG/SHE_200770,"Wuhan Boiler Co., Ltd. (200770)"
+GOOG/SHE_200771,"Hangzhou Steam Turbine Co., Ltd. (200771)"
+GOOG/SHE_200869,Yantai Changyu Pioneer Wine Company Ltd (200869)
+GOOG/SHE_200986,"Foshan Huaxin Packaging Co.,Ltd. (200986)"
+GOOG/SHE_200992,Shandong Zhonglu Oceanic Fisheries Co. (200992)
+GOOG/SHE_300001,"Qingdao TGOOD Electric Co.,Ltd. (300001)"
+GOOG/SHE_300002,"Beijing Ultrapower Software Co., LTD (300002)"
+GOOG/SHE_300003,Lepu Medical Technology (Beijing) Co Ltd (300003)
+GOOG/SHE_300004,"Nanfeng Ventilator Co., Ltd. (300004)"
+GOOG/SHE_300005,Beijing Toread Outdoor Products Co Ltd (300005)
+GOOG/SHE_300006,Chongqing Lummy Pharmaceutical Co Ltd (300006)
+GOOG/SHE_300007,"Henan Hanwei Electronics Co., Ltd. (300007)"
+GOOG/SHE_300008,SH BESTWAY MARINE ENGINEERING DESIGN CO. (300008)
+GOOG/SHE_300009,Anhui Anke Biotechnology (Group) Co Ltd (300009)
+GOOG/SHE_300010,Beijing Lanxum Technology Co Ltd (300010)
+GOOG/SHE_300011,Beijing Dinghan Technology Co Ltd (300011)
+GOOG/SHE_300012,Centre Testing Intl Shnzn Co Ltd (300012)
+GOOG/SHE_300013,Jiangsu Xinning Modern Logistics Co Ltd (300013)
+GOOG/SHE_300014,EVE Energy Co Ltd (300014)
+GOOG/SHE_300015,Aier Eye Hospital Group Co Ltd (300015)
+GOOG/SHE_300016,Beijing Beilu Pharmaceutical Co Ltd (300016)
+GOOG/SHE_300017,Shanghai Wangsu Science &amp; Technology Co. (300017)
+GOOG/SHE_300018,Wuhan Zhongyuan Huadian (300018)
+GOOG/SHE_300019,Chengdu Guibao (300019)
+GOOG/SHE_300020,Enjoyor Co Ltd (300020)
+GOOG/SHE_300021,Gansu Dayu Water-saving Group Co Ltd (300021)
+GOOG/SHE_300022,Gifore Agricultural Machnry Chain Co Ltd (300022)
+GOOG/SHE_300023,Bode Energy Equipment Co Ltd (300023)
+GOOG/SHE_300024,Siasun Robot&amp;Automation Co Ltd (300024)
+GOOG/SHE_300025,Hangzhou Huaxing Chngy Comm Tech Co Ltd (300025)
+GOOG/SHE_300026,Tianjin Chase Sun Pharmaceutical Co Ltd (300026)
+GOOG/SHE_300027,HUAYI BROTHERS MEDIA CORPORATION (300027)
+GOOG/SHE_300028,"CHENGDU GEEYA TECHNOLOGY CO.,LTD (300028)"
+GOOG/SHE_300029,"JS Huasheng Tianlong Photoelec. Co.,Ltd. (300029)"
+GOOG/SHE_300030,"GZ IMPROVE MEDICAL INSTRUMENTS CO., LTD. (300030)"
+GOOG/SHE_300031,"WUXI BOTON BELT CO.,LTD. (300031)"
+GOOG/SHE_300032,"JINLONG MACHINERY &amp; ELECTRONIC CO., LTD. (300032)"
+GOOG/SHE_300033,Hithink Flush Information Network Co Ltd (300033)
+GOOG/SHE_300034,Beijing Cisri Gaona Materials &amp; Tech Co (300034)
+GOOG/SHE_300035,"Hunan Zhongke Electric Co.,Ltd. (300035)"
+GOOG/SHE_300036,"Beijing SuperMap Software Co., Ltd. (300036)"
+GOOG/SHE_300037,"SHENZHEN CAPCHEM TECHNOLOGY CO.,LTD. (300037)"
+GOOG/SHE_300038,Beijing Miteno Communctn Techgy Co Ltd (300038)
+GOOG/SHE_300039,"Shanghai Kaibao Pharmaceutical CO.,LTD. (300039)"
+GOOG/SHE_300040,"HARBIN JIUZHOU ELECTRIC CO.,LTD. (300040)"
+GOOG/SHE_300041,Hubei Huitian Adhesive Enterprise Co Ltd (300041)
+GOOG/SHE_300042,"NETAC TECHNOLOGY CO., LTD. (300042)"
+GOOG/SHE_300043,"Xinghui Auto Model Co.,Ltd. (300043)"
+GOOG/SHE_300044,"Shenzhen Sunwin Intelligent Co.,Ltd. (300044)"
+GOOG/SHE_300045,Hwa Create Co Ltd (300045)
+GOOG/SHE_300046,"HUBEI TECH SEMICONDUCTORS CO., LTD. (300046)"
+GOOG/SHE_300047,Shenzhen Tianyuan Dic Infrmtn Tech CoLtd (300047)
+GOOG/SHE_300048,Hiconics Drive Technology Co Ltd (300048)
+GOOG/SHE_300049,Inner Mongolia Furui Medical Scie Co Ltd (300049)
+GOOG/SHE_300050,Dingli Communications Corp Ltd (300050)
+GOOG/SHE_300051,"Xiamen 35.com Technology Co., Ltd. (300051)"
+GOOG/SHE_300052,Shenzhen Zqgame Co Ltd (300052)
+GOOG/SHE_300054,"Hubei Dinglong Chemical Co.,Ltd (300054)"
+GOOG/SHE_300055,"Beijing Water Business Doctor Co., Ltd. (300055)"
+GOOG/SHE_300056,"Xiamen Savings Environmental Co., Ltd (300056)"
+GOOG/SHE_300057,Shantou Wanshun Package Mtrl Stck Co Ltd (300057)
+GOOG/SHE_300058,"BlueFocus Communication Group Co., Ltd. (300058)"
+GOOG/SHE_300059,"East Money Information Co., Ltd. (300059)"
+GOOG/SHE_300061,"Shanghai Conant Optics Co., Ltd. (300061)"
+GOOG/SHE_300062,"FUJIAN CEE INSTALLATIONS CO.,LTD (300062)"
+GOOG/SHE_300063,Guangdong Sky Dragon Prntg Ink Gp Co Ltd (300063)
+GOOG/SHE_300065,Beijing Highlander Digital Tech Co Ltd (300065)
+GOOG/SHE_300066,"Jiangxi sanchuan water meter CO., LTD. (300066)"
+GOOG/SHE_300067,"Shanghai ANOKY Textile Chem Co., Ltd. (300067)"
+GOOG/SHE_300070,"Beijing Originwater Technology Co.,Ltd. (300070)"
+GOOG/SHE_300071,Spearhead Integrated Marketing Commtn Gp (300071)
+GOOG/SHE_300072,Beijing Sanju EP&amp; New Materials Co Ltd (300072)
+GOOG/SHE_300073,Beijing Easpring Material Techgy Co Ltd (300073)
+GOOG/SHE_300074,"AVCON Information Technology Co., Ltd. (300074)"
+GOOG/SHE_300075,Beijing Egova Co Ltd (300075)
+GOOG/SHE_300076,"NB GQY Vid. &amp; Tel. Joint-Stock Co., Ltd. (300076)"
+GOOG/SHE_300077,Nationz Technologies Inc. (300077)
+GOOG/SHE_300078,Hangzhou Century Co Ltd (300078)
+GOOG/SHE_300079,"Sumavision Technologies Co., Ltd. (300079)"
+GOOG/SHE_300080,"Henan Xindaxin Materials Co., Ltd. (300080)"
+GOOG/SHE_300081,"HEBEI HENGXIN MOBILE BUSINESS CO.,LTD. (300081)"
+GOOG/SHE_300082,"Liao Ning Oxiranchem, Inc. (300082)"
+GOOG/SHE_300083,"JANUS DG Precision Components Co., Ltd. (300083)"
+GOOG/SHE_300084,"Lanzhou Haimo Technologies Co., Ltd. (300084)"
+GOOG/SHE_300085,"Shenzhen InfoTech Technologies Co.,Ltd (300085)"
+GOOG/SHE_300086,"HAINAN HONZ PHARMACEUTICAL CO.,LTD. (300086)"
+GOOG/SHE_300087,"Winall Hi-tech Seed Co.,Ltd. (300087)"
+GOOG/SHE_300088,"Wuhu Token Science Co.,LTD. (300088)"
+GOOG/SHE_300089,"The Great Wall Group Co., Ltd. Guangdong (300089)"
+GOOG/SHE_300090,"Anhui Shengyun Machinery Co., Ltd. (300090)"
+GOOG/SHE_300091,"JiangSu Jin Tong Ling Fans Co., Ltd. (300091)"
+GOOG/SHE_300092,"SC Kexin Mech. and Elec. Equip. Co.,Ltd. (300092)"
+GOOG/SHE_300093,GD GOLDEN GLASS TECHNOLOGIES LIMITED (300093)
+GOOG/SHE_300095,"Jiangxi Huawu Brake Co., Ltd. (300095)"
+GOOG/SHE_300096,"YLZ Information Technology Co., Ltd (300096)"
+GOOG/SHE_300097,"Dalian Zhiyun Automation Co., Ltd. (300097)"
+GOOG/SHE_300098,Gosuncn Technology Group Co Ltd (300098)
+GOOG/SHE_300099,Uroica Mining Safety Engineering Co Ltd (300099)
+GOOG/SHE_300100,"Ningbo Shuanglin Auto Parts Co. , Ltd (300100)"
+GOOG/SHE_300101,Chengdu Goldtel Electrncl Tchnlgy Co Ltd (300101)
+GOOG/SHE_300102,Xiamen Changelight Co Ltd (300102)
+GOOG/SHE_300103,"XI'AN DAGANG ROAD MACHINERY CO., LTD. (300103)"
+GOOG/SHE_300104,"LESHI INTERNET INFO. &amp; TECH. CORP.,BJ (300104)"
+GOOG/SHE_300105,"Yantai Longyuan Power Technology Co.,Ltd (300105)"
+GOOG/SHE_300106,Xinjiang Western Animal Husbandry Co Ltd (300106)
+GOOG/SHE_300107,"HeBei Jianxin Chemical Co., Ltd. (300107)"
+GOOG/SHE_300108,Tong Hua Shuang Long Chemical Indu CoLtd (300108)
+GOOG/SHE_300109,Boai NKY Pharmaceuticals Ltd (300109)
+GOOG/SHE_300110,Huaren Pharmaceutical Co Ltd (300110)
+GOOG/SHE_300112,Shenzhen Maxonic Automation Control Co L (300112)
+GOOG/SHE_300113,Hangzhou Shunwang Technology Co Ltd (300113)
+GOOG/SHE_300115,Shenzhen Everwin Precision Technology Co (300115)
+GOOG/SHE_300116,"Shaanxi J&amp;R Fire Protection Co., Ltd. (300116)"
+GOOG/SHE_300117,Beijing JIAYU Door Window &amp; Curtain Wall (300117)
+GOOG/SHE_300118,"Risen Energy Co.,Ltd. (300118)"
+GOOG/SHE_300119,"TIANJIN RINGPU BIO-TECHNOLOGY CO.,LTD. (300119)"
+GOOG/SHE_300120,"Tianjin Jingwei Electric Wire Co.,Ltd (300120)"
+GOOG/SHE_300121,Shandong Yanggu Huatai Chemical Co Ltd (300121)
+GOOG/SHE_300122,Chongqing Zhifei Biological Prdct Co Ltd (300122)
+GOOG/SHE_300123,Sunbird Yacht Company Limited (300123)
+GOOG/SHE_300124,"Shenzhen Inovance Technology Co., Ltd (300124)"
+GOOG/SHE_300125,Dalian East New Energy Developmnt Co Ltd (300125)
+GOOG/SHE_300126,"Shanghai Ken Tools Co.,Ltd. (300126)"
+GOOG/SHE_300127,"Chengdu Galaxy Magnets Co.,Ltd. (300127)"
+GOOG/SHE_300128,"Suzhou Jinfu New Material Co.,Ltd (300128)"
+GOOG/SHE_300129,Shanghai Taisheng Wind Power (300129)
+GOOG/SHE_300130,Shenzhen Xinguodu Technology Co Ltd (300130)
+GOOG/SHE_300131,ShenZhen Yitoa Intelligent Control CoLtd (300131)
+GOOG/SHE_300132,Fujian Green Pine Co Ltd (300132)
+GOOG/SHE_300134,Shenzhen Tat Fook Technology Co Ltd (300134)
+GOOG/SHE_300135,Jiangsu Baoli Asphalt Co Ltd (300135)
+GOOG/SHE_300136,Shenzhen Sunway Communicatin Co Ltd (300136)
+GOOG/SHE_300137,Hebei Sailhero Env Prtcn Hightech Co Ltd (300137)
+GOOG/SHE_300138,Chenguang Biotech Group Co Ltd (300138)
+GOOG/SHE_300139,Beijing Fuxing Xiaocheng Electronic (300139)
+GOOG/SHE_300140,XiAn Qiyuan Mchncl and Elctcl Eqp Co Ltd (300140)
+GOOG/SHE_300141,Suzhou Industrial Prk Hshn Elctrc Co Ltd (300141)
+GOOG/SHE_300142,Walvax Biotechnology Co Ltd (300142)
+GOOG/SHE_300143,Starway Bio-technology Co Ltd (300143)
+GOOG/SHE_300144,Hangzhou Songcheng Tour Dev Co Ltd (300144)
+GOOG/SHE_300145,Nanfang Pump Industry Co Ltd (300145)
+GOOG/SHE_300146,BY-Health Co Ltd (300146)
+GOOG/SHE_300147,Xiangxue Pharmaceutical Co Ltd (300147)
+GOOG/SHE_300148,Tangel Publishing Co Ltd (300148)
+GOOG/SHE_300149,Quantum Hi-Tech (China) Biologicl Co Ltd (300149)
+GOOG/SHE_300150,Beijing Century Real Technology Co Ltd (300150)
+GOOG/SHE_300151,SHENZHEN CHANGHONG TECHNOLOGY CoLtd (300151)
+GOOG/SHE_300152,Xuzhou Combustion Cntrl Technlgy Co Ltd (300152)
+GOOG/SHE_300153,Shanghai Cooltech Power Co Ltd (300153)
+GOOG/SHE_300154,Shenzhen Riland Industry Co Ltd (300154)
+GOOG/SHE_300155,Guangdong Anjubao Digital Techlgy Co Ltd (300155)
+GOOG/SHE_300156,Tianli Enviromental Protection Eng Co (300156)
+GOOG/SHE_300157,Landocean Energy Services Co Ltd (300157)
+GOOG/SHE_300158,Shanxi Zhendong Pharmaceutical (300158)
+GOOG/SHE_300159,Xinjiang Machinery Research Inst Co Ltd (300159)
+GOOG/SHE_300160,Jiangsu Xiuqiang Glasswork Co Ltd (300160)
+GOOG/SHE_300161,Wuhan Huazhong Numerical Control Co Ltd (300161)
+GOOG/SHE_300162,Ledman Optoelectronic Co Ltd (300162)
+GOOG/SHE_300163,Ningbo Xianfeng New Material Co Ltd (300163)
+GOOG/SHE_300164,Tong Oil Tools Co Ltd (300164)
+GOOG/SHE_300165,Jiangsu Skyray Instrument Co Ltd (300165)
+GOOG/SHE_300166,Beijing Orient Ntl Comn Sc &amp; Tch Co Ltd (300166)
+GOOG/SHE_300167,Shenzhen Dvision Video Commun Co Ltd (300167)
+GOOG/SHE_300168,Wonders Information Co Ltd (300168)
+GOOG/SHE_300169,Changzhou Tiansheng New Materials Co Ltd (300169)
+GOOG/SHE_300170,Hand Enterprise Solutions Co Ltd (300170)
+GOOG/SHE_300171,Shanghai Tofflon Science &amp; Techgy Co Ltd (300171)
+GOOG/SHE_300172,Nanjing Cec Environmental Protection Co (300172)
+GOOG/SHE_300173,Sotech Machinery Co Ltd (300173)
+GOOG/SHE_300174,Fujian Yuanli Active Carbon Co Ltd (300174)
+GOOG/SHE_300175,Lontrue Co Ltd (300175)
+GOOG/SHE_300176,Guangdong Hongteo Accurate Technology (300176)
+GOOG/SHE_300177,Guangzhou Hi Target Navigation (300177)
+GOOG/SHE_300178,Shenzhen Tempus Glbl Busi Srvc Hldg Ltd (300178)
+GOOG/SHE_300179,SF Diamond Co Ltd (300179)
+GOOG/SHE_300180,Huafon Microfibre (Shanghai) Co Ltd (300180)
+GOOG/SHE_300182,Beijing Jetsen Technology Co Ltd (300182)
+GOOG/SHE_300183,Qingdao Eastsoft Cmmnictn Tchnlgy Co Ltd (300183)
+GOOG/SHE_300184,Wuhan P&amp;S Information Technology Co Ltd (300184)
+GOOG/SHE_300185,Tongyu Heavy Industry Co Ltd (300185)
+GOOG/SHE_300186,Guangdong Dahuanong Animal Health (300186)
+GOOG/SHE_300188,Xiamen Meiya Pico Information Co Ltd (300188)
+GOOG/SHE_300189,Grand Agriseeds Technology Inc (300189)
+GOOG/SHE_300190,Jiangsu Welle Environmental Co Ltd (300190)
+GOOG/SHE_300191,Sino Geophysical Co Ltd (300191)
+GOOG/SHE_300192,Suzhou Kingswood Printing Ink Co Ltd (300192)
+GOOG/SHE_300193,Shenzhen Jasic Technology Co Ltd (300193)
+GOOG/SHE_300194,Fuan Pharmaceutical Group Co Ltd (300194)
+GOOG/SHE_300195,Masterwork Machinery Co Ltd (300195)
+GOOG/SHE_300196,Jiangsu Changhai Composite Matls Co Ltd (300196)
+GOOG/SHE_300197,Shenzhen Techand Ecology &amp; Environment (300197)
+GOOG/SHE_300198,Fujian Superpipe Co Ltd (300198)
+GOOG/SHE_300199,Hybio Pharmaceutical Co Ltd (300199)
+GOOG/SHE_300200,Beijing Comens New Materials Co Ltd (300200)
+GOOG/SHE_300201,Xuzhou Handler Special Vehicle Co Ltd (300201)
+GOOG/SHE_300202,Liaoning Julong Financial Equipment Corp (300202)
+GOOG/SHE_300203,Focused Photonics (Hangzhou) Inc (300203)
+GOOG/SHE_300204,Staidson (Beijing) Biopharmaceuticals (300204)
+GOOG/SHE_300205,Wuhan Tianyu Information Industry Co Ltd (300205)
+GOOG/SHE_300206,Edan Instruments Inc (300206)
+GOOG/SHE_300207,Sunwoda Electronic Co Ltd (300207)
+GOOG/SHE_300208,Qingdao Evercontaining Electric Co Ltd (300208)
+GOOG/SHE_300209,Tianze Information Industry Inc (300209)
+GOOG/SHE_300210,AnShan SenYuan Road &amp; Bridge Co Ltd (300210)
+GOOG/SHE_300211,Jiangsu Yitong High-tech Co Ltd (300211)
+GOOG/SHE_300212,Beijing E-Hualu Info Technology Co Ltd (300212)
+GOOG/SHE_300213,Beijing Jiaxun Feihong Electrical Co Ltd (300213)
+GOOG/SHE_300214,Shandong Rike Chemical Co Ltd (300214)
+GOOG/SHE_300215,Suzhou Electrical Aprts Sci Acdmy Co Ltd (300215)
+GOOG/SHE_300216,Hunan China Sun Pharmactcl Mchnry Co Ltd (300216)
+GOOG/SHE_300218,Anhui ANLI Artificial Leather Co Ltd (300218)
+GOOG/SHE_300219,Guangzhou Hongli Opto Electronic Co Ltd (300219)
+GOOG/SHE_300220,Wuhan Golden Laser Co Ltd (300220)
+GOOG/SHE_300221,Guangdong Silver Age Sci&amp; Tech Co Ltd (300221)
+GOOG/SHE_300222,CSG Smart Science and Technology Co Ltd (300222)
+GOOG/SHE_300223,Ingenic Semiconductor Co Ltd (300223)
+GOOG/SHE_300224,Yantai Zhenghai Magnetic Material Co Ltd (300224)
+GOOG/SHE_300225,Shanghai Kinlita Chemical Co Ltd (300225)
+GOOG/SHE_300226,Shanghai Ganglian E-Commerce Holdings (300226)
+GOOG/SHE_300227,Shenzhen Sunshine Lsr&amp; Elcts Tech Co Ltd (300227)
+GOOG/SHE_300229,Beijing TRS Information Tech Co Ltd (300229)
+GOOG/SHE_300230,Shanghai Yongli Belting Co Ltd (300230)
+GOOG/SHE_300231,Beijing Trust&amp;Far Technology Co Ltd (300231)
+GOOG/SHE_300232,Unilumin Group Co Ltd (300232)
+GOOG/SHE_300233,Shandong Jincheng Pharm and Chem Co Ltd (300233)
+GOOG/SHE_300235,Shenzhen Kingsun Science &amp; Tech Co Ltd (300235)
+GOOG/SHE_300236,Shanghai Sinyang Smcndctr Mtls Co Ltd (300236)
+GOOG/SHE_300237,Shandong Meichen Science &amp; Technology Co (300237)
+GOOG/SHE_300238,Grandhope Biotech Co Ltd (300238)
+GOOG/SHE_300239,Baotou Dongbao Bio Tech Co Ltd (300239)
+GOOG/SHE_300240,Jiangsu Feiliks International Logistics (300240)
+GOOG/SHE_300241,Shenzhen Refond Optoelectronics (300241)
+GOOG/SHE_300242,MIG Technology Inc (300242)
+GOOG/SHE_300243,Shandong Ruifeng Chemical Co Ltd (300243)
+GOOG/SHE_300245,Shanghai DragonNet Technology Co Ltd (300245)
+GOOG/SHE_300246,Guangdong Biolight Meditech Co Ltd (300246)
+GOOG/SHE_300247,Anhui Saunaking Co Ltd (300247)
+GOOG/SHE_300249,Sichuan Yimikang Envirntl Tech Co Ltd (300249)
+GOOG/SHE_300250,Hangzhou CNCR-IT Co Ltd (300250)
+GOOG/SHE_300251,Beijing Enlight Media Co Ltd (300251)
+GOOG/SHE_300252,Kingsignal Technology Co Ltd (300252)
+GOOG/SHE_300253,Shanghai Kingstar Winning Software (300253)
+GOOG/SHE_300254,Shangxi C&amp;Y Pharmaceutical Co Ltd (300254)
+GOOG/SHE_300255,Hebei Changshan Biochmcl Phrmctcl Co Ltd (300255)
+GOOG/SHE_300258,Jiangsu Pacific Precision Forging (300258)
+GOOG/SHE_300259,Suntront Technology Co Ltd (300259)
+GOOG/SHE_300260,Kunshan Kinglai Hygienic Materials Co (300260)
+GOOG/SHE_300261,ABA Chemicals Corp (300261)
+GOOG/SHE_300262,Shanghai Safbon Water Service Co Ltd (300262)
+GOOG/SHE_300263,Luoyang Lngh Ht Trsfr &amp;Ergy Csvn Co Ltd (300263)
+GOOG/SHE_300264,AVIT Ltd (300264)
+GOOG/SHE_300265,Jiangsu Tongguang Electronic Wire (300265)
+GOOG/SHE_300266,Hangzhou Xingyuan Filter Technology Co (300266)
+GOOG/SHE_300267,Hunan ER-KANG Pharmaceutical Co Ltd (300267)
+GOOG/SHE_300268,Wanfu Biotechnology (Hunan) Agricultural (300268)
+GOOG/SHE_300269,Shenzhen Liantronics Co Ltd (300269)
+GOOG/SHE_300270,OB Telecom Electronics Co Ltd (300270)
+GOOG/SHE_300271,BEIJING THUNISOFT CORP LTD (300271)
+GOOG/SHE_300272,Shanghai Canature Environmental Prod (300272)
+GOOG/SHE_300274,Sungrow Power Supply Co Ltd (300274)
+GOOG/SHE_300275,Chongqing MAS Sci &amp; Tech Co Ltd (300275)
+GOOG/SHE_300276,HuBei SanFeng Intelligent Convey (300276)
+GOOG/SHE_300277,Shenzhen Hirisun Technology Inc (300277)
+GOOG/SHE_300278,Hubei Huachangda Intelligent Equipment (300278)
+GOOG/SHE_300279,Wuxi Hodgen Technology CoLtd (300279)
+GOOG/SHE_300280,Nantong Metalforming Equipment Co Ltd (300280)
+GOOG/SHE_300281,Guangdong Jinming Machinery Co Ltd (300281)
+GOOG/SHE_300282,Beijing IRTOUCH Systems Co Ltd (300282)
+GOOG/SHE_300283,Wenzhou Hongfeng Electrical Alloy Co Ltd (300283)
+GOOG/SHE_300284,Jiangsu Transportation Institute Co Ltd (300284)
+GOOG/SHE_300285,Shandong Sinocera Functnl Mtrl Co Ltd (300285)
+GOOG/SHE_300286,Acrel Co Ltd (300286)
+GOOG/SHE_300287,Beijing Philisense Technology Co Ltd (300287)
+GOOG/SHE_300288,Longmaster Information&amp;Technology Co Ltd (300288)
+GOOG/SHE_300289,Beijing Leadman Biochemistry Co Ltd (300289)
+GOOG/SHE_300290,Bringspring Science &amp; Technology Co Ltd (300290)
+GOOG/SHE_300291,Beijing Hualu Baina Film &amp; TV Inc (300291)
+GOOG/SHE_300292,Jiangsu Wutong Communications Co Ltd (300292)
+GOOG/SHE_300293,Shenyang Blue Silver Industry AE Co Ltd (300293)
+GOOG/SHE_300294,Jiangxi Boya Bio-Pharmaceutical Co Ltd (300294)
+GOOG/SHE_300295,Everyday Network Co Ltd (300295)
+GOOG/SHE_300296,Leyard Optoelectronic Co Ltd (300296)
+GOOG/SHE_300297,Bluedon Information Security Tech Co Ltd (300297)
+GOOG/SHE_300298,Sinocare Inc (300298)
+GOOG/SHE_300299,Fuchun Communications Co Ltd (300299)
+GOOG/SHE_300300,Hakim Information Technology Co Ltd (300300)
+GOOG/SHE_300301,Shenzhen Changfang Light EDL Co Ltd (300301)
+GOOG/SHE_300302,Toyou Feiji Electronics Co Ltd (300302)
+GOOG/SHE_300303,Shenzhen Jufei Optoelectronics Co Ltd (300303)
+GOOG/SHE_300304,Jiangsu Yunyi Electric Co Ltd (300304)
+GOOG/SHE_300305,Jiangsu Yuxing Film Technology Co Ltd (300305)
+GOOG/SHE_300306,Hangzhou Everfine Photo-E-Info Co Ltd (300306)
+GOOG/SHE_300307,Ningbo Cixing Co Ltd (300307)
+GOOG/SHE_300308,Shandong Zhongji Electrical Eqpnt Co Ltd (300308)
+GOOG/SHE_300309,GI Technologies (Beijing) Co Ltd (300309)
+GOOG/SHE_300310,Guangdong Eastone Century Techlgy Co Ltd (300310)
+GOOG/SHE_300311,Surfilter Network Technology Co Ltd (300311)
+GOOG/SHE_300312,Boomsense Technology Co Ltd (300312)
+GOOG/SHE_300313,Xinjiang Tnshn Anml Hsbry Bio-eng Co Ltd (300313)
+GOOG/SHE_300314,Ningbo David Medical Device Co Ltd (300314)
+GOOG/SHE_300315,Ourpalm Co Ltd (300315)
+GOOG/SHE_300317,Shenzhen Jiawei Photovoltaic Lighting (300317)
+GOOG/SHE_300318,Beijing Bohui Innovation Tech (300318)
+GOOG/SHE_300319,Shenzhen Microgate Technology Co Ltd (300319)
+GOOG/SHE_300320,Jiangyin Haida Rubber and Plastic Co Ltd (300320)
+GOOG/SHE_300321,Shandong Tongda Island New Mtrls Co Ltd (300321)
+GOOG/SHE_300322,Huizhou Speed Wireless Technology Co Ltd (300322)
+GOOG/SHE_300323,HC SemiTek Corp (300323)
+GOOG/SHE_300324,Beijing Watertek Information Technology (300324)
+GOOG/SHE_300325,Jiangsu Dewei Advanced Materials Co Ltd (300325)
+GOOG/SHE_300326,Shanghai Kinetic Medical Co Ltd (300326)
+GOOG/SHE_300327,Sino Wealth Electronic Ltd (300327)
+GOOG/SHE_300328,Dongguan Eontec Co Ltd (300328)
+GOOG/SHE_300329,Hailun Piano Co Ltd (300329)
+GOOG/SHE_300330,Shanghai Huahong Jtng Smrt Systm Co Ltd (300330)
+GOOG/SHE_300331,SVG Optronics Co Ltd (300331)
+GOOG/SHE_300332,Top Resource Conservation Engineering (300332)
+GOOG/SHE_300333,Sinosun Technology Co Ltd (300333)
+GOOG/SHE_300334,Tianjin Motimo Membrane Technology (300334)
+GOOG/SHE_300335,Guangzhou Devotion Thermal Tech Co Ltd (300335)
+GOOG/SHE_300336,Shanghai New Culture Media Group Co Ltd (300336)
+GOOG/SHE_300337,Yinbang Clad Material Co Ltd (300337)
+GOOG/SHE_300338,Changsha Kaiyuan Instruments Co Ltd (300338)
+GOOG/SHE_300339,Jiangsu Hoperun Software Co Ltd (300339)
+GOOG/SHE_300340,Jiangmen Kanhoo Industry Co Ltd (300340)
+GOOG/SHE_300341,Motic (Xiamen) Electric Group Co Ltd (300341)
+GOOG/SHE_300342,Changshu Tianyin Electromechanical (300342)
+GOOG/SHE_300343,Lecron Energy Saving Materials Co Ltd (300343)
+GOOG/SHE_300344,Beijing Taikong Panel Industry Corp (300344)
+GOOG/SHE_300345,Honyu Wear Resistant New Matrs Co Ltd (300345)
+GOOG/SHE_300346,Jiangsu Nata Opto-electronic Materia (300346)
+GOOG/SHE_300347,Hangzhou Tigermed Consulting Co Ltd (300347)
+GOOG/SHE_300348,Shenzhen Sunline Tech Co Ltd (300348)
+GOOG/SHE_300349,Goldcard High-Tech Co Ltd (300349)
+GOOG/SHE_300350,Shenzhen Huapengfei Modern Logist (300350)
+GOOG/SHE_300352,Beijing VRV Software Corp Ltd (300352)
+GOOG/SHE_300353,Kyland Technology Co Ltd (300353)
+GOOG/SHE_300354,DongHua Testing Technology Co Ltd (300354)
+GOOG/SHE_300355,Inner Mongolia Htsn&amp;Mnsd Drgt-Rstnc Grng (300355)
+GOOG/SHE_300356,Elefirst Science and Tech Co Ltd (300356)
+GOOG/SHE_399001,SZSE COMPONENT INDEX (399001)
+GOOG/SHE_399002,SZSE COMPONENT A (399002)
+GOOG/SHE_399003,SZSE COMPONENT B (399003)
+GOOG/SHE_399004,SZSE 100 INDEX (399004)
+GOOG/SHE_399005,SZSE SME PRICE INDEX (399005)
+GOOG/SHE_399006,CHINEXT PRICE INDEX (399006)
+GOOG/SHE_399007,SZSE 300 PRICE INDEX (399007)
+GOOG/SHE_399008,SZSE SME 300 PRICE (399008)
+GOOG/SHE_399009,SZSE 200 INDEX (399009)
+GOOG/SHE_399010,SZSE 700 INDEX (399010)
+GOOG/SHE_399011,SZSE 1000 INDEX (399011)
+GOOG/SHE_399012,SZSE CHINEXT 300 (399012)
+GOOG/SHE_399100,SZSE NEW INDEX (399100)
+GOOG/SHE_399101,SZSE SME COMPOSITE (399101)
+GOOG/SHE_399102,CHINEXT COMPOSITE (399102)
+GOOG/SHE_399103,SZSE LEFU FUND INDEX (399103)
+GOOG/SHE_399106,SZSE COMPOSITE INDEX (399106)
+GOOG/SHE_399107,SZSE A SHARE INDEX (399107)
+GOOG/SHE_399108,SZSE B SHARE INDEX (399108)
+GOOG/SHE_399110,AGRICULTURE INDEX (399110)
+GOOG/SHE_399120,MINING INDEX (399120)
+GOOG/SHE_399130,MANUFACTURING INDEX (399130)
+GOOG/SHE_399131,FOOD &amp; BEVERAGE (399131)
+GOOG/SHE_399132,TEXTILES &amp; APPAREL (399132)
+GOOG/SHE_399133,TIMBER &amp; FURNISHINGS (399133)
+GOOG/SHE_399134,PAPER &amp; PRINTING (399134)
+GOOG/SHE_399135,PETROCHEMICALS INDEX (399135)
+GOOG/SHE_399136,ELECTRONICS INDEX (399136)
+GOOG/SHE_399137,METALS &amp; NON-METALS (399137)
+GOOG/SHE_399138,MACHINERY INDEX (399138)
+GOOG/SHE_399139,PHARMACEUTICALS (399139)
+GOOG/SHE_399140,UTILITIES INDEX (399140)
+GOOG/SHE_399150,CONSTRUCTION INDEX (399150)
+GOOG/SHE_399160,TRANSPORTATION INDEX (399160)
+GOOG/SHE_399170,IT INDEX (399170)
+GOOG/SHE_399180,WHOLESALE &amp; RETAIL (399180)
+GOOG/SHE_399190,FINANCIALS INDEX (399190)
+GOOG/SHE_399200,REAL ESTATE INDEX (399200)
+GOOG/SHE_399210,SOCIAL SERVICES (399210)
+GOOG/SHE_399220,MEDIA INDEX (399220)
+GOOG/SHE_399230,CONGLOMERATES INDEX (399230)
+GOOG/SHE_399231,AGRICULTURE INDEX (399231)
+GOOG/SHE_399232,MINING INDEX (399232)
+GOOG/SHE_399233,MANUFACTURING INDEX (399233)
+GOOG/SHE_399234,UTILITIES INDEX (399234)
+GOOG/SHE_399235,CONSTRUCTION INDEX (399235)
+GOOG/SHE_399236,WHOLESALE RETAIL IDX (399236)
+GOOG/SHE_399237,TRANSPORTATION INDEX (399237)
+GOOG/SHE_399238,HOTEL &amp; CATERING IDX (399238)
+GOOG/SHE_399239,IT INDEX (399239)
+GOOG/SHE_399240,FINANCE INDEX (399240)
+GOOG/SHE_399241,REAL ESTATE INDEX (399241)
+GOOG/SHE_399242,BUSINESS SERVICE IDX (399242)
+GOOG/SHE_399243,R&amp;D INDEX (399243)
+GOOG/SHE_399244,EP INDEX (399244)
+GOOG/SHE_399248,MEDIA INDEX (399248)
+GOOG/SHE_399249,CONGLOMERATES INDEX (399249)
+GOOG/SHE_399301,SZSE CREDIT BOND (399301)
+GOOG/SHE_399302,SZSE CORPORATE BOND (399302)
+GOOG/SHE_399305,SZSE MUTUAL FUND (399305)
+GOOG/SHE_399306,SZSE ETF INDEX (399306)
+GOOG/SHE_399310,CNI 40 INDEX (399310)
+GOOG/SHE_399311,CNI 1000 INDEX (399311)
+GOOG/SHE_399312,CNI 300 INDEX (399312)
+GOOG/SHE_399313,CNI 100 INDEX (399313)
+GOOG/SHE_399314,CNI LARGE CAP. INDEX (399314)
+GOOG/SHE_399315,CNI MID-CAP. INDEX (399315)
+GOOG/SHE_399316,CNI SMALL CAP. INDEX (399316)
+GOOG/SHE_399317,CNI A SHARE INDEX (399317)
+GOOG/SHE_399318,CNI B SHARE INDEX (399318)
+GOOG/SHE_399319,CNI RESOURCE INDEX (399319)
+GOOG/SHE_399320,CNI SERVICE INDEX (399320)
+GOOG/SHE_399321,CNI DIVIDEND INDEX (399321)
+GOOG/SHE_399322,CNI GOVERNANCE (399322)
+GOOG/SHE_399323,SZSE DIVIDEND INDEX (399323)
+GOOG/SHE_399324,SZSE DIVIDEND PRICE (399324)
+GOOG/SHE_399325,SZSE GROWTH 40 INDEX (399325)
+GOOG/SHE_399326,SZSE GROWTH 40 PRICE (399326)
+GOOG/SHE_399327,SZSE CORP GOVERNANCE (399327)
+GOOG/SHE_399328,SZSE CORP GOVERNANCE (399328)
+GOOG/SHE_399330,SZSE 100 PRICE INDEX (399330)
+GOOG/SHE_399331,SZSE INNOVATION (399331)
+GOOG/SHE_399332,SZSE INNOVATION (399332)
+GOOG/SHE_399333,SZSE SME RETURN (399333)
+GOOG/SHE_399334,SZSE CENTRAL SOE TRN (399334)
+GOOG/SHE_399335,SZSE CENTRAL SOE (399335)
+GOOG/SHE_399336,SZSE NON-SOE IDX (399336)
+GOOG/SHE_399337,SZSE NON-SOE PRICE (399337)
+GOOG/SHE_399338,SZSE TECH INDEX (399338)
+GOOG/SHE_399339,SZSE TECH PRICE (399339)
+GOOG/SHE_399340,SZSE CSR TRN INDEX (399340)
+GOOG/SHE_399341,SZSE CSR PRICE INDEX (399341)
+GOOG/SHE_399344,SZSE 300 INDEX (399344)
+GOOG/SHE_399345,SZSE 300 GROWTH (399345)
+GOOG/SHE_399346,SZSE300 GROWTH PRICE (399346)
+GOOG/SHE_399347,SZSE 300 VALUE (399347)
+GOOG/SHE_399348,SZSE 300 VALUE PRICE (399348)
+GOOG/SHE_399350,GUOYUAN WANJIANG 30 (399350)
+GOOG/SHE_399351,SHENZHEN PRESS INDEX (399351)
+GOOG/SHE_399352,SHENZHEN PRESS COMP. (399352)
+GOOG/SHE_399353,CNI LOGISTICS INDEX (399353)
+GOOG/SHE_399355,CNI YANGTZE INDEX (399355)
+GOOG/SHE_399356,CNI ZHUJIANG INDEX (399356)
+GOOG/SHE_399357,CNI BOHAI INDEX (399357)
+GOOG/SHE_399358,CNI TEDA EP INDEX (399358)
+GOOG/SHE_399359,CNI INFRASTRUCTURE (399359)
+GOOG/SHE_399360,CNI EQUIPMENT INDEX (399360)
+GOOG/SHE_399361,CNI COMMERCIAL CHAIN (399361)
+GOOG/SHE_399362,CNI NON-SOE INDEX (399362)
+GOOG/SHE_399363,CNI TECHNOLOGY INDEX (399363)
+GOOG/SHE_399364,CNI CICC CONSUMER (399364)
+GOOG/SHE_399365,CNI AGRICULTURE (399365)
+GOOG/SHE_399366,CNI COMMODITY (399366)
+GOOG/SHE_399367,CNI REAL ESTATE 50 (399367)
+GOOG/SHE_399368,CNI DEFENSE INDEX (399368)
+GOOG/SHE_399369,CNI CSR TRN INDEX (399369)
+GOOG/SHE_399370,CNI GROWTH INDEX (399370)
+GOOG/SHE_399371,CNI VALUE INDEX (399371)
+GOOG/SHE_399372,CNI LARGE CAP.GROWTH (399372)
+GOOG/SHE_399373,CNI LARGE CAP.VALUE (399373)
+GOOG/SHE_399374,CNI MID-CAP. GROWTH (399374)
+GOOG/SHE_399375,CNI MID-CAP. VALUE (399375)
+GOOG/SHE_399376,CNI SMALL CAP.GROWTH (399376)
+GOOG/SHE_399377,CNI SMALL CAP.VALUE (399377)
+GOOG/SHE_399378,CNI NANFANG LC 50 (399378)
+GOOG/SHE_399379,CNI FUND INDEX (399379)
+GOOG/SHE_399380,CNI ETF INDEX (399380)
+GOOG/SHE_399381,CNI 1000 ENERGY (399381)
+GOOG/SHE_399382,CNI 1000 MATERIALS (399382)
+GOOG/SHE_399383,CNI 1000 INDUSTRIALS (399383)
+GOOG/SHE_399384,CNI 1000 CONS DISC (399384)
+GOOG/SHE_399385,CNI 1000 CONS STAPLE (399385)
+GOOG/SHE_399386,CNI 1000 HEALTH CARE (399386)
+GOOG/SHE_399387,CNI 1000 FINANCIALS (399387)
+GOOG/SHE_399388,CNI 1000 IT (399388)
+GOOG/SHE_399389,CNI 1000 TELECOM (399389)
+GOOG/SHE_399390,CNI 1000 UTILITIES (399390)
+GOOG/SHE_399391,CNI INVESTMENT CLOCK (399391)
+GOOG/SHE_399392,CNI CICC EMERGING (399392)
+GOOG/SHE_399393,CNI REAL ESTATE (399393)
+GOOG/SHE_399394,CNI HEALTH CARE (399394)
+GOOG/SHE_399395,CNI NON-FERROUS (399395)
+GOOG/SHE_399396,CNI FOOD &amp; BEVERAGE (399396)
+GOOG/SHE_399397,CNI OCT CULTURE (399397)
+GOOG/SHE_399398,CNI PERFORMANCE (399398)
+GOOG/SHE_399399,CNI-CEI GDP INDEX (399399)
+GOOG/SHE_399400,CNI LARGE-MID CAP. (399400)
+GOOG/SHE_399401,CNI MID-SMALL CAP. (399401)
+GOOG/SHE_399402,CNI CYCLICAL 100 (399402)
+GOOG/SHE_399403,CNI DEFENSIVE 100 (399403)
+GOOG/SHE_399481,CNI CORPORATE BOND (399481)
+GOOG/SHE_399550,CCTV 50 INDEX (399550)
+GOOG/SHE_399551,CCTV 50 INNOVATION (399551)
+GOOG/SHE_399552,CCTV 50 GROWTH (399552)
+GOOG/SHE_399553,CCTV 50 RETURN (399553)
+GOOG/SHE_399554,CCTV 50 GOVERNANCE (399554)
+GOOG/SHE_399555,CCTV 50 CSR (399555)
+GOOG/SHE_399601,SZSE SME 300 RETURN (399601)
+GOOG/SHE_399602,SME300 GROWTH PRICE (399602)
+GOOG/SHE_399603,SME300 GROWTH TRN (399603)
+GOOG/SHE_399604,SME300 VALUE PRICE (399604)
+GOOG/SHE_399605,SME300 VALUE TRN (399605)
+GOOG/SHE_399606,CHINEXT TRN INDEX (399606)
+GOOG/SHE_399607,SME-CHINEXT TEC 100 (399607)
+GOOG/SHE_399608,SME-CHINEXT TEC 100P (399608)
+GOOG/SHE_399609,SZSE TMT50 TRN INDEX (399609)
+GOOG/SHE_399610,SZSE TMT50 PRICE IDX (399610)
+GOOG/SHE_399611,SME-CHINEXT 100 TRN (399611)
+GOOG/SHE_399612,SME-CHINEXT 100 (399612)
+GOOG/SHE_399613,SZSE ENERGY INDEX (399613)
+GOOG/SHE_399614,SZSE MATERIALS INDEX (399614)
+GOOG/SHE_399615,SZSE INDUSTRIALS (399615)
+GOOG/SHE_399616,SZSE CONS DISC (399616)
+GOOG/SHE_399617,SZSE CONS STAPLES (399617)
+GOOG/SHE_399618,SZSE HEALTH CARE (399618)
+GOOG/SHE_399619,SZSE FINANCIALS (399619)
+GOOG/SHE_399620,SZSE IT INDEX (399620)
+GOOG/SHE_399621,SZSE TELECOM INDEX (399621)
+GOOG/SHE_399622,SZSE UTILITIES INDEX (399622)
+GOOG/SHE_399623,SME PRIME MKT INDEX (399623)
+GOOG/SHE_399624,SME-CHINEXT 400 (399624)
+GOOG/SHE_399625,SME-CHINEXT 500 (399625)
+GOOG/SHE_399626,SME-CHINEXT GROWTH (399626)
+GOOG/SHE_399627,SME-CHINEXT VALUE (399627)
+GOOG/SHE_399628,SZSE 700 GROWTH (399628)
+GOOG/SHE_399629,SZSE 700 VALUE (399629)
+GOOG/SHE_399630,SZSE 1000 GROWTH (399630)
+GOOG/SHE_399631,SZSE 1000 VALUE (399631)
+GOOG/SHE_399632,SZSE 100 EW INDEX (399632)
+GOOG/SHE_399633,SZSE 300 EW INDEX (399633)
+GOOG/SHE_399634,SZSE SME EW INDEX (399634)
+GOOG/SHE_399635,CHINEXT EW INDEX (399635)
+GOOG/SHE_399636,SZSE EQUIPMENT INDEX (399636)
+GOOG/SHE_399637,SZSE REAL ESTATE (399637)
+GOOG/SHE_399638,SZSE EP INDEX (399638)
+GOOG/SHE_399639,SZSE COMMODITY PROD (399639)
+GOOG/SHE_399640,CHINEXT PRIME MARKET (399640)
+GOOG/SHE_399641,SZSE EMERGING (399641)
+GOOG/SHE_399642,SME EMERGING (399642)
+GOOG/SHE_399643,CHINEXT EMERGING (399643)
+GOOG/SHE_399644,SZSE INVESTMENT CLK (399644)
+GOOG/SHE_399645,SZ100 LOW VOLATILITY (399645)
+GOOG/SHE_399646,SZSE CONSUMER 50 (399646)
+GOOG/SHE_399647,SZSE HEALTH CARE 50 (399647)
+GOOG/SHE_399648,SZSE GDP 100 INDEX (399648)
+GOOG/SHE_399649,SME DIVIDEND INDEX (399649)
+GOOG/SHE_399650,SME CORP GOVERNANCE (399650)
+GOOG/SHE_399651,SME CSR INDEX (399651)
+GOOG/SHE_399652,SME-CHINEXT HNTE (399652)
+GOOG/SHE_399653,SZSE INDUSTRY TOP (399653)
+GOOG/SHE_399654,SZSE CULTURE INDEX (399654)
+GOOG/SHE_399655,SZSE PERFORMANCE (399655)
+GOOG/SHE_399656,100 PERFORMANCE WT (399656)
+GOOG/SHE_399657,300 PERFORMANCE WT (399657)
+GOOG/SHE_399658,SME PERFORMANCE WT (399658)
+GOOG/SHE_399659,SZSE COMPONENT EW (399659)
+GOOG/SHE_399660,SME-CHINEXT 100 EW (399660)
+GOOG/SHE_399661,SZSE 300 LV (399661)
+GOOG/SHE_399662,SZSE 300 HB (399662)
+GOOG/SHE_399663,SME 300 LV (399663)
+GOOG/SHE_399664,SME 300 HB (399664)
+GOOG/SHE_399665,SME-CHINEXT 500 LV (399665)
+GOOG/SHE_399666,SME-CHINEXT 500 HB (399666)
+GOOG/SHE_399667,CHINEXT 300 GROWTH (399667)
+GOOG/SHE_399668,CHINEXT 300 VALUE (399668)
+GOOG/SHE_399669,SZSE AGRICULTURE (399669)
+GOOG/SHE_399670,SZSE CYCLICAL 50 (399670)
+GOOG/SHE_399671,SZSE DEFENSIVE 50 (399671)
+GOOG/SHE_399701,SZFI 60 (399701)
+GOOG/SHE_399702,SZFI 120 (399702)
+GOOG/SHE_399703,SZFI 200 (399703)
+GOOG/SHE_399704,SZSE UPSTREAM (399704)
+GOOG/SHE_399705,SZSE MIDSTREAM (399705)
+GOOG/SHE_399706,SZSE DOWNSTREAM (399706)
+GOOG/SHE_399802,500 SZSE (399802)
