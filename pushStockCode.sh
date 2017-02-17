@@ -5,6 +5,8 @@ cd stockcode
 # get source file updates
 git pull
 
+# get quandl code
+Rscript  get-google-finance-codes.r && echo "hello data!"
 
 # save change
 git add --all && git commit -a -m 'better' && git push
