@@ -1,5 +1,7 @@
 #!/bin/sh
 
+cd ~/stockcode
+
 # get source file updates
 git pull
 
