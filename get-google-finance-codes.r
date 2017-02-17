@@ -28,7 +28,7 @@ cn_stock_code = filter(google_finace_codes, label == "GOOG/SHA" | label == "GOOG
 ## 这里必须用cn_stock_code[,1]，而不能用cn_stock_code$code
 ## 因为cn_stock_code[,1]的结果是dataframe,而cn_stock_code$code的结果是向量
 ## 在后面生成majorcode的操作中，codelist必须要是dataframe才能有[]运算
-codelist = cn_stock_code[,1]
+codelist = cn_stock_code[,c(1,2)]
 
 
 ## delete startup(300),B stock(200,900),index(399,000)
@@ -40,4 +40,4 @@ majorcode = rbind(majorcode,'GOOG/SHA_000001')
 ## add shenzheng index
 majorcode = rbind(majorcode,'GOOG/SHE_399001')
 
-save(majorcode,file="课程代码.csv")
+write.csv(majorcode,file="课程代码.csv",row.names = FALSE)
