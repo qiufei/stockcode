@@ -40,4 +40,4 @@ majorcode = rbind(majorcode,'GOOG/SHA_000001')
 ## add shenzheng index
 majorcode = rbind(majorcode,'GOOG/SHE_399001')
 
-write.csv(majorcode,file="课程代码.csv",row.names = FALSE)
+write.csv(majorcode,file="课程Quandl代码.csv",row.names = FALSE)
