@@ -1,6 +1,4 @@
 #!/bin/sh
-# get into operation folder
-cd stockcode
 
 # get source file updates
 git pull
